@@ -56,20 +56,20 @@ No two hard-hooks adjacent (3, 8 are isolated); longest warm run = 2 (11→12); 
 |---|---|---|---|---|---|
 | 13 | relationship | soft-hook | YES — `L-PLACE`/`L-PHX`/`L-SLIME`/`L-KETTLE` open (placement clock starts) | S&S | **YES — Fledgling Wing unlocks (Ep13); Phoenix/Slime/Kettle staggered intake** |
 | 14 | mystery | warm | YES — `L-EDDA` marker (Edda excavation deepens) | K& | — (Habitat Mending II / Ward-Mending I window opens) |
-| 15 | joke | soft-hook | YES — `L-PHX` Toad↔Phoenix synergy; Shriekmoth anti-synergy storm | S&S | Kettle settles in (Fledgling Wing puzzle advancing) |
+| 15 | joke | soft-hook | YES — `L-PHX` Toad↔Phoenix synergy; Shriekmoth anti-synergy storm | **K&** *(F2 lever: gentle-twist resolution — the calm holds on a synergy she can't yet bottle; no manufactured disaster)* | Kettle settles in (Fledgling Wing puzzle advancing) |
 | 16 | relationship | warm | YES — `L-EDDA` marker (Sorrel knew Edda); `L-LIORA` (Briarwick rescues *her*) | K& | **YES — Mending Room unlocks (Ep16); Dr. Sorrel joins; Diagnosis II** |
 | 17 | competence | soft-hook | YES — `L-KRAKEN` scalding near-miss (frenemy dial tightens) | S&S | Ward-Mending I (skill); Kettle's alcove completes |
 | 18 | mystery | hard-hook | YES — `L-SPORE` opens (sporeglow; mystery goes *live*, canon hinge) | S&S | **YES — West Wing larder unlocks (Ep18, canon); sporeglow resource** |
 | 19 | relationship | warm | YES — `L-PHX` **closes** (Phoenix steady beside Cinder's ember) | K& | — (Resonance Cooking II online; placement-readiness) |
 | 20 | joke | warm | YES — `L-SLIME` **closes**: first send-off (Slime placed well) | K& | **YES — Send-Off Porch unlocks (Ep20); `L-PLACE` first payoff** |
-| 21 | competence | soft-hook | YES — Cockatrice↔Slime synergy seeded (pebbles corral puddles); placement clock | S&S | — (pipeline proven once; new goodbye-upkeep lands) |
+| 21 | competence | soft-hook | YES — Cockatrice↔Slime synergy seeded (pebbles corral puddles); placement clock | **K&** *(F2 lever: two problems quietly solving each other — gentle twist, not a disaster beat)* | — (pipeline proven once; new goodbye-upkeep lands) |
 | 22 | number-up | hard-hook | YES — `L-ALARM` opens (Corehound alarm); `L-STAB` marker (wall sags) | S&S | **YES — Three-Temper Kennel unlocks (Ep22); Corehound; Habitat Stability +1** |
 | 23 | joke | warm | YES — `L-KRAKEN` **closes**: a perfect house-wide steep | K& | — (Brew Pool engine proven; Comfort up) |
 | 24 | mystery | **soft-hook** (arc climax) | YES — `L0` marker: Renown → Town Ally; the petition; Pike first lands with weight; a name surfaces | **S&S** | **YES — rank-up: Acting Matron (Town Ally); Soothing Song (Ep23) live** |
 
 **Arc 2 out-rhythm:** soft → warm → soft → warm → soft → hard → warm → warm → soft → hard → warm → **soft (climax)**.
 No two hard-hooks adjacent (18, 22 isolated); longest warm run = 2 (19→20, 23 broken by soft 21/24); zero three-warm sags.
-**K&/S&S:** 5 K& / 7 S&S = **42% K&** (deliberately tenser — the pipeline + petition arc). Arc climax (Ch24) = S&S ✓.
+**K&/S&S:** 7 K& / 5 S&S = **58% K&** *(F2: Ch15, Ch21 converted S&S→K& via gentle-twist resolutions)*. Arc climax (Ch24) = S&S ✓.
 **Anti-plateau:** all 12 `YES`. `L-PHX`(19)/`L-SLIME`(20)/`L-KRAKEN`(23) vent pressure on schedule. **No flags.**
 
 ---
@@ -83,7 +83,7 @@ Arc-out: WARM-WITH-ACHE (Rhea; first send-offs). Carries the extra 13th episode.
 |---|---|---|---|---|---|
 | 25 | mystery | soft-hook | YES — `L-SPORE` marker (lichen spreads; new problem); excavation clock | S&S | — (sporeglow upkeep arrives; map pressure) |
 | 26 | relationship | warm | YES — `L-FEAR` opens (town prejudice vs gentle cockatrice) | K& | **YES — Pebble Garden unlocks (Ep26); Cockatrice; Renown thread; pebble resource** |
-| 27 | competence | soft-hook | YES — Gentle Handling III; the town watches the "deadly" cockatrice | S&S | Gentle Handling III (skill) |
+| 27 | competence | soft-hook | YES — Gentle Handling III; the town watches the "deadly" cockatrice | **K&** *(F2 lever: the gentle twist is the menace failing into warm pebbles — satisfies without manufactured conflict)* | Gentle Handling III (skill) |
 | 28 | relationship | warm | YES — Cress↔Kraken / whole-cast corner; Edda voice-drift warmest yet | K& | **YES — The Lull unlocks (Ep28, Arc-3 summit); peer-comfort buff; Comfort +2** |
 | 29 | competence | soft-hook | YES — Public Handling; you are now a public figure of a hated trade | S&S | Public Handling (skill); `L-FEAR` public-handling marker |
 | 30 | mystery | hard-hook | YES — `L-SPORE` **closes** → `L-EAST` opens (East Wing opened, canon) | S&S | **YES — East Wing opens (Ep30); habitat map completes; feeds `L-EDDA`** |
@@ -92,12 +92,12 @@ Arc-out: WARM-WITH-ACHE (Rhea; first send-offs). Carries the extra 13th episode.
 | 33 | joke | warm | YES — `L-PLACE` second send-off marker; `L-CINDER` match *seeded* (parting deferred) | K& | second placement run; Cinder's forge-patron appears |
 | 34 | mystery | hard-hook | YES — `L-HEIR` marker; Rhea revealed (Corehound flags scent + Slime-cleaned plaque) | S&S | Advocacy (skill); `L-ALARM` false-alarm gag seeds the real one |
 | 35 | relationship | warm | YES — Rhea-as-family lands (orphan-warmth); the Lull as refuge; voice-drift | K& | — (Liability↔Belonging meta-clock ticks toward "stay") |
-| 36 | competence | soft-hook | YES — `L0` marker: mystery + town turned; the engineered fear-economy named | S&S | — (Advocacy proves the System's case; Control argues harder) |
+| 36 | competence | soft-hook | YES — `L0` marker: mystery + town turned; the engineered fear-economy named | **K&** *(F2 lever: the documents themselves turn the beat — a revelation-twist, not a staged disaster; climax pt.1 of two, pt.2 @37 stays S&S)* | — (Advocacy proves the System's case; Control argues harder) |
 | 37 | mystery | **warm-with-ache** (arc climax) | YES — `L-STAB` stress-test; Rhea's erasure understood; family one organism; Pike moves | **S&S** | — (no new room by design; the answer becomes the bigger Arc-4 threat) |
 
 **Arc 3 out-rhythm:** soft → warm → soft → warm → soft → hard → soft → warm → warm → hard → warm → soft → **warm-ache (climax)**.
 No two hard-hooks adjacent (30, 34 isolated); longest warm run = 2 (32→33); zero three-warm sags.
-**K&/S&S:** 6 K& / 7 S&S = **46% K&** (lore/excavation arc runs warmer-tense; the Lull + Rhea-warmth hold the cozy floor). Arc climax (Ch37) = S&S ✓.
+**K&/S&S:** 8 K& / 5 S&S = **62% K&** *(F2: Ch27, Ch36 converted S&S→K& via gentle-twist resolutions; the Lull + Rhea-warmth hold the cozy floor)*. Arc climax (Ch37) = S&S ✓; Ch36 (climax pt.1) now K&, Ch37 (climax pt.2) stays S&S.
 **Anti-plateau:** all 13 `YES`. The genre sag-zone is the engineered peak (axis changes to Lore). `L-SPORE` closes Ch30 to hold density ≤5. **No flags.**
 
 ---
@@ -110,21 +110,21 @@ Arc-out: WARM-CLIMAX-THEN-ONE-DOOR. No new rooms (CANON) — everything earned i
 | Ch | Cookie type | Out (hook/warm) | Live clock active | Micro-structure | Upgrade beat? |
 |---|---|---|---|---|---|
 | 38 | mystery | hard-hook | YES — `L-INSPECT` opens (seizure-by-bureaucracy clock starts); `L-LIORA` chooses to stay | S&S | — (the apparatus moves; the defense begins) |
-| 39 | competence | soft-hook | YES — `L-INSPECT` Quill wavers; `L-ALARM` alarm during seizure | S&S | — (Corehound alarm redeployed as capability) |
+| 39 | relationship | soft-hook | YES — `L-INSPECT` Quill wavers; `L-ALARM` alarm during seizure (cookie = relationship per seam-fix; micro = K&) | **K&** *(F2 lever: Liora pours tea and lets a calm morning run itself — the gentle twist is Quill leaving the file open; no manufactured conflict)* | — (Corehound alarm redeployed as capability) |
 | 40 | mystery | warm | YES — `L-EAST` occupant understood (the terminal *is* Edda); voice-drift near-break | K& | — (lore-as-weapon-of-care assembles) |
 | 41 | relationship | warm | YES — `L-PLACE` **closes** / `L-KETTLE` **closes**: last foster placed (Kettle chimes, not screams) | K& | — (pipeline proven in full; hardest send-off paid) |
-| 42 | competence | hard-hook | YES — `L-INSPECT` petition marker; the audit targets the Matron title | S&S | — (town mobilizes; Advocacy deployed) |
+| 42 | competence | hard-hook | YES — `L-INSPECT` petition marker; the audit targets the Matron title | **K&** *(F2 lever: the town's signatures arrive before she's finished asking — the warm twist resolves the ask; live seizure clock kept via hard-hook out)* | — (town mobilizes; Advocacy deployed) |
 | 43 | relationship | warm | YES — `L-FEAR` **closes**: town turns Ally; pebbles gifted; Cockatrice = exhibit A | K& | — (Renown climbs toward Regional; town stands) |
 | 44 | competence | soft-hook | YES — `L-STAB` **closes** / `L-ALARM` **closes**: Bertram holds the keystone; alarm saves the beat | S&S | — (the keystone reveal; everything earned holds) |
 | 45 | number-up | hard-hook (arc/book pre-climax) | YES — `L-INSPECT` **closes**: seizure survived by care + cleverness | **S&S** | **YES — Compliance/Renown surge; the seizure broken** |
-| 46 | mystery | warm | YES — `L-EAST` **closes**: Edda's terminal resolved; "Mm." recontextualized; feeds `L0` | K& | — (the meeting; Edda met as the dead can be met) |
+| 46 | relationship | warm | YES — `L-EAST` **closes**: Edda's terminal resolved; "Mm." recontextualized; feeds `L0` (re-typed from `mystery` per F1 — the meeting-Edda beat is a relationship close) | K& | — (the meeting; Edda met as the dead can be met) |
 | 47 | mystery | soft-hook | YES — `L-EDDA` **closes** / `L-HEIR` **closes**: Edda authored it dying; defector-heir; `L-SERIES` named | S&S | — (the will names an heir; the keystone secret pays) |
 | 48 | relationship | warm | YES — `L-LIORA` **closes**: Matron, earned by defending home | K& | **YES — rank-up: Matron (the seizure survived)** |
 | 49 | competence | **warm-climax-then-door** | YES — `L0` **closes**: Briarwick endures, official (Regional); then Pike files custodian-transfer (`L-SERIES` ajar) | **S&S** | **YES — Renown → Regional; the home recognized as real** |
 
 **Arc 4 out-rhythm:** hard → soft → warm → warm → hard → warm → soft → hard → warm → soft → warm → **warm-then-door (climax)**.
 No two hard-hooks adjacent (38, 42, 45 isolated); longest warm run = 2 (40→41, 43, 46 broken by soft); zero three-warm sags.
-**K&/S&S:** 5 K& / 7 S&S = **42% K&** (the finale arc is the tightening knot — tension-weighted by design; warmth carried by the closes themselves). Arc climax (Ch49) = S&S, plus Ch45 seizure-climax = S&S ✓.
+**K&/S&S:** 7 K& / 5 S&S = **58% K&** *(F2: Ch39, Ch42 converted S&S→K& via gentle-twist resolutions; warmth also carried by the closes themselves)*. Arc climax (Ch49) = S&S, plus Ch45 seizure-climax = S&S ✓.
 **Anti-plateau:** all 12 `YES`. Loops *close* 5→1 (the finale's tightening); the grief-clock runs hottest here. **No flags.**
 
 ---
@@ -162,8 +162,10 @@ mystery→mystery? **no** — Ch24 = mystery, Ch25 = mystery would clash, so Ch2
 >   (Quill wavers = a relationship beat with the persuadable inspector). Re-verified:
 >   38 `competence` → 39 `relationship` → 40 `mystery` ✓.
 
-**Cookie distribution (after seam corrections):** mystery 13 · relationship 13 · competence 12 ·
+**Cookie distribution (after seam corrections + F1):** mystery 12 · relationship 14 · competence 12 ·
 joke 4 · number-up 7 = 49. All 48 adjacencies distinct. **PASS.**
+*(F1: Ch46 re-typed `mystery`→`relationship` to clear the Ep46/47 mystery-mystery adjacency. New
+finale run: 45 number-up → 46 relationship → 47 mystery → 48 relationship → 49 competence — distinct.)*
 
 > *(The three corrected cells are reflected here, not silently in the arc tables above —
 > Ch25 → competence, Ch38 → competence, Ch39 → relationship. A downstream pass should fold
@@ -174,26 +176,28 @@ joke 4 · number-up 7 = 49. All 48 adjacencies distinct. **PASS.**
 | Arc | K& | S&S | % K& |
 |---|---|---|---|
 | Arc 1 (1–12) | 7 | 5 | 58% |
-| Arc 2 (13–24) | 5 | 7 | 42% |
-| Arc 3 (25–37) | 6 | 7 | 46% |
-| Arc 4 (38–49) | 5 | 7 | 42% |
-| **Book total** | **23** | **26** | **47% K&** |
+| Arc 2 (13–24) | 7 | 5 | 58% |
+| Arc 3 (25–37) | 8 | 5 | 62% |
+| Arc 4 (38–49) | 7 | 5 | 58% |
+| **Book total** | **29** | **20** | **59% K&** |
 
-**Note on the ratio target.** The brief targets ~60% K& / 40% S&S. The schedule lands at
-**47% K& / 53% S&S** book-wide. This is a deliberate, flagged deviation: Arcs 2–4 each run a
-live clock (placement pipeline, excavation, seizure) that wants Scene&Sequel scaffolding, and
-every arc climax is mandatorily S&S. Arc 1 hits the 60/40 cozy-dominant target cleanly; the
-later arcs tilt tense *in micro-structure* while the **out-types stay warm-dominant** (warm is
-the most common out in 3 of 4 arcs) and every chapter keeps its cozy floor (G1). Cozy dominance
-is held at the *ending* and *cookie* layers; momentum is held at the *micro-structure* layer.
+**Note on the ratio target (F2 — LEVER NOW APPLIED).** The brief targets ~60% K& / 40% S&S.
+The schedule now lands at **59% K& / 41% S&S** book-wide, hitting the cozy-dominant target.
+This was reached by applying the conversion lever below: six non-climax, non-loop-open S&S
+beats were re-rendered as Kishōtenketsu (gentle-twist resolution) rather than Scene&Sequel
+(manufactured disaster). All five arc-climax chapters (12, 24, 37, 45, 49) remain S&S, every
+arc still runs its live clock (kept at the cookie + out-type layers — see anti-plateau audit),
+and every chapter keeps its cozy floor (G1).
 
-> **TUNING LEVER (for the Weaver, if strict 60% K& is required):** convert these six S&S
-> chapters to K& — Ch15, Ch21, Ch27, Ch36, Ch39, Ch42 — each is a non-climax, non-loop-open
-> beat that can satisfy via gentle twist (Kishōtenketsu) rather than disaster: e.g. Ch27 (the
-> town *watches* the cockatrice → the gentle twist is the menace failing into warm pebbles, no
-> manufactured conflict needed). Doing so yields 29 K& / 20 S&S = **59% K&** while keeping all
-> five arc-climax chapters (12, 24, 37, 45, 49) as S&S. Left as a lever, not applied, because
-> the live-clock arcs read truer with S&S scaffolding under the warm enders.
+> **TUNING LEVER (APPLIED per F2):** converted these six S&S chapters to K& — **Ch15, Ch21,
+> Ch27, Ch36, Ch39, Ch42** — each a non-climax, non-loop-open beat that satisfies via gentle
+> twist (Kishōtenketsu) rather than disaster: e.g. Ch27 (the town *watches* the cockatrice →
+> the gentle twist is the menace failing into warm pebbles, no manufactured conflict needed).
+> Yields **29 K& / 20 S&S = 59% K&** while keeping all five arc-climax chapters (12, 24, 37,
+> 45, 49) S&S. **Anti-plateau preserved:** each converted chapter still carries a live clock or
+> deepening mystery in its out/cookie (Ch15 `L-PHX` synergy + soft-hook; Ch21 placement clock;
+> Ch27 renown clock; Ch36 `L0`/engineered-fear mystery; Ch39 `L-INSPECT` seizure clock; Ch42
+> petition hard-hook with the seizure clock live).
 
 ### Upgrade-beat cadence (sanctuary/progression)
 
@@ -222,8 +226,8 @@ chamber. **No run of 2+ chapters with neither. Zero anti-plateau flags.**
 
 1. **Cookie seams** — three boundary cells corrected (Ch25→competence, Ch38→competence,
    Ch39→relationship) to keep adjacent cookies distinct across arc seams. Fold into arc tables.
-2. **K&/S&S ratio** — book lands 47% K& vs the ~60% target; deliberate (live-clock arcs).
-   A one-move tuning lever (six S&S→K& conversions) is specified to reach 59% if required.
+2. **K&/S&S ratio** — RESOLVED per F2: the six-conversion lever (Ch15/21/27/36/39/42 S&S→K&)
+   is now applied; book lands **59% K&**, on the ~60% target. Anti-plateau preserved.
 3. **Upgrade cadence** is front-loaded (Arc 1) and intentionally empty of *rooms* in Arc 4
    per CANON; not a defect — the finale spends, it does not acquire.
 

@@ -161,6 +161,10 @@ Custodian I (lands Ep10). *(Idle-tick: voice-drift warmer.)*
 **Ep 7 — "Everything That's Hurt"** *(K&)* — Diagnosis I online; Liora can now *see* every
 untreated hurt — the gift is the cost.
 🍪 relationship 🪝 soft-hook 🧵 advances [L-LIORA].
+🛁 **ASMR/sensory beat (F2-b · dedicated low-plot):** a long quiet round of the evening tending —
+the warm-cloth wipe-down, the sound of small breathing evening out, the moonwell's slow drip
+keeping time. Foreground is texture, not plot; the ache-clock (Diagnosis "see every hurt") stays
+live underneath so anti-plateau holds. *(Not a room-unlock episode.)*
 *State:* Hearthglow 5→6 · Comfort holds 3 · Diagnosis I unlocks.
 *(Idle-tick: Cress 30→36%, Cinder 20→26%.)*
 
@@ -214,8 +218,9 @@ creatures' kinds by name; the INWARD chamber cracks.
 🍪 mystery 🪝 warm 🧵 advances [L-EDDA, L-PLACE].
 *State:* Habitat Mending II window (@14) · Phoenix 24→30% · Comfort holds 4 · voice-drift.
 
-**Ep 15 — "The Feedback Loop"** *(S&S)* — Anti-synergy storm; Liora seats the Phoenix beside
-Cinder's ember; calm holds on a synergy she can't yet bottle.
+**Ep 15 — "The Feedback Loop"** *(K& · F2-converted)* — Anti-synergy storm settles into a quiet
+turn; Liora seats the Phoenix beside Cinder's ember; calm holds on a synergy she can't yet bottle
+(gentle twist, no manufactured disaster — `L-PHX` clock stays live in the soft-hook out).
 🍪 joke (Slime↔Gargoyle gag: Bertram blinks into a fresh puddle; "Mm.") 🪝 soft-hook 🧵 advances [L-PHX].
 *State:* Phoenix 30→48% · Cinder 44→50% · Phoenix declines its old cold nest.
 
@@ -249,8 +254,10 @@ the house — and it still hurts to give away.
 *State:* Send-Off Porch unlocks · **rank-up Custodian III** · Slime ~58% at send-off (closed) ·
 Renown Neutral(climbing) · every match is now a goodbye you must survive.
 
-**Ep 21 — "Two Problems Solving Each Other"** *(S&S)* — Goodbye-upkeep bites; Liora seeds the
-Cockatrice-pebble fix for the Slime's leftover puddles. The pipeline holds; each goodbye costs more.
+**Ep 21 — "Two Problems Solving Each Other"** *(K& · F2-converted)* — Goodbye-upkeep bites, then
+eases as two problems quietly solve each other; Liora seeds the Cockatrice-pebble fix for the
+Slime's leftover puddles. The pipeline holds; each goodbye costs more (gentle twist; placement
+clock stays live in the soft-hook out).
 🍪 competence 🪝 soft-hook 🧵 advances [L-PLACE].
 *State:* Hab 42→45% · Kettle 20→30% · Comfort holds 5.
 
@@ -296,8 +303,10 @@ stones) and drops warm path-pebbles.
 🍪 relationship (Cockatrice↔Gargoyle synergy fires) 🪝 warm 🧵 opens [L-FEAR].
 *State:* Pebble Garden unlocks · Cockatrice seeded · pebble + Renown threads live · Bestiary +1.
 
-**Ep 27 — "Handling in Public"** *(S&S)* — Liora handles the "deadly" cockatrice where the town can
-watch (Gentle Handling III); no fumble, only pebbles — but the crowd's fear is louder than the result.
+**Ep 27 — "Handling in Public"** *(K& · F2-converted)* — Liora handles the "deadly" cockatrice where
+the town can watch (Gentle Handling III); the gentle twist is the menace failing into warm pebbles —
+no fumble, no manufactured conflict — but the crowd's fear is louder than the result (renown clock
+stays live in the soft-hook out).
 🍪 competence 🪝 soft-hook 🧵 advances [L-FEAR].
 *State:* Gentle Handling III (@27, public-fumble upkeep) · Renown clock live · Cockatrice tick.
 
@@ -356,9 +365,10 @@ a faint imprinted scene of someone tending it the way she does. Orphan-warmth re
 🍪 relationship 🪝 warm 🧵 advances [L-LIORA (meta-clock toward "stay")].
 *State:* Cress tick · Comfort holds 7 · Hearthglow rebuild toward 12.
 
-**Ep 36 — "The Engineered Fear"** *(S&S · ARC CLIMAX pt.1)* — Liora deploys Advocacy with the Archive
-in hand; the documents show the fear-economy was *engineered* — care outlawed to protect the
-cull-contracts. The mystery and the town turn on the same beat.
+**Ep 36 — "The Engineered Fear"** *(K& · ARC CLIMAX pt.1 · F2-converted)* — Liora deploys Advocacy
+with the Archive in hand; the documents themselves turn the beat — a revelation-twist — showing the
+fear-economy was *engineered*, care outlawed to protect the cull-contracts. The mystery and the town
+turn on the same beat (the `L0` mystery clock stays live; climax pt.2 @Ep37 stays S&S).
 🍪 competence 🪝 soft-hook 🧵 advances [L0, L-FEAR].
 *State:* Compliance tick (capped — Control sharpens audit) · Renown → **Regional-pending** ·
 Hearthglow near rebuilt.
@@ -387,9 +397,10 @@ loophole, signs nothing, posts it, and tells the house they are staying.
 🍪 competence *(reassigned from mystery per CADENCE seam-audit, 37→38)* 🪝 hard-hook 🧵 opens [L-INSPECT].
 *State:* Compliance 66% holds · Hearthglow 12 · L-LIORA ticks (chooses to stay) · Town Ally(high).
 
-**Ep 39 — "Quill, Wavering"** *(S&S)* — Quill arrives to execute the seizure; the Corehound's alarm-head
-fires at the *order*, not at her. Liora pours tea and lets a calm morning run itself; Quill leaves the
-file open.
+**Ep 39 — "Quill, Wavering"** *(K& · F2-converted)* — Quill arrives to execute the seizure; the
+Corehound's alarm-head fires at the *order*, not at her. Liora pours tea and lets a calm morning run
+itself; the gentle twist is Quill leaving the file open (no manufactured conflict; `L-INSPECT` seizure
+clock stays live in the soft-hook out).
 🍪 relationship *(reassigned from competence per CADENCE seam-audit, 38→39: Quill, the persuadable
 inspector, wavers)* 🪝 soft-hook 🧵 advances [L-INSPECT, L-ALARM].
 *State:* L-ALARM redeployed (warns, does not fight — Ledger flag honored) · Corehound toward 80 ·
@@ -408,9 +419,10 @@ a chime. The pipeline is proven in full.
 *State:* Kettle PLACED (~75% at send-off) · Comfort holds 7 · pipeline closes on-page (no dangle) ·
 Hearthglow 11.
 
-**Ep 42 — "The Petition"** *(S&S)* — The seizure escalates to attack the *Acting Matron* title itself;
-Liora deploys Advocacy in the open; Control argues back harder; the town's signatures arrive before
-she's finished asking.
+**Ep 42 — "The Petition"** *(K& · F2-converted)* — The seizure escalates to attack the *Acting Matron*
+title itself; Liora deploys Advocacy in the open; Control argues back harder — then the warm twist: the
+town's signatures arrive before she's finished asking. (Gentle-twist resolution; the live seizure clock
+is held in the hard-hook out, not in manufactured scene-conflict.)
 🍪 competence 🪝 hard-hook 🧵 advances [L-INSPECT].
 *State:* Compliance pressured but held by petition · Hearthglow 11→9 · Renown toward Regional ·
 Advocacy@34 used (legal, margin).
@@ -438,8 +450,9 @@ Hab 88% · heat ≤4, no violence.
 
 **Ep 46 — "Met As the Dead Can Be Met"** *(K&)* — In the quiet, Liora finishes the custodianship Edda's
 death interrupted — by *tending*, not powering. The voice resolves: deadpan flattened by years, Edda's
-opinions under it. "Mm." understood: Bertram kept her post for a generation.
-🍪 mystery + heart 🪝 warm 🧵 closes [L-EAST]; feeds [L0].
+opinions under it. "Mm." understood: Bertram kept her post for a generation. The meeting *is* a
+relationship beat — Liora and the dead carer, met across the System; the mystery still deepens under it.
+🍪 relationship *(re-typed from `mystery` per F1/R1 — the meeting-Edda / "Mm."-decoded beat is a relationship close; mystery still deepens beneath)* 🪝 warm 🧵 closes [L-EAST]; feeds [L0].
 *State:* Bertram firms 86 · voice-drift resolves warm · Hearthglow 3 · Comfort 7→8.
 
 **Ep 47 — "Edda, and Why It Woke for Her"** *(S&S)* — Edda wrote a counter-bureaucracy as she died; the
@@ -448,9 +461,9 @@ Rhea's erasure hid the inheritance.
 🍪 mystery resolved 🪝 soft-hook (`L-SERIES` named) 🧵 closes [L-EDDA, L-HEIR]; names [L-SERIES].
 *State:* lore axis caps · mystery-cost banked (full care-standard) · Hearthglow 3 · Compliance
 Recognized-pending.
-> *(Seam Report flag 4-residual: Ep46 and Ep47 both carry a `mystery`-family cookie and are adjacent —
-> a G4 type-repeat the arc-4 generator hand-waved as "non-adjacent." Surfaced for the reviser; one of
-> the two should be re-typed — see Seam Report.)*
+> *(Seam Report flag 4-residual — RESOLVED by F1: Ep46 re-typed `mystery` → `relationship`; Ep45
+> number-up → Ep46 relationship → Ep47 mystery-resolved are now all distinct. Cookie finale is 48/48
+> distinct across the whole 49.)*
 
 **Ep 48 — "Matron"** *(K&)* — No ceremony, only the System logging what the house already settled. Liora
 accepts the word *Matron* without deflecting — the only thing ever really in question. The cost arrives
