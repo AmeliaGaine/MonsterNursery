@@ -125,6 +125,7 @@ Trainee · Stranger · Cress 19%.*
 custodianship charter, takes the green key, stabilizes Cress at the moonwell; the System
 activates and greets her as if *expecting* her.
 🍪 mystery 🪝 soft-hook 🧵 opens [L-SERIES, L0, L-EDDA, L-LIORA, L-TRUST].
+📖 **Bestiary +1 (F4):** *Lunar Mooncalf* (Cress) — the first creature logged; the collection opens.
 *State:* Comfort 0→1 · Hab 2→12% · Compliance 11→13% · Hearthglow 0→4 · Cress 0→19% ·
 Moonwell unlocks · Gentle Handling I.
 
@@ -132,6 +133,7 @@ Moonwell unlocks · Gentle Handling I.
 improvises containment; Cress drifts in and calms the hatchling (first peer-comfort).
 *(Renders C2; Cinder's **intake** here — canon prose; see Seam Report flag 1.)*
 🍪 relationship 🪝 warm 🧵 advances [L-TRUST].
+📖 **Bestiary +1 (F4):** *Ember-Toad* logged on intake — first hatchling entry.
 *State:* Comfort 1→2 · Cress 19→20% · Cinder (intake) 0→9%.
 
 **Ep 3 — "Why Her?"** *(S&S)* — Cress refuses feeding from any hands but Liora's; the System's
@@ -177,6 +179,7 @@ Habitat-Stability mechanic formalizes. Won back by belonging. First lesson: gain
 **Ep 9 — "The Brew Pool"** *(K&)* — Tea Kraken steeping; mood-teas; the Toad↔Kraken frenemy dial
 armed by a biscuit-thieving tentacle.
 🍪 joke 🪝 warm 🧵 opens [L-KRAKEN].
+📖 **Bestiary +1 (F4):** *Tea Kraken* logged — first hospitality-creature entry.
 *State:* Comfort holds 3 · Kraken (arrives) 0→18% · Hearthglow 7→8 · Brew Pool unlocks ·
 Resonance Cooking I. *(Idle-tick: voice-drift.)*
 
@@ -211,6 +214,8 @@ Custodian I→**Custodian II** · Bertram 40→**48%** · Renown **low-Neutral**
 **Ep 13 — "Three Doors, One Room"** *(S&S)* — Fledgling Wing opens; three fosters arrive into one
 room with three incompatible needs. The placement clock starts.
 🍪 relationship 🪝 soft-hook 🧵 opens [L-PLACE, L-PHX, L-SLIME, L-KETTLE].
+📖 **Bestiary +3 (F4):** *Pocket Phoenix · Puddle Slime · Shriekmoth (Kettle)* logged together — the
+foster-intake triple-hit (a visible collection burst).
 *State:* Boarding +3 · Hab 34→36% · Phoenix —→24% · Slime —→22% · Kettle —→20%.
 
 **Ep 14 — "Origins on File"** *(K&)* — Cataloguing reveals intake forms in a hand that knew these
@@ -264,14 +269,18 @@ clock stays live in the soft-hook out).
 **Ep 22 — "Three Heads, One Alarm"** *(S&S)* — Three-Temper Kennel opens; Corehound arrives; the
 alarm arms — while a wall sags (Bertram sulked). Both problems worked at once.
 🍪 number-up 🪝 hard-hook 🧵 opens [L-ALARM] / advances [L-STAB].
+📖 **Bestiary +1 (F4):** *Corehound (3 heads)* logged — and the entry notes "1 of 3 tempers catalogued."
 *State:* Kennel unlocks · Corehound —→45% · Hab 45→**47%** (Kennel +1, offset by sulk) ·
-Bertram 48→53%. *(See Seam Report flag A: arc tally lands 47, declared exit 48.)*
+Bertram 48→53%. *(F3/R2 reconciled downstream: Ep23 idle-tick +1 carries Hab 47→48 to match the
+declared Arc-2 exit.)*
 
 **Ep 23 — "The Perfect Steep"** *(K&)* — The whole-house tea lands; Soothing Song comes online
 (held gently, not used). The System's deadpan softens a clear degree over the cup.
 🍪 joke (a tentacle steals the Corehound's biscuit; the food-head is outraged) 🪝 warm 🧵
 closes [L-KRAKEN] / advances [L-EDDA].
 *State:* Soothing Song (@23, gates only at real trust) · Kraken 40→55% · Comfort holds 5.
+*(Idle-tick (F3/R2): Hab 47→48% — the settled house reconciles the Arc-2 internal tally to the
+declared exit 48%.)*
 
 **Ep 24 — "The Send-Off and the Petition"** *(S&S · ARC CLIMAX)* — The town files a petition;
 Renown → Town Ally; being loved locally trips an audit. **Pike lands with weight**; a name
@@ -301,7 +310,8 @@ stores; Liora contains it cleanly — and the brightest growth traces a painted-
 town calls it deadly. The Pebble Garden is laid; its death-glare lands on Bertram (two unbothered
 stones) and drops warm path-pebbles.
 🍪 relationship (Cockatrice↔Gargoyle synergy fires) 🪝 warm 🧵 opens [L-FEAR].
-*State:* Pebble Garden unlocks · Cockatrice seeded · pebble + Renown threads live · Bestiary +1.
+*State:* Pebble Garden unlocks · Cockatrice seeded · pebble + Renown threads live · **Bestiary +1**
+(*Cockatrice Chick* logged — the thesis-creature entry; part of the F4 collection drip).
 
 **Ep 27 — "Handling in Public"** *(K& · F2-converted)* — Liora handles the "deadly" cockatrice where
 the town can watch (Gentle Handling III); the gentle twist is the menace failing into warm pebbles —
@@ -337,14 +347,19 @@ out (name banked).
 🍪 competence *(reassigned from mystery — resolves the 30→31 mystery/mystery clash; see Seam Report
 flag 4; the mystery still deepens, the cookie type is the room rebuilt by hand)* 🪝 soft-hook 🧵
 advances [L-EAST, L-EDDA, L-SERIES].
+📖 **Archive Codex +1 (F4):** restoring the Archive unlocks the *collectible lore-codex* — the first
+"Custodian's Record" entries fill in (a visible collection layer for the lore reader, parallel to the
+Bestiary).
 *State:* Archive skill + room (@31; what's learned can't be unlearned; higher care-standard upkeep) ·
 Compliance tick · Hearthglow rebuild tick.
 
 **Ep 32 — "Security Duet"** *(K&)* — Corehound's alarm-head and Kettle's shriek learn to take turns;
-the security pair clicks; the cast settles as one organism.
-🍪 relationship 🪝 warm 🧵 advances [mastery/synergy tick].
+the security pair clicks; the cast settles as one organism. **In the foreground a live clock ticks:**
+Liora reads the night's Hearthglow ledger — the post-Lull rebuild is climbing back toward the 12 she
+must bank before Arc 4, and the System logs the gain out loud ("Reserve recovering. +1.").
+🍪 relationship 🪝 warm 🧵 advances [mastery/synergy tick]; **foreground Hearthglow-rebuild clock (F5)**.
 *State:* Corehound↔Shriekmoth duet capability live · Kettle tick (shriek→chime turning) ·
-Corehound tick · Comfort holds 7.
+Corehound tick · Comfort holds 7 · **Hearthglow rebuild +1 (foreground tick toward the banked 12 — F5)**.
 
 **Ep 33 — "Acting Matron"** *(K&)* — A second placement run; a forge-patron warms to Cinder; the match
 is *seeded*. With Town Ally + Archive opened, Liora is named **Acting Matron** mid-pour. Cinder's
@@ -358,11 +373,17 @@ Renown holds high Town Ally.
 one Corehound head flags the scent as *family*: **Aunt Rhea**, the aunt nobody talked about. A wound,
 not a trophy.
 🍪 mystery 🪝 hard-hook 🧵 advances [L-HEIR; L-ALARM false-alarm gag seeds the real one].
+📖 **Archive Codex +1 (F4):** *"Previous Custodian — Rhea"* entry fills in (the codex's most charged
+collectible; the collection layer paying into the mystery).
 *State:* Advocacy (@34; Control argues back harder) · Corehound tick · Kettle tick · lore axis steps.
 
 **Ep 35 — "The Aunt Nobody Talked About"** *(K&)* — Liora absorbs Rhea-as-family; the Moonwell re-shows
 a faint imprinted scene of someone tending it the way she does. Orphan-warmth rendered dry.
 🍪 relationship 🪝 warm 🧵 advances [L-LIORA (meta-clock toward "stay")].
+🛁 **ASMR/sensory beat (F2-b · dedicated low-plot):** rendered as the Moonwell's surface settling
+to glass, the imprinted scene surfacing like silt, the whole house breathing in the dark — a slow
+sensory soak between the Rhea reveal and the climax. The L-LIORA "stay" meta-clock keeps deepening
+under it, so it is low-plot, not no-clock. *(Not a room-unlock episode.)*
 *State:* Cress tick · Comfort holds 7 · Hearthglow rebuild toward 12.
 
 **Ep 36 — "The Engineered Fear"** *(K& · ARC CLIMAX pt.1 · F2-converted)* — Liora deploys Advocacy
@@ -409,6 +430,10 @@ Hearthglow 12→11.
 **Ep 40 — "What the Glow Is"** *(K&)* — Liora follows Kettle's shrieks to the terminal and reads what
 the sporeglow spelled: the voice is a person, preserved. The deadpan nearly breaks when she says *Edda*.
 🍪 mystery 🪝 warm 🧵 advances [L-EAST, L-EDDA].
+🛁 **ASMR/sensory beat (F2-b · dedicated low-plot):** the sporeglow read by hand in the dark — the
+soft phosphor light, the hum behind the panel felt in the floor, the terminal's slow warming as the
+voice softens toward a near-break. Sensory-immersive between two plot beats; the `L-EDDA`/`L-EAST`
+mystery is the live clock under it. *(Not a room-unlock episode.)*
 *State:* lore-as-weapon-of-care assembles · Bertram climbing (70→) · voice-drift near-break ·
 Hearthglow 11 (comprehension is free).
 
@@ -501,11 +526,11 @@ reviser.*
   Town Ally(high)/Regional-pending · all 7 bonds. **MATCH ✓**
 - Hearthglow chains 4→9→7→12→3 (the Arc-2 bite at Ep18 and the Arc-4 spend-to-floor both honored).
   Compliance chains 13→41→58→66→100. Comfort 1→4→5→7→9. **No uncaused jump. PASS.**
-- **RESIDUAL FLAG A (minor arithmetic, not fixed):** Arc-2's *internal* Habitat-Stability running tally
-  lands at **47%** by Ep22 (Ep17 36→42, Ep21 42→45, Ep22 45→47), but the Arc-2 header, STATSPINE, and
-  the Arc-3 entry all declare exit **48%**. A 1-point gap (the Kennel +1 vs the interpolated +2). I did
-  **not** edit any source; the draft carries Ep22→47% with the note. Reviser: add one idle-tick +1 to
-  Hab somewhere in Ep23–24, or restate the Kennel beat as +2, to reconcile 47→48.
+- **RESIDUAL FLAG A (F3/R2 — RESOLVED):** Arc-2's *internal* Habitat-Stability running tally
+  lands at **47%** by Ep22 (Ep17 36→42, Ep21 42→45, Ep22 45→47); the Arc-2 header, STATSPINE, and
+  the Arc-3 entry all declare exit **48%**. **Reconciled by the reviser:** a +1 idle-tick added at
+  **Ep23** (settled-house Hab 47→48) closes the 1-point gap, so the Arc-2 internal tally now equals
+  the declared 48% exit. No source-stat contradiction remains.
 
 ## 2. Loop integrity (LIFO across arc boundaries)
 - All 17 loops open before they close; every loop seeded in the ledger pays on its scheduled chapter.
@@ -535,18 +560,17 @@ reviser.*
   12 warm→13 soft, 24 soft→25 soft [soft-soft is legal], 37 warm→38 hard). **PASS at seams.**
 - **Full-book out-type audit (machine-checked):** no two hard-hooks adjacent; no three warm-outs in a
   row; arc-outs alternate warm → soft-hook → warm-with-ache → warm-climax-then-door. **PASS.**
-- **Full-book cookie audit (machine-checked, all corrections folded):** 47 of 48 adjacencies distinct.
-  Corrections applied and reflected in the beat list: **Ep25→competence**, **Ep31→competence**,
-  **Ep38→competence**, **Ep39→relationship**.
-  Distribution: relationship 15 · competence 14 · mystery 11 · joke 5 · number-up 4 = 49.
-- **RESIDUAL FLAG (G4 violation, NOT silently fixed):** **Ep46 ↔ Ep47 both carry a `mystery`-type
-  cookie and are adjacent.** Ep46 = "mystery + heart" (terminal resolved), Ep47 = "mystery resolved"
-  (Edda authored it). The arc-4 file footnote asserts these are "non-adjacent closes" — they are not;
-  46 and 47 are consecutive episodes. Out-types differ (46 warm / 47 soft-hook) but the *cookie type*
-  repeats, breaking G4. **Surfaced for the reviser, not patched** (per the no-silent-fix instruction).
-  Suggested resolution (reviser's call): re-type **Ep46 to `relationship`** (the *meeting* with Edda /
-  "Mm." recontextualized is a relationship beat; the mystery still deepens) — yields 47/47 distinct and
-  preserves the spine-finale shape. This is the **only residual cookie-adjacency defect** in the 49.
+- **Full-book cookie audit (machine-checked, all corrections folded + F1):** **48 of 48 adjacencies
+  distinct.** Corrections applied and reflected in the beat list: **Ep25→competence**,
+  **Ep31→competence**, **Ep38→competence**, **Ep39→relationship**, and **Ep46→relationship (F1)**.
+  Updated distribution: relationship 16 · competence 14 · mystery 10 · joke 5 · number-up 4 = 49.
+  Finale run now distinct: 45 number-up → 46 relationship → 47 mystery → 48 relationship + number-up
+  → 49 competence + warm-out.
+- **RESOLVED (F1, Stage-7 reviser):** Ep46 ↔ Ep47 mystery-mystery adjacency fixed by re-typing
+  **Ep46 → `relationship`** (the *meeting* with Edda / "Mm." recontextualized is a relationship beat;
+  the mystery still deepens beneath). New finale run: 45 number-up → 46 relationship → 47 mystery →
+  48 relationship → 49 competence — all distinct. **Cookie finale is now 48/48 distinct across the
+  whole 49; zero residual cookie-adjacency defects.** CADENCE.md Ch46 updated to match.
 
 ## 5. Voice/tone continuity (arc-boundary spot-checks)
 - **Seam 12→13:** Ep12 warm-out closes on the cast gathered, "the tea did the last of the work" (dry,
@@ -569,14 +593,16 @@ reviser.*
    The two reconcile through the Ep4 anchor (Cinder →44% by Ep12). **Residual (minor):** STATSPINE's
    Bond row labels Cinder "— (arrives Ep4)" while the prose has Bond live from Ep2 — a cosmetic label
    mismatch, not a stat discontinuity. Surfaced; not edited (single-source files are locked). Easily
-   collapsed to a single arrival if the reviser prefers.
+   collapsed to a single arrival if the reviser prefers. **[Stage-7: RESOLVED via F3/R4 — STATSPINE
+   Cinder row + canon-anchor note re-labelled to the split rendering, intake Ep2 / room+loop Ep4.]**
 2. **Acting-Matron rank: Ep24-pending vs Ep33-actual.** **PICKED Ep33-actual; made consistent.**
    STATSPINE (the binding stat contract) and the rank ladder require *Town Ally + Archive opened* —
    and the Archive opens Ep31 — so the title **cannot** land at Ep24. The beat list renders Ep24 as
    *Custodian III + Acting-Matron-pending* and lands the actual title **@33** (Arc-3, after Archive).
    **The outlier is CADENCE.md**, whose Ch24 cell and whole-book rank summary list "Acting Matron @24."
    Flagged for the reviser: CADENCE's Ch24 rank label / summary should read "Custodian III @20; Acting
-   Matron @33" to match STATSPINE and the arc files. (I did not edit CADENCE.)
+   Matron @33" to match STATSPINE and the arc files. (I did not edit CADENCE.) **[Stage-7: RESOLVED via
+   F3/R3 — CADENCE.md Ch24 cell + rank summary now read Custodian III @20 / Acting Matron @33.]**
 3. **Cockatrice 58→60% Soothing-Song gate cleared @Ep43.** **CONFIRMED CLEAN — no fused use before
    Ep43.** Cockatrice enters Arc 4 at 58%. Arc 3 explicitly deploys *no* Soothing Song. Eps 38–42
    contain no Soothing-Song-fused Cockatrice beat; the bond crosses 58→78 (through 60) at **Ep43**
@@ -594,23 +620,65 @@ reviser.*
 - **G2 NOT-LITERARY:** every payoff delivered (documents, System lines, creature behaviors, stat
   receipts); Liora's want legible each chapter; no lyrical drift at seams. **PASS (token `COMMERCIAL`).**
 - **G3 STAT CONTRACT:** strict CANON skill order; every gain books upkeep; Arc-N entry = Arc-(N-1) exit
-  (one minor arithmetic residual, flag A); no ability used before its row. **PASS (flag A noted).**
-- **G4 COOKIE LAW:** ≥1 cookie/chapter; 47/48 adjacencies distinct. **ONE RESIDUAL** (Ep46/47) surfaced.
+  (flag-A arithmetic now reconciled via the Ep23 +1 idle-tick, F3/R2); no ability used before its row.
+  **PASS.**
+- **G4 COOKIE LAW:** ≥1 cookie/chapter; **48/48 adjacencies distinct** after F1 (Ep46→relationship).
+  **PASS — no residual.**
 - **G5 ANTI-PLATEAU:** live clock or deepening mystery in all 49; no 2-chapter dead run. **PASS.**
 - **G6 NO CLIFFHANGER CRUELTY:** every chapter/arc resolves-then-opens; arc-outs alternate correctly; the
   Book-1 ender is appetite, not a fall. **PASS.**
 
 ## Residual flags for the reviser
-- **R1 (G4, structural):** Ep46↔Ep47 both `mystery` cookie, adjacent — re-type Ep46 to `relationship`
-  (suggested). *Only residual cookie-adjacency defect.*
-- **R2 (G3, cosmetic arithmetic):** Arc-2 Habitat-Stability tally lands 47% at Ep22 vs declared exit 48% —
-  reconcile with a +1 idle-tick or restate the Kennel beat as +2.
-- **R3 (cross-file consistency):** CADENCE.md Ch24 cell + rank summary still label Acting Matron @24;
-  should read Custodian III @20 / Acting Matron @33 to match the adopted Ep33-actual decision.
-- **R4 (cosmetic label):** STATSPINE Cinder Bond row reads "arrives Ep4" while the canon prose makes the
-  Bond live from Ep2 (intake) — harmonize the label to the split rendering, or collapse to one arrival.
+- **R1 (G4, structural) — RESOLVED (F1):** Ep46↔Ep47 both `mystery` cookie, adjacent — re-typed Ep46
+  to `relationship`. Cookie finale now 48/48 distinct. *No residual cookie-adjacency defect.*
+- **R2 (G3, cosmetic arithmetic) — RESOLVED (F3):** Arc-2 Habitat-Stability tally lands 47% at Ep22 vs
+  declared exit 48% — reconciled by a +1 idle-tick at Ep23 (Hab 47→48).
+- **R3 (cross-file consistency) — RESOLVED (F3):** CADENCE.md Ch24 cell + rank summary now read
+  Custodian III @20 / Acting Matron @33 (precondition Archive@31), matching STATSPINE and the arc files.
+- **R4 (cosmetic label) — RESOLVED (F3):** STATSPINE Cinder Bond row now reads "intake Ep2 (canon C2;
+  Bond live from Ep2) / Basking-Nook + `L-CINDER` formalize Ep4" — harmonized to the split rendering.
 
-**RESIDUAL FLAG COUNT: 4** (R1 structural G4; R2/R3/R4 cosmetic/consistency). No silent structural fixes
-were made.
+**RESIDUAL FLAG COUNT: 4 — ALL RESOLVED by Stage-7 reviser** (R1→F1 cookie re-type; R2→F3 idle-tick;
+R3→F3 CADENCE rank label; R4→F3 STATSPINE Cinder label). No silent structural fixes were made; see the
+Revision Changelog at the end of this file.
 
 **— END OF OUTLINE.draft.md · Stage 5 Seam Welder —**
+
+---
+
+# (d) REVISION CHANGELOG — Stage 7 Targeted Reviser
+
+*Patched ONLY the F1–F5 findings from CRITIQUE.md. Passing material untouched. Each patched beat
+re-verified against GUARDRAILS.md (G1–G6). Artifacts updated before re-rendered beats where a fix
+needed structural support.*
+
+- **F1 (cookie re-type / G4-R1):** Re-typed **Ep46 cookie `mystery` → `relationship`** (the meeting-Edda
+  / "Mm."-decoded beat; mystery still deepens beneath). CADENCE.md Ch46 updated to match (and its cookie
+  distribution + finale-run note). **Cookie adjacency is now 48/48 distinct** — finale runs
+  45 number-up → 46 relationship → 47 mystery → 48 relationship → 49 competence. G4 PASS, no residual.
+- **F2 (cozy floor / K&-ratio + ASMR):** Applied CADENCE's specified conversion lever — six S&S→K&
+  conversions at **Ch15, 21, 27, 36, 39, 42** (gentle-twist resolutions; all five arc-climax chapters
+  stay S&S) → **book ratio now 59% K&** (was 47%). Affected beats re-rendered in the outline with K&
+  tags. Added **3 dedicated low-plot sensory/ASMR beats at Ep7, Ep35, Ep40** (none a room-unlock
+  episode), each retaining a live clock/mystery underneath. CADENCE.md ratio tables, arc tallies, flag
+  #2, and a new ASMR-beat table updated. **Anti-plateau (G5) intact** — every converted/ASMR beat keeps
+  a live clock or deepening mystery.
+- **F3 (doc-sync R2/R3/R4):** **R2** — added a +1 Hab idle-tick at **Ep23** (47→48%), reconciling the
+  Arc-2 internal Habitat tally to the declared 48% exit. **R3** — CADENCE.md Ch24 cell + rank summary
+  corrected to **Custodian III @20 / Acting Matron @33** (Archive@31 precondition), matching STATSPINE.
+  **R4** — STATSPINE Cinder Bond row + canon-anchor note re-labelled to the split rendering
+  (**intake Ep2 / Basking-Nook + `L-CINDER` formalize Ep4**).
+- **F4 (collectible drip):** Added visible **Bestiary "+1" hits at Ep1, 2, 9, 13 (+3), 22, 26** and
+  **Archive-Codex "+1" hits at Ep31 & 34** across the 49 (was: only Ep26). Logged the full collectible
+  cadence as a new STATSPINE §1E (cosmetic layer — no power, no upkeep; does not touch G3).
+- **F5 (Ep32 plateau insurance):** Gave Arc-3 **Ep32 "Security Duet"** one live foreground clock tick —
+  the **Hearthglow-rebuild clock** ("Reserve recovering. +1." toward the banked 12 before Arc 4).
+  Mirrored in CADENCE.md Ch32. Part of the already-declared Arc-3 7→12 rebuild, so no G3 stat jump.
+
+**Guardrail re-verification (post-patch):** G1 PASS · G2 PASS · G3 PASS (flag-A arithmetic reconciled)
+· **G4 PASS — 48/48 cookie adjacencies distinct (no residual)** · G5 PASS (live clock/mystery in all
+49; F2 conversions + ASMR beats keep their clocks; Ep32 now carries a foreground tick) · G6 PASS
+(out-types unchanged by the K& conversions; no two hard-hooks adjacent; no three warm-outs). **No
+guardrail regressed.**
+
+**— END OF REVISION CHANGELOG · Stage 7 —**

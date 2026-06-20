@@ -65,7 +65,7 @@ No two hard-hooks adjacent (3, 8 are isolated); longest warm run = 2 (11→12); 
 | 21 | competence | soft-hook | YES — Cockatrice↔Slime synergy seeded (pebbles corral puddles); placement clock | **K&** *(F2 lever: two problems quietly solving each other — gentle twist, not a disaster beat)* | — (pipeline proven once; new goodbye-upkeep lands) |
 | 22 | number-up | hard-hook | YES — `L-ALARM` opens (Corehound alarm); `L-STAB` marker (wall sags) | S&S | **YES — Three-Temper Kennel unlocks (Ep22); Corehound; Habitat Stability +1** |
 | 23 | joke | warm | YES — `L-KRAKEN` **closes**: a perfect house-wide steep | K& | — (Brew Pool engine proven; Comfort up) |
-| 24 | mystery | **soft-hook** (arc climax) | YES — `L0` marker: Renown → Town Ally; the petition; Pike first lands with weight; a name surfaces | **S&S** | **YES — rank-up: Acting Matron (Town Ally); Soothing Song (Ep23) live** |
+| 24 | mystery | **soft-hook** (arc climax) | YES — `L0` marker: Renown → Town Ally; the petition; Pike first lands with weight; a name surfaces | **S&S** | **YES — Custodian III @20; Acting Matron *pending* (lands @33, after Archive@31 — F3/R3); Soothing Song (Ep23) live** |
 
 **Arc 2 out-rhythm:** soft → warm → soft → warm → soft → hard → warm → warm → soft → hard → warm → **soft (climax)**.
 No two hard-hooks adjacent (18, 22 isolated); longest warm run = 2 (19→20, 23 broken by soft 21/24); zero three-warm sags.
@@ -88,7 +88,7 @@ Arc-out: WARM-WITH-ACHE (Rhea; first send-offs). Carries the extra 13th episode.
 | 29 | competence | soft-hook | YES — Public Handling; you are now a public figure of a hated trade | S&S | Public Handling (skill); `L-FEAR` public-handling marker |
 | 30 | mystery | hard-hook | YES — `L-SPORE` **closes** → `L-EAST` opens (East Wing opened, canon) | S&S | **YES — East Wing opens (Ep30); habitat map completes; feeds `L-EDDA`** |
 | 31 | mystery | soft-hook | YES — `L-EDDA`/`L-EAST` markers (Archive cross-ref); `L-SERIES` sporeglow→Archive | S&S | **YES — Archive unlocks (Ep31); Advocacy (Ep34 window seeds); lore axis steps** |
-| 32 | relationship | warm | YES — Corehound↔Shriekmoth security duet warms; cast-as-one-organism | K& | — (mastery/synergy tick; bonds as combos) |
+| 32 | relationship | warm | YES — Corehound↔Shriekmoth security duet warms; cast-as-one-organism; **foreground Hearthglow-rebuild clock ticks (+1 toward the banked 12 — F5)** | K& | — (mastery/synergy tick; bonds as combos; rebuild clock live) |
 | 33 | joke | warm | YES — `L-PLACE` second send-off marker; `L-CINDER` match *seeded* (parting deferred) | K& | second placement run; Cinder's forge-patron appears |
 | 34 | mystery | hard-hook | YES — `L-HEIR` marker; Rhea revealed (Corehound flags scent + Slime-cleaned plaque) | S&S | Advocacy (skill); `L-ALARM` false-alarm gag seeds the real one |
 | 35 | relationship | warm | YES — Rhea-as-family lands (orphan-warmth); the Lull as refuge; voice-drift | K& | — (Liability↔Belonging meta-clock ticks toward "stay") |
@@ -208,8 +208,9 @@ Upgrade beats land at Ch **1, 4, 5, 6, 8, 9, 10, 11, 12** (Arc 1) · **13, 16, 1
   Gargoyle-mechanic 8 · Brew Pool 9 · Tea Room 10 · Resonance Hearth 11 · Fledgling Wing 13 ·
   Mending Room 16 · West Wing 18 · Send-Off Porch 20 · Three-Temper Kennel 22 · Pebble Garden 26 ·
   The Lull 28 · East Wing 30 · Archive 31. **All 16 room beats honored on their canon episodes.**
-- **Rank-ups** (STATSPINE ladder): Custodian I (6) · Custodian II (12) · Acting Matron (24) ·
-  Matron (48). Regional Renown caps at 49.
+- **Rank-ups** (STATSPINE ladder): Custodian I (10) · Custodian II (12) · Custodian III (20) ·
+  Acting Matron (**33** — precondition Archive@31; corrected from @24 per F3/R3 to match STATSPINE
+  and the arc files) · Matron (48). Regional Renown caps at 49.
 - **Cadence ~1/3:** Arc 1 is upgrade-dense (the establish-the-engine arc — front-loaded by canon
   room schedule, acceptable). Arc 4 is upgrade-sparse **by CANON** (no new rooms — everything
   earned is *spent* defending home); its "upgrades" are the rank-up to Matron and the
@@ -221,6 +222,21 @@ Upgrade beats land at Ch **1, 4, 5, 6, 8, 9, 10, 11, 12** (Arc 1) · **13, 16, 1
 tachometer (the grief-clock) runs in every chapter by construction; layered on top are the
 named clocks (inspection, placement pipeline, spore-spread, seizure) and the per-arc mystery
 chamber. **No run of 2+ chapters with neither. Zero anti-plateau flags.**
+
+### Dedicated sensory / ASMR beats (F2-b)
+
+The Lull (Ch28) is no longer the lone ASMR set-piece. Three **dedicated low-plot sensory/ASMR
+beats** are scheduled *outside* the room-unlock episodes, one per remaining arc-stretch, to fill
+the named between-beat sensory flatness:
+
+| Ch | ASMR beat | Live clock kept under it (G5) |
+|---|---|---|
+| **7** | evening tending: warm-cloth wipe-down, small breathing evening out, moonwell drip keeping time | Diagnosis "see every untreated hurt" ache-clock + `L-LIORA` |
+| **35** | Moonwell settling to glass; imprinted scene surfacing; the house breathing in the dark | `L-LIORA` "stay" meta-clock deepening |
+| **40** | sporeglow read by hand; soft phosphor light; the hum felt in the floor; voice near-break | `L-EDDA`/`L-EAST` mystery (live) |
+
+None is a room-unlock episode; each keeps a live clock/mystery so anti-plateau (G5) is intact.
+Combined with the Ch28 summit, the cozy/ASMR floor is now distributed across all four arcs.
 
 ### Flags raised (for the Weaver / downstream)
 

@@ -50,7 +50,7 @@ boundaries **Arc 1 = 1–12 · Arc 2 = 13–24 · Arc 3 = 25–37 · Arc 4 = 38�
 | `L-STAB` | **M** | Will the Blink Gargoyle / the building **hold** under pressure? *(Bertram, rooms-bible "the building itself")* | 8 | **44** | **3** | Yes — *competence-display* (Bertram holds the keystone through the seizure) |
 | `L-PLACE` | **E** | Can a fostered creature be **matched & sent off well**? (the placement pipeline) *(Fledgling Wing / Send-Off Porch)* | 13 | **41** | **3** | Yes — *warm-out + ache* (last foster placed; pipeline proven) |
 | `L-FEAR` | **C** | Town prejudice vs. the gentle cockatrice — can **fear be out-cared**? *(Pebble Garden)* | 26 | **43** | **3** | Yes — *relationship beat* (town turns Ally; pebbles gifted → Arc-4 exhibit A) |
-| `L-EAST` | **M** | Who/what is in the locked **East Wing**? | 30 (opened) | **46** | **3** | Yes — *mystery + heart* (Edda's terminal resolved → feeds `L0`) |
+| `L-EAST` | **M** | Who/what is in the locked **East Wing**? | 30 (opened) | **46** | **3** | Yes — *relationship + heart* (Edda's terminal resolved; the meeting-Edda close → feeds `L0`; cookie = relationship per F1, mystery still deepens beneath) |
 | `L-INSPECT` | **E** | Will the Arc-4 **seizure-by-bureaucracy** close Briarwick? | 38 (clock starts) | **45** | **3** | Yes — *number-up + competence* (seizure survived by care + cleverness) |
 | `L-CINDER` | **E** | Can Cinder's "fire isn't harm" be proven via a real **match**? *(Basking Nook → forge-patron)* | 4 | **33** (match seeded; send-off carried to Bk2) | **4** | Yes — *competence + warm-out* (the match is made on-page; the *parting* is deferred — clean partial payoff, G6) |
 | `L-TRUST` | **C** | Will the **most fragile creature (Cress)** trust the ex-culler? *(Moonwell)* | 1 | **3** | **4** | Yes — *relationship beat* (innermost early demo of `L0` at single-creature scale) |
@@ -131,7 +131,7 @@ door" discipline made literal.**
 | **No loop closes before it opens** | **PASS** — all 16 closing loops have close ≥ open (verified Ch-by-Ch). |
 | **LIFO discipline on every nested pair** | **PASS** — for every outer/inner pair, inner closes first (see close-order chain). Spine d0<d1<d2 closes 49←48←47; all d3–d5 dolls close inside their d2 parents. |
 | **Exactly one dangle past the book** | **PASS** — only `L-SERIES` (depth 0) is left ajar (the custodian-key / succession). Edda, Rhea/Heir, and the pipeline are all *answered* in-book. |
-| **Every loop-close coincides with a cookie** | **PASS** — see "Pays cookie?" column; G4 adjacency holds (no two consecutive closes share a cookie type — e.g. Ch41 *warm-out/ache* → Ch43 *relationship* → Ch44 *competence* → Ch45 *number-up* → Ch46 *mystery* → Ch47 *mystery-resolved* → Ch48 *relationship/number* → Ch49 *competence/warm*). |
+| **Every loop-close coincides with a cookie** | **PASS** — see "Pays cookie?" column; G4 adjacency holds (no two consecutive closes share a cookie type — e.g. Ch41 *relationship/ache* → Ch43 *relationship*? **no** — Ch42 *competence* sits between; the close-run is Ch44 *competence* → Ch45 *number-up* → Ch46 *relationship* (F1) → Ch47 *mystery-resolved* → Ch48 *relationship/number* → Ch49 *competence/warm* — all adjacent pairs distinct). |
 
 ---
 

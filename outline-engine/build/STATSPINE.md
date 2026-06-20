@@ -9,8 +9,10 @@ Unlock Ledger below — they may not invent one. Arc boundaries: Arc1 = Eps 1–
 Arc2 = 13–24, Arc3 = 25–37, Arc4 = 38–49 (12/12/13/12 = 49).*
 
 > **Canon anchors honored (immovable):** Ep1 — Cress 19%, Moonwell up, Comfort 1,
-> Compliance 13%, Hearthglow 4. Ep4 — Basking Nook (Cinder). All other numbers are
+> Compliance 13%, Hearthglow 4. **Ep2 — Cinder intake (canon C2; Bond live from Ep2).**
+> Ep4 — Basking Nook + `L-CINDER` formalize (Cinder). All other numbers are
 > interpolated to chain continuously and never to contradict an anchor.
+> *(F3/R4: split rendering — intake Ep2, room/loop Ep4 — made explicit on the Cinder Bond row.)*
 
 ---
 
@@ -98,6 +100,26 @@ G3 unlock chain.*
 | **Acting Matron** | Town Ally + Archive opened (Ep31) | **~33** | You **answer for Briarwick publicly**; the audit targets the title. |
 | **Matron** | the seizure survived by care + cleverness | **48–49** | A Matron is a **regional problem for Pike** (Book-2 door). |
 
+### 1E — COLLECTIBLE LAYER (Bestiary + Archive Codex · F4 — visible "+1" cadence)
+
+*A low-stakes collectible layer for the LitRPG-candy reader, dripped visibly across the 49 so the
+"+1" hits are felt, not buried. Each entry is a cosmetic collection tick (no power; no upkeep) —
+distinct from the binding stat contract above.*
+
+| Collectible hit | Ep | Entry |
+|---|---|---|
+| Bestiary +1 | **1** | *Lunar Mooncalf* (Cress) — first creature logged on intake |
+| Bestiary +1 | **2** | *Ember-Toad* (Cinder) — first hatchling |
+| Bestiary +1 | **9** | *Tea Kraken* — first hospitality-creature |
+| Bestiary +3 | **13** | *Pocket Phoenix · Puddle Slime · Shriekmoth* — the foster-intake burst |
+| Bestiary +1 | **22** | *Corehound* — "1 of 3 tempers catalogued" |
+| Bestiary +1 | **26** | *Cockatrice Chick* — the thesis-creature |
+| Archive Codex +1 | **31** | first "Custodian's Record" entries (lore-codex unlocked) |
+| Archive Codex +1 | **34** | *"Previous Custodian — Rhea"* — the codex's most charged entry |
+
+*(Ep1 Bestiary entry is implicit in the canon Cress intake; the visible "+1" prompts are scheduled
+at 2, 9, 13, 22, 26 (Bestiary) and 31, 34 (Codex). Cosmetic — does not touch G3.)*
+
 > Rank-up ep aligned to its preconditions: Custodian I lands at **Ep10** (the third
 > skill is Diagnosis I@7, but Moonwell-stabilized + intake-readiness completes at 10 —
 > matches `L-LIORA` marker "10 Custodian I"). PASS.
@@ -126,7 +148,7 @@ Town Ally→Regional). Bond Trust % per creature.
 | Caregiver Rank | Trainee | **Custodian II** (@12) | Custodian I@10 → Custodian II@12 |
 | Renown | Stranger | **Wary→Neutral** (low Neutral) | Welcome Desk@5 opens the channel; town merely *aware* |
 | **Bond: Cress** | **19%** (canon) | **52%** | `L-TRUST` closes Ep3 (first feeding accepted); steady tending |
-| **Bond: Cinder** | — (arrives Ep4) | **44%** | Basking Nook; "heat=harm" flinch retired |
+| **Bond: Cinder** | **intake Ep2** (canon C2); Bond live 0→9% from Ep2 / Basking-Nook + `L-CINDER` formalize Ep4 | **44%** | Intake Ep2 (canon); Basking Nook + loop @4; "heat=harm" flinch retired *(F3/R4 — label aligned to the split rendering: intake Ep2, room/loop Ep4)* |
 | **Bond: Bertram** | ~30% (present Ep1) | **48%** | Mechanic formalized @8; "this place is mine" easing |
 | **Bond: Tea Kraken** | — (arrives Ep9) | **31%** | Brew Pool steeping; "I don't get to be comfortable" easing |
 
