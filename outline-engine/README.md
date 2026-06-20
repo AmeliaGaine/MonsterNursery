@@ -51,6 +51,9 @@ File map:
 - `03-loop-and-cadence.md` — Stage 3 (the structural crown jewels)
 - `04-beat-generation.md` — Stages 4–5
 - `05-critique-revise-loop.md` — Stages 6–7 + the two Sentinels
+- `rooms-bible.md` — the Briarwick base-building spine (two room economies: family
+  wing / boarding-placement / front-of-house), mapped to the final cast and threaded
+  onto LOOPMAP / CADENCE / STATSPINE with per-room unlock episodes and loop IDs
 
 ## The structural theory it encodes (named, not vibes)
 
