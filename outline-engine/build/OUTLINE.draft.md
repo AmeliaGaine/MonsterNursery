@@ -682,3 +682,45 @@ needed structural support.*
 guardrail regressed.**
 
 **— END OF REVISION CHANGELOG · Stage 7 —**
+
+---
+
+# ATMOSPHERE OVERLAY · Cozy Sensory & Seasonal Layer (Stage 8 add)
+
+*Overlay onto the existing 49 beats (does not alter stat chains/loops). Full detail in
+`outline-engine/cozy-sensory-bible.md`. Answers the "menu / Ghibli wonder / weather /
+seasons / sensory" checklist; the mechanical checklist (care, try-fail, room unlocks,
+relationship stats, bestiary, stat continuity) was already present.*
+
+**Seasonal throughline — the ruin thaws into life as care takes hold:**
+- **Arc 1 (1–12) Late winter → first thaw:** rain on the panes, crackling hearth,
+  candlelight, frost, the first snowdrop, snowmelt begins.
+- **Arc 2 (13–24) Spring:** blossom, fresh wet green, fuzzy chunky bees waking, the
+  brook runs full, lengthening gold light, cut flowers.
+- **Arc 3 (25–37) Late spring → midsummer:** sunrays through leaf-canopy, long grass
+  on the hills, wind in the leaves like rolling surf, fireflies begin, stars, the
+  sporeglow-aurora night.
+- **Arc 4 (38–49) High summer:** big white clouds, blue skies, a summer thunderstorm
+  at Pike's climax breaking into clear sunrise, a falling star at the finale.
+
+**Marquee wonder set-pieces (scheduled on existing episodes):**
+- **Ep7** First-Thaw Rain — hearth catches; first warm night (Arc-1 ASMR beat).
+- **Ep16** The Brook Runs — snowmelt + restored fountain runs clear; bees wake.
+- **Ep28** The Lull, Firefly Dusk — communal-sleep summit under first fireflies.
+- **Ep31–34** The Sporeglow Aurora — West Wing lichen blooms into a slow indoor aurora;
+  wonder fused to Edda's mystery (same room). The book's visual peak.
+- **Ep49** Storm-Break Sunrise + Falling Star — thunderstorm → clear dawn; a wish; Recognized.
+
+**New room — The Book Nook (unlock ~Ep23):** window-seat reading corner (quilts,
+lamplight, rain-on-glass) for nightly story-hour with the Cockatrice/Shriekmoth via
+Soothing Song. The cozy-ASMR keystone. (Added to `rooms-bible.md`.)
+
+**Menu / Resonance Cooking dishes (the "menu items" layer — Codex "Recipe Learned +1"):**
+Mineral Milk (Ep5) · Moon-Steep Oats · Ash-Cakes · Mood-Teas (Ep11) · Sporeglow Honey
+(Ep18) · Three-Bowl Stew · Pebble-Salt Biscuits (Ep26) · Storm-Day Cocoa (Arc 4). Each
+a behaviour-earned unlock with a small ingredient upkeep — never a free buff (honors G3).
+
+**Voice guard:** render all atmosphere in Liora's dry register — sensory specificity,
+not lyrical swoon ("the fire had opinions about the draught," not "rain wept silver").
+
+**— END OF ATMOSPHERE OVERLAY —**

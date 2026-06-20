@@ -147,6 +147,15 @@ Slime · Shriekmoth (Kettle).
 - **Palette:** clean cool light · herb-bunches · linen · eucalyptus calm.
 - **Unlock:** ~Ep 16 · **State:** Diagnosis II / treatment unlocks; Dr. Sorrel joins.
 
+### The Book Nook — story-hour reading corner
+- A window-seat reading corner: quilts, lamplight, a shelf of the nursery's old
+  records-turned-storybooks, rain on the glass. The cozy-ASMR keystone (so the Lull
+  isn't carrying it alone).
+- **Engine:** nightly *story hour* gentles the scariest creatures (Cockatrice,
+  Shriekmoth) by being read to — the Soothing Song engine.
+- **Palette:** soft wool · warm low lamp · rain-on-glass · paper.
+- **Unlock:** ~Ep23 · **State:** Soothing Song support; Comfort +1. *(See `cozy-sensory-bible.md`.)*
+
 ### The Send-Off Porch — placement payoff
 - The bittersweet dopamine beat the genre average lacks: a raised creature leaves with
   the right patron. Resolve + ache + a new appetite (who arrives next?).
