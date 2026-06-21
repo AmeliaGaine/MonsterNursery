@@ -51,7 +51,9 @@ bittersweet · contentment · fierce-protect · grief · vindication · hope · 
 | 17 | frustration→resolve | | 34 | grief | | | |
 
 Rule for the drafter: the episode's primary color sets the *interior* tone; do NOT
-default to "dry deflection over a warm reveal" — let pride read as pride, dread as dread.
+default to "dry deflection over a warm reveal" — let pride read as pride, indignation as
+indignation. **All colors must be IN the cozy register (GUARDRAILS G1-EXT)** — no
+dread/menace/cold-as-feeling; hook-outs are curiosity, not doom.
 (Humor floor still applies on top via the friction schedule; color ≠ humor.)
 
 ---
