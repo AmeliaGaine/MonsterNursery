@@ -84,3 +84,45 @@ Voice guard: render it in the dry register — no swoon; the romance is in the *
 - **Sorrel slow-burn:** Ep16, 17, 28, 31, 34, 46, 48, 49 (light beats).
 - **Contracts:** CANON (cast reclassification + Sorrel romance + 3 named patrons + Rapport
   stat); STATSPINE (Rapport spine).
+
+---
+## ROMANCE REVISION (supersedes §4) — HET, Inspector Crane
+
+*Sorrel is too old (she knew Edda) → reverted to **older mentor / grief-mirror, NOT a
+love interest**. Romance orientation set to **het (m/f)** for the cozy-LitRPG audience.
+Love interest is a NEW male lead built for tension + humor + breakout.*
+
+### Inspector Crane (m) — Pike's field-auditor → the defector
+- **Role:** Monster Control's by-the-book field-inspector, sent by **Pike** to build the
+  case to seize Briarwick. Rigid, procedure-bound, mess-allergic, secretly lonely — a
+  *believer* in the rules (like Grindle, but younger and convertible). Dry himself, so he
+  and Liora **out-deadpan each other** (the banter engine). *(Name swappable; first name
+  surfaces as Rapport climbs — a running gag: Liora needling him toward familiarity.)*
+- **Why breakout:** rivals/adversaries-to-lovers is the most commercial romance shape;
+  the grumpy-enforcer-melts arc is hugely popular AND deeply cozy (the cold outsider
+  warmed by the home). He **also gives Pike a human face on the ground** (fixes the PRISM
+  "Pike has no face" gripe) and **raises the Arc-3/4 stakes** (the man who can shut her
+  down is the man she's falling for).
+- **TENSION:** he can close Briarwick; he reports to Pike; every audit is high-stakes;
+  the live wire is "will he file the truth or the lie?"
+- **HUMOR:** stiff stickler vs a house of chaos creatures + Liora's loophole-wit — the
+  creatures befriend him *against his will* (the Corehound three-way-votes him in; the
+  Slime ruins his boots; Bertram blinks onto his clipboard; the cocoa undoes him).
+
+### Crane's light het slow-burn (Arc 3–4 runway; capped at "almost")
+- **Ep25:** arrives to run Pike's records-audit — hostile, rigid; first banter, Liora
+  loophole-judos his opening citation. Rapport: Wary/adversary.
+- **Ep27–32:** the audit episodes — recurring proximity; the creatures work on him; his
+  deadpan vs hers; he softens and *fights it*. Rapport: wary-thaw → Acquaintance.
+- **Ep34/36:** he sees the engineered-fear docs / Rhea's erasure — a crack in his faith in
+  the apparatus (mirrors Liora's Ep1 refusal). Rapport: Friend, conflicted.
+- **Ep38–39:** the seizure order lands and **he's meant to enforce it** — torn; max tension.
+- **Ep43/45:** at the climax he **defects** — he can't file the lie, refuses Pike, hands
+  Liora what the charter-defense needs. The rivals-to-allies turn; Rapport jumps.
+- **Ep48/49:** the almost — a held look, she finally uses his first name warmly, he stays.
+  Book-2 runway. **No kiss/declaration** (light).
+
+### Sorrel — REVERTED to mentor (no romance)
+Older disgraced healer who knew Edda; **platonic** mentor + grief-mirror + lore conduit.
+Her deepened scenes (16/17/31/34/46) stay — as mentorship and shared grief, NOT romance.
+Rapport(Sorrel) = a deep platonic/mentor bond.

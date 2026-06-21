@@ -115,3 +115,12 @@ series-door behind Pike; whether Rhea and Edda are the same thread or two.
   Sorrel/Fen/Quill/Grindle/Wynn/Tamsin/Maren/Holloway/Otto. Behaviour-earned, has upkeep.
 - **Romance:** Liora × **Dr. Sorrel** — light **sapphic slow-burn** (Sorrel written she/her);
   braids with the Edda grief-thread; capped at "almost" in Book 1, no kiss/declaration.
+
+---
+## ROMANCE REVISION (canon — supersedes the prior Sorrel romance line)
+- **Romance = HET.** Liora × **Inspector Crane** (m), a NEW male lead: Pike's by-the-book
+  field-auditor sent to seize Briarwick, who defects into the found-family. Rivals-to-
+  lovers; light slow-burn (Arc 3–4), capped at "almost," no kiss/declaration in Book 1.
+  Crane is also **Pike's human face on the ground** (fixes the faceless-antagonist note).
+- **Dr. Sorrel is NOT a love interest** — she is the older mentor / grief-mirror (knew
+  Edda); her romantic framing is reverted to platonic mentorship.
