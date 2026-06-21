@@ -1,0 +1,154 @@
+# AXIS-ENVELOPE.md — the narrative physics engine (Stage 3.6)
+
+*Per-episode intensity envelope for the five felt axes (Cozy · Humor · Emotion ·
+Wonder · Resonance), plus book-level conservation laws. This is the binding contract
+for the felt experience — what STATSPINE is for stats. The Lane Sentinel + Red-Team
+check every episode against its envelope, so "this scene is too flat" becomes a
+checkable PASS/FAIL instead of a vibe.*
+
+> **Built from:** each episode's role in `CADENCE.md` (which sets the intended shape)
+> + the brutal per-episode ratings (current state). The `cur` column is the rated
+> reality; `⚠` marks where reality breaches the floor — i.e. the red-team worklist.
+
+## How to read it (the design rule that keeps it from backfiring)
+
+- **Floors, not targets.** Each cell gives a **floor** the scene may not go below.
+  You are NOT chasing a number; you are staying inside an envelope. A low score that
+  is *inside* its floor is **correct, not a flaw** (a seizure climax with Humor 2 is
+  working as designed).
+- **★ Foreground axis.** Each episode names 1–2 axes it must *spike* (target ≥7, ≥8
+  for anchors/set-pieces). Everything else just has to clear its floor.
+- **Coarse on purpose.** Three bands — *suppressed* (floor 2–3), *present* (4–6),
+  *foreground* (7–8). The value is the **shape of the curve across 49 episodes**, not
+  any single cell. No decimals, ever.
+- **It diagnoses; it does not generate.** This tells you *where* humor/wonder are
+  owed. It cannot put them on the page — that's the drafting pass. Its job is to make
+  that pass surgical and the red team objective.
+
+## Role taxonomy → floor profile  [Cozy / Humor / Emotion / Wonder / Resonance]
+
+| Role | C | H | E | W | R | Foreground |
+|---|---|---|---|---|---|---|
+| Cozy-anchor | 6 | 4 | 5 | 3 | 6 | Cozy 8 + Resonance |
+| Cozy-process | 6 | 4 | 4 | 3 | 5 | Cozy 7 |
+| Comic | 5 | 6 | 4 | 2 | 5 | Humor 7 |
+| Tension-theme | 4 | 3 | 5 | 3 | 6 | Resonance/Emotion 7 |
+| Moral-cost | 4 | 3 | 6 | 4 | 6 | Emotion + Resonance |
+| Send-off | 5 | 4 | 6 | 3 | 6 | Emotion 7 |
+| Set-piece (wonder) | 6 | 3 | 5 | **7** | 6 | Wonder 7–8 |
+| Climax | 3 | 2 | 7 | 4 | 7 | Emotion + Resonance |
+| Grief/lore | 4 | 2 | 6 | 3 | 7 | Resonance 7 |
+| Resolution-warm | 5 | 3 | 6 | 4 | 7 | Emotion/Resonance |
+
+*Universal floors (the promises, override nothing below them): **Cozy ≥4 everywhere
+except Climax (≥3); Resonance ≥5 everywhere.** These encode "the safe place endures"
+and "every payoff is delivered."*
+
+## BOOK-LEVEL CONSERVATION LAWS  (the global guardrail — current status)
+
+| Law | Target | Current | Status |
+|---|---|---|---|
+| Humor mean | ≥ 5.5 | **4.1** | ❌ FAIL |
+| Humor highs (eps ≥7) | ≥ 12 | **4** (Ep1,2,9,33) | ❌ FAIL |
+| Wonder spike per arc (≥7) | each arc | Arc1 ❌, Arc2 ❌, Arc3 ✓, Arc4 ✓ | ❌ FAIL (Arcs 1–2) |
+| Wonder mean | ≥ 4.5 | **4.2** | ❌ near-FAIL |
+| Cozy floor honored | all eps | only Ep45=3 (climax, allowed) | ✅ PASS |
+| Cozy mean | ≥ 6.0 | **6.2** | ✅ PASS |
+| Resonance floor ≥5 | all eps | all ≥5 | ✅ PASS |
+| Resonance mean | ≥ 6.0 | **6.3** | ✅ PASS |
+| No axis flat 3+ eps | breathing | (verify in prose) | ⚠ monitor |
+| Each arc: ≥1 cozy summit (≥8) | each arc | A1✓(1) A2✓(19,23) A3✓(28,32) A4✓(41) | ✅ PASS |
+
+**Headline:** the envelope confirms forensically what the ratings suggested — the book
+is **conserved on Cozy and Resonance, bankrupt on Humor, and thin on Wonder (worst in
+Arcs 1–2).** Those two are the entire deficit, and now they're *measured*, not felt.
+
+## THE 49-EPISODE ENVELOPE  (floor·cur per axis; ⚠ = floor breach; ★ = foreground)
+
+| Ep | Role | Cozy | Humor | Emotion | Wonder | Reson | Breaches |
+|---|---|---|---|---|---|---|---|
+| 1 | Cozy-anchor | 6·8★ | 4·7 | 5·7 | 3·6 | 6·8★ | — |
+| 2 | Comic | 5·7 | 6·8★ | 4·6 | 2·4 | 5·6 | — |
+| 3 | Tension-theme | 4·4 | 3·4 | 5·5 | 3·3 | 6·6★ | — (R foreground-miss) |
+| 4 | Cozy-process | 6·6★ | 4·4 | 4·6 | 3·3 | 5·5 | — (C foreground-miss) |
+| 5 | Tension-theme | 4·5 | 3·4 | 5·**4** | 3·**2** | 6·6★ | ⚠E ⚠W |
+| 6 | Cozy-process | 6·6 | 4·5 | 4·5 | 3·**2** | 5·7★ | ⚠W |
+| 7 | Set-piece★W | 6·7 | 3·3 | 5·6 | **7·5** | 6·7 | ⚠W★ (set-piece misses its own foreground) |
+| 8 | Tension-theme | 4·5 | 3·5 | 5·6 | 3·3 | 6·7★ | — |
+| 9 | Comic | 5·7 | 6·7★ | 4·4 | 2·4 | 5·5 | — |
+| 10 | Send-off | 5·5 | 4·4 | 6·6★ | 3·**2** | 6·6 | ⚠W |
+| 11 | Cozy-process | 6·7★ | 4·4 | 4·6 | 3·4 | 5·7 | — |
+| 12 | Climax | 3·6 | 2·4 | 7·7★ | 4·**3** | 7·8★ | ⚠W |
+| 13 | Cozy-anchor | 6·6★ | 4·4 | 5·5 | 3·4 | 6·**5** | ⚠R |
+| 14 | Cozy-process | 6·7★ | 4·**3** | 4·6 | 3·5 | 5·6 | ⚠H |
+| 15 | Comic | 5·6 | 6·6★ | 4·4 | 2·4 | 5·5 | — (H foreground-miss) |
+| 16 | Set-piece★W | 6·6 | 3·3 | 5·5 | **7·6** | 6·**5** | ⚠W★ ⚠R |
+| 17 | Tension-theme | 4·6 | 3·3 | 5·**4** | 3·3 | 6·6★ | ⚠E |
+| 18 | Moral-cost | 4·5 | 3·3 | 6·**5** | 4·6 | 6·6★ | ⚠E |
+| 19 | Resolution-warm | 5·8 | 3·3 | 6·7★ | 4·4 | 7·7 | — |
+| 20 | Send-off | 5·7 | 4·5 | 6·6★ | 3·3 | 6·6 | — |
+| 21 | Cozy-process | 6·6★ | 4·**3** | 4·4 | 3·3 | 5·5 | ⚠H (weakest cozy ep) |
+| 22 | Comic | 5·6 | 6·6★ | 4·5 | 2·4 | 5·6 | — (H foreground-miss) |
+| 23 | Cozy-process | 6·8★ | 4·6 | 4·6 | 3·5 | 5·6 | — |
+| 24 | Climax | 3·6 | 2·4 | 7·**6**★ | 4·5 | 7·7★ | ⚠E |
+| 25 | Tension-theme | 4·6 | 3·4 | 5·**4** | 3·5★ | 6·**5** | ⚠E ⚠R |
+| 26 | Cozy-anchor | 6·7★ | 4·6 | 5·5 | 3·5 | 6·6★ | — |
+| 27 | Cozy-process | 6·6 | 4·4 | 4·5 | 3·4 | 5·6★ | — |
+| 28 | Set-piece★C/W | 6·8★ | 3·5 | 5·6 | **7·6** | 6·6 | ⚠W★ |
+| 29 | Tension-theme | 4·5 | 3·3 | 5·5 | 3·3 | 6·6★ | — (repetition-flag) |
+| 30 | Resolution-warm | 5·5 | 3·3 | 6·6 | 4·6★ | 7·**6** | ⚠R |
+| 31 | Set-piece★W/R | 6·6 | 3·3 | 5·6 | 7·7★ | 6·7★ | — (the only clean set-piece) |
+| 32 | Cozy-process | 6·8★ | 4·6 | 4·5 | 3·4 | 5·5 | — |
+| 33 | Comic/Send-off | 5·7 | 6·7★ | 4·5 | 2·3 | 5·6 | — |
+| 34 | Grief/lore | 4·4 | 2·3 | 6·7★ | 3·3 | 7·7★ | — |
+| 35 | Set-piece-lite★E | 5·7 | 2·2 | 6·6★ | 4·6 | 6·7 | — |
+| 36 | Grief/lore | 4·5 | 2·3 | 6·**5** | 3·4 | 7·**6**★ | ⚠E ⚠R |
+| 37 | Climax | 3·6 | 2·3 | 7·7★ | 4·5 | 7·7★ | — |
+| 38 | Tension-theme | 4·6 | 3·4 | 5·5 | 3·3 | 6·6★ | — |
+| 39 | Resolution-warm | 5·7 | 3·4 | 6·**5**★ | 4·**3** | 7·**6** | ⚠E ⚠W ⚠R |
+| 40 | Set-piece-lite★W | 5·7 | 2·3 | 6·7★ | 6·7★ | 6·7 | — |
+| 41 | Send-off | 5·8 | 4·4 | 6·7★ | 3·5 | 6·7 | — |
+| 42 | Cozy-process | 6·6★ | 4·**3** | 4·5 | 3·4 | 5·5 | ⚠H (town too abstract) |
+| 43 | Tension-theme | 4·7 | 3·5 | 5·6 | 3·5 | 6·6★ | — |
+| 44 | Resolution/payoff | 5·6 | 3·4 | 6·6 | 4·4 | 7·7★ | — |
+| 45 | Climax | 3·3 | 2·2 | 7·**6**★ | 4·**3** | 7·7★ | ⚠E ⚠W |
+| 46 | Grief-resolution | 4·7 | 2·3 | 6·7★ | 3·6 | 7·7★ | — |
+| 47 | Grief/lore | 4·5 | 2·2 | 6·6 | 3·4 | 7·7★ | — |
+| 48 | Resolution-warm | 5·7 | 3·3 | 6·6 | 4·**3** | 7·7★ | ⚠W |
+| 49 | Set-piece/Climax | 5·7 | 2·4 | 7·7★ | 6·7★ | 7·8★ | — (model finale) |
+
+## DERIVED RED-TEAM WORKLIST (prioritized — what the envelope actually flags)
+
+**TIER 0 — book-level law breaches (must fix to pass):**
+1. **Humor bankruptcy.** Mean 4.1 (need 5.5); only 4 episodes ≥7 (need 12). The fix
+   targets **Cozy-process / Comic** episodes currently *below their humor floor or
+   foreground*: **Ep14, 21, 42** (floor breach H<4) and **Ep15, 22** (Comic role stuck
+   at 6, must reach 7). Net: lift ~10 episodes into the 6–7 band. **Do NOT** touch
+   Climax/Grief humor (45, 34, 47 are correctly suppressed).
+2. **Wonder drought in Arcs 1–2.** No episode reaches Wonder 7 in either arc. The
+   set-pieces that should carry it **miss their own foreground floor: Ep7 (5/7), Ep16
+   (6/7), Ep28 (6/7).** Stage the awe instead of letting the System narrate it —
+   that's the single highest-leverage wonder fix and it lands exactly on the
+   episodes designed for it.
+
+**TIER 1 — per-episode floor breaches (fix in place):**
+- Emotion floor: **Ep5, 17, 18, 24★, 25, 36, 39, 45★** (climax 24 & 45 must clear E7).
+- Resonance floor: **Ep13, 16, 25, 30, 36, 39** (deliver the payoff, don't assert it).
+- Wonder floor: **Ep5, 6, 10, 12, 39, 48** (minor — add one concrete sensory beat each).
+
+**TIER 2 — foreground-misses (not breaches, but the spike is soft):**
+Ep3, 4, 15, 22, 24 — the starred axis sits at 6 where the episode is *named for* it.
+
+## SENTINEL WIRING (add to GUARDRAILS as a new check)
+
+- **Axis Sentinel (new):** on any episode write/rewrite, score its 5 axes and check
+  against this envelope. Return `AXIS: PASS` or `AXIS: FAIL — <axis> below floor /
+  foreground soft`. Plus a book-level pass on the conservation laws after any batch.
+- This converts the brutal-ratings exercise into a **standing, automatic guardrail**:
+  the red team no longer argues about whether a flat scene is intended — the envelope
+  already answered.
+
+## Honest scope note
+This artifact does not add a single joke or a single moment of awe. It is the
+*instrument*. Its entire payoff is that the next pass — and every future red-team —
+is targeted and objective: fix the ⚠ cells and the Tier-0 laws, leave the rest alone.
