@@ -184,13 +184,14 @@ emotion/resonance/wonder floor breaches (5,13,16,17,18,24,25,30,36,39,45,48).
 **Cozy / Emotion / Resonance: strengthened, all conserved.**
 **Humor: lifted out of bankruptcy (mean +0.6, highs 4→9) but the 5.5/12 law is still
 not met.** Honest read: the 5.5 mean target is likely miscalibrated for this genre
-mix — the book has ~8 episodes (grief/lore/climax: 34,35,36,37,40,45,46,47) that
-*correctly* suppress humor to 2–3, which structurally caps the achievable mean. Two
-options:
+mix — this is a **cozy LitRPG** whose progression spine carries a poignant lore/grief
+throughline (Edda's preserved will), so ~8 episodes (grief/lore/climax: 34,35,36,37,
+40,45,46,47) *correctly* suppress humor to 2–3, which structurally caps the achievable
+mean. Two options:
 1. **Recalibrate** the humor law to **mean ≥5.0 + highs ≥12** (genre-honest), then one
    small lift of 3 cozy episodes (e.g. 6/12/20/26/32 → H7) closes the highs gap.
 2. **Second humor pass** on ~8 more present-but-flat cozy episodes (11,13,17,38,43,44,
    etc.) to brute-force mean 5.5 — higher risk of forcing jokes where they don't belong.
 
-Recommendation: **option 1** — it respects the cozy-mystery-grief blend instead of
-papering humor over beats that should stay quiet.
+Recommendation: **option 1** — it respects the cozy-LitRPG's progression-plus-poignant-
+lore shape instead of papering humor over beats that should stay quiet.
