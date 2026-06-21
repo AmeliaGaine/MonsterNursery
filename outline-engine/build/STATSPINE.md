@@ -329,3 +329,15 @@ unaffordable-save trade-off (Arc 2) and a spent-to-the-floor climax (Arc 4).
   Sanctuary Charter tier** (Briarwick gains its own jurisdiction — system-state change).
   Ep48 **Bestiary/Codex → Complete (Book 1)**. Ep49 **feature unlocked: Sanctuary Network
   (dormant)** = Book-2 progression door. Arc 4 now spikes progression at the finale.
+
+---
+## RELATIONSHIPS ADDENDUM — NPC Rapport spine (see RELATIONSHIPS.md)
+New tracked stat **Rapport %** per named human (mirrors creature Bond Trust). Principals'
+approximate arc (behaviour-earned; can stall if neglected):
+- **Sorrel (romance):** ~Ep16 Acquaintance → Ep17 Friend → Ep31/34 Confidant → Ep48/49 Dear.
+- **Quill:** Stranger → Ep17/24 Acquaintance → Ep39 Friend → finale ally.
+- **Grindle:** Wary → Ep43 a chosen kindness → finale quiet-ally (low but positive).
+- **Wynn/Tamsin/Maren:** Acquaintance at adoption (Ep20/33/41) → Friend on first return-visit.
+- **Fen:** Friend → Confidant (apprentice→keeper payoff Ep48).
+Gifts = recipe/menu items. Heart-tier thresholds unlock a deeper scene each. No Rapport
+for Pike (separate wary track). No stat-chain conflict with creature Bond Trust.
