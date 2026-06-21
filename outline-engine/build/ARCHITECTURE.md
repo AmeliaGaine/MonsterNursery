@@ -474,8 +474,10 @@ Ep49 — and even then the door to Book 2 is ajar.
    layer.
 
 **Inter-candidate conflicts resolved:**
-- *Cinder's send-off timing* (C: Ep20 vs E: carried to Bk2) → **E's carry**, with Slime taking
-  the Ep20 first-send-off slot so the pipeline still closes in-book (see 2D.1 note).
+- *Cinder's send-off timing* (C: Ep20 vs E: carried to Bk2) → originally **E's carry**, with
+  Slime taking the Ep20 first-send-off slot. **SUPERSEDED by the B2 red-team fix:** Cinder is
+  matched AND sent off on-page at Ep33 (see RED-TEAM FIX ADDENDUM); pipeline still closes in-book
+  (Slime @20, Cinder @33, Kettle @41), Phoenix foster→permanent @19.
 - *Arc-3 length* (12 vs 13 eps) → **13 (Eps 25–37)**, per CANON skeleton 12/12/13/12; Arc 3
   foregrounds two coupled axes (Lore + Mastery) and needs the room (B's A3).
 - *Number of Book-2 doors* (D floated three) → **exactly one** (`L-SERIES`), per C's "seal
