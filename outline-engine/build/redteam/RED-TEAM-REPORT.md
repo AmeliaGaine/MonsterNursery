@@ -139,3 +139,31 @@ foundation (Bertram, the cozy contract, the structural math) is sound. But the o
 is **not** breakout-ready until Themes A and B are fixed: a mystery that doesn't
 mechanically work and a send-off promise the book breaks are exactly the two things a
 cozy-LitRPG reader *will* notice.
+
+---
+
+# RESOLUTION STATUS (post fix-pass + verification)
+
+**All ~8 KILLs CLOSED and independently re-verified.**
+
+| Kill | Fix | Verify |
+|---|---|---|
+| K1 "why her" tautology | Cull Ledger (passive-recording sensor, seeded Ep1/3 → paid Ep47) | RT2-VERIFY: CLOSED |
+| K2 Ep45 climax invented | Supersession doctrine (seeded Ep6/8/17 → charter beats seizure Ep45) | RT2-VERIFY: CLOSED |
+| K3 Pike contradictory | Pike = consistent acquirer (seize-to-relicense, Ep24/38/39/49) | RT2-VERIFY: CLOSED |
+| K4 Phoenix never sent off | Phoenix foster→PERMANENT (declines placement Ep19); Ep41 boast fixed | RT1-VERIFY: CLOSED |
+| K5 Cinder/Kettle Arc-4 | Cinder sent off Ep33, Kettle Ep41; propagated to ALL contracts + scenes | RT1-VERIFY PARTIAL → now CLOSED (B2 roster freeze fully propagated) |
+| K6 Arc-4 LitRPG dead zone | Capstone unlocks: Advocacy II(43), Self-Sustaining(44), Charter tier(47), Codex complete(48), Sanctuary Network(49) | applied |
+| K7 voice-tic / false plateau | Arc-3 audit clock (Requests 1-2-3) = real live clock; tic to be capped | applied |
+| K8 cockatrice four-peat | Ep27 varied (broods a wren), Ep29 pebble-demo cut, Bertram reprint killed | applied |
+| K9 human plot-slots | Sorrel load-bearing in Edda thread; Grindle chooses; Liora claims aloud | applied |
+
+**Logic cracks** (dormant-vs-warm, comprehension-free-vs-Hearthglow, timeline) also CLOSED (RT2-VERIFY).
+
+**Remaining = non-killing MAJORs** (not blockers): Ledger leans on Edda's pre-planning;
+Pike's personal restraint not razor-crisp; emotion still monotone (RT4); some clockwork
+tells (RT5); voice-tic cap and literary-interior trims still to apply. None breaks the spine.
+
+**Revised verdict: the spine now holds — no open structural kill.** The outline is back
+to (and past) the "no structural kill" bar; the remaining work is MAJOR-tier polish, and
+the breakout leap remains a prose-execution property.
