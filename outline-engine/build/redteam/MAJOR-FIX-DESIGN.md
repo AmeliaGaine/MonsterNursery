@@ -33,12 +33,12 @@ bittersweet · contentment · fierce-protect · grief · vindication · hope · 
 | Ep | Color | | Ep | Color | | Ep | Color |
 |---|---|---|---|---|---|---|---|
 | 1 | resolve | | 18 | bittersweet | | 35 | melancholy |
-| 2 | mischief | | 19 | tenderness | | 36 | dread |
+| 2 | mischief | | 19 | tenderness | | 36 | sober-indignation |
 | 3 | wry-defeat | | 20 | bittersweet | | 37 | fierce-protect |
-| 4 | pride | | 21 | contentment | | 38 | cold-resolve |
+| 4 | pride | | 21 | contentment | | 38 | steady-resolve |
 | 5 | frustration→resolve | | 22 | mischief | | 39 | defiance |
 | 6 | vindication | | 23 | contentment | | 40 | grief |
-| 7 | awe | | 24 | unease | | 41 | bittersweet |
+| 7 | awe | | 24 | guarded-curiosity | | 41 | bittersweet |
 | 8 | wry-defeat | | 25 | curiosity | | 42 | hope |
 | 9 | mischief | | 26 | tenderness | | 43 | vindication |
 | 10 | melancholy | | 27 | tenderness | | 44 | awe |

@@ -61,3 +61,20 @@ with no Wonder ≥7; a flat axis run of 3+ episodes.
   check against `AXIS-ENVELOPE.md`. Returns `AXIS: PASS` or `AXIS: FAIL — <axis> below
   floor / foreground soft`, plus a book-level pass on the conservation laws after a batch.
 - Any FAIL blocks the write. Drift cannot accumulate because it cannot land once.
+
+## G1-EXT — COZY EMOTIONAL REGISTER (lane guard on emotional COLOR)
+The emotional palette may carry **weight and range** but must stay in the cozy register.
+A cozy story is not emotionless — it earns grief, longing, indignation — but it never
+makes the reader fear *for the safe place* (Promise 3).
+- **IN-LANE (allowed):** tender-grief, melancholy, longing, wistfulness, righteous
+  **indignation**, fierce **protectiveness**, sober/steady resolve, bittersweet,
+  contentment, pride, mischief, wonder, awe, hope, catharsis, wry-defeat, curiosity,
+  guarded wariness (mild).
+- **OUT-OF-LANE (banned as INTERIOR emotion / hook register):** dread, terror, despair,
+  menace, horror, foreboding, doom, "cold" as a feeling. These belong to grimdark/thriller.
+- **Exception:** the cull-economy / Monster Control may be rendered *cold / clinical* on
+  purpose (antagonist contrast) — that coldness is OUTSIDE, never Briarwick's interior,
+  and never the reader's relationship to the home.
+- **Hook-outs are CURIOSITY, not dread.** A cozy chapter ends on a *question, a pull, an
+  appetite, an intrigue* — never a sense of doom. The Lane Sentinel checks emotional color
+  the same way it checks cozy-stakes: a beat coloured `dread/menace/cold-interior` = `LANE: FAIL`.
