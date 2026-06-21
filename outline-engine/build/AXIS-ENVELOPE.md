@@ -195,3 +195,79 @@ mean. Two options:
 
 Recommendation: **option 1** — it respects the cozy-LitRPG's progression-plus-poignant-
 lore shape instead of papering humor over beats that should stay quiet.
+
+---
+
+# RECALIBRATION v2 — CANON-ANCHORED (Ep1/Ep2 set the baseline)
+
+*Supersedes the floor table above. The original floors were calibrated to a generic
+cozy book; this book's own canon prose (Ep1, Ep2) establishes a HIGHER house level on
+every axis. Floors raised accordingly. Key correction: **humor is a voice constant in
+this book, not a per-episode dial** — the dry deadpan + System quips run in every
+scene, including the grim ones (Ch1 stamps 93 cull-orders and is still wall-to-wall
+funny). Humor thins on heavy beats but never dies.*
+
+## The canon baseline (the house level all episodes are judged against)
+
+| Axis | Ep1 | Ep2 | Baseline (avg) | Reading |
+|---|---|---|---|---|
+| Cozy | 8 | 7 | **7.5** | near-constant warmth |
+| Humor | 7 | 8 | **7.5** | **voice constant** — always on |
+| Emotion | 7 | 6 | **6.5** | present→foreground |
+| Wonder | 6 | 4 | **5.0** | the one genuinely variable axis (Ep2 disaster = 4) |
+| Resonance | 8 | 6 | **7.0** | theme always threaded |
+
+## New role → floor profiles  [C / H / E / W / R]  (raised, canon-anchored)
+
+| Role | C | H | E | W | R | Foreground |
+|---|---|---|---|---|---|---|
+| Cozy-anchor (Ep1) | 7 | 6 | 6 | 3 | 7 | Cozy 8 + Resonance |
+| Comic (Ep2) | 6 | 7 | 5 | 2 | 6 | Humor **8** |
+| Cozy-process | 6 | 6 | 5 | 3 | 6 | Cozy 7 |
+| Tension-theme | 5 | 5 | 6 | 3 | 6 | Resonance/Emotion 7 |
+| Moral-cost | 5 | 4 | 7 | 4 | 7 | Emotion+Resonance |
+| Send-off | 6 | 5 | 7 | 3 | 6 | Emotion 7 |
+| Set-piece (wonder) | 6 | 4 | 5 | 7 | 6 | Wonder 7–8 |
+| Sensory-emotion | 5 | 4 | 6 | 6 | 6 | Emotion+Wonder |
+| Climax | 4 | 4 | 7 | 4 | 7 | Emotion+Resonance |
+| Grief/lore | 5 | 4 | 7 | 3 | 7 | Resonance 7 |
+| Resolution-warm | 6 | 5 | 6 | 4 | 7 | Emotion/Resonance |
+
+**Universal floors:** Humor ≥4 (the voice is never humorless), Cozy ≥4 (climax),
+Resonance ≥5. The grief/climax humor floor is **4, not 2** — even Edda's terminal gets
+the System's deadpan.
+
+## Re-flagged breaches vs the new floors  (current post-fix ratings)
+
+| Axis | Breaches | Episodes |
+|---|---|---|
+| **Humor** | **23** | 3,4,11,13,19,25,27,29,30,31,34,35,36,37,38,39,40,41,44,45,46,47,48 |
+| Emotion | 7 | 3,9,10,12,29,38,47 |
+| Cozy | 2 | 3,34 |
+| Resonance | 2 | 4,9 |
+| Wonder | 0 | — (the fix pass cleared wonder) |
+
+**The honest picture:** against the book's own canon, **humor is ~half-deficient (23/49).**
+The earlier "5 breaches" was an artifact of floors set too low. Cozy, wonder, and
+resonance are conserved; emotion is minor.
+
+## Conservation laws (corrected — humor target RAISED, not lowered)
+
+| Law | Target | Current | Status |
+|---|---|---|---|
+| **Humor mean** | **≥ 5.5** (Ep1/Ep2 avg 7.5 — 5.5 is the *floor* of "humorous") | 4.69 | ❌ |
+| **Humor highs (≥7)** | ≥ 12 | 9 | ❌ |
+| Humor floor (≥4 everywhere) | all eps | 8 eps below 4 (29,31,34,36,37,45,46,47) | ❌ |
+| Cozy / Wonder / Emotion / Resonance | — | all means ≥6.4 (W 5.35) | ✅ |
+
+**Reversal of the prior note:** I previously recommended lowering the humor-mean law to
+5.0 and called ~8 episodes "correctly humor-suppressed to 2–3." Anchored to canon, that
+was wrong. **Keep mean ≥5.5; raise the per-episode floor to 4.** The grief/climax beats
+should still carry dry wit, not go silent.
+
+## The fix is the creature engine, not forced jokes
+The 23 humor breaches are addressed by `FRICTION-SCHEDULE.md` — a per-episode assignment
+of creature anti-synergy (comic friction) and synergy (cozy) beats from
+`cast-synergy-map.md`, front-loading foster chaos (Arcs 1–3) and carrying Arc 4 on the
+permanent core (Kraken×Corehound, Corehound-internal, Gargoyle×Cockatrice). This lifts
+humor to its floors *in the book's own voice* rather than papering jokes on.
