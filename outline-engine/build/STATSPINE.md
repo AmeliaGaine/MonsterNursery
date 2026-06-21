@@ -315,3 +315,16 @@ to an earlier unlock; Hearthglow is a real, biting economy with a genuine
 unaffordable-save trade-off (Arc 2) and a spent-to-the-floor climax (Arc 4).
 
 **— END OF STATSPINE.md · Stage 3.5 lock —**
+
+---
+## RED-TEAM FIX ADDENDUM (see redteam/FIX-DESIGN.md)
+- **Roster freeze (B2):** Cinder departs Ep33 — freeze his Bond at the Ep33 value; NO
+  Arc-4 Cinder ticks; remove from ep-45. Kettle departs Ep41 — no Ep45 presence; Arc-4
+  alarm function = Corehound alarm-head. Phoenix: foster→PERMANENT (declines placement
+  Ep19); remains in roster all book.
+- **Arc-4 capstone unlocks (C — restores LitRPG progression, all in-sequence + upkeep):**
+  Ep43 **Advocacy II** (upkeep: public exposure raises stakes). Ep44 **Habitat Stability →
+  Self-Sustaining** threshold (Bertram keystone as a stat). Ep47–48 **Rank: Matron →
+  Sanctuary Charter tier** (Briarwick gains its own jurisdiction — system-state change).
+  Ep48 **Bestiary/Codex → Complete (Book 1)**. Ep49 **feature unlocked: Sanctuary Network
+  (dormant)** = Book-2 progression door. Arc 4 now spikes progression at the finale.

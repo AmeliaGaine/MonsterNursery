@@ -524,3 +524,17 @@ Ep1/8, Basking Nook/Cinder Ep4, Brew Pool Ep9, West Wing sporeglow Ep18); voice 
 left intact for the prose layer.
 
 **— END OF ARCHITECTURE.md · IMMUTABLE FOR STAGE 3 —**
+
+---
+## RED-TEAM FIX ADDENDUM (see redteam/FIX-DESIGN.md) — supersedes conflicting earlier text
+- **The Cull Ledger (mystery sensor):** the System was passive-RECORDING, not dead. It
+  logs every Control clerk's cull/spare choice under Briarwick's jurisdiction. Edda's
+  will reactivates it for the first key-holder who REFUSES a cull and files a sanctuary
+  hold — Liora's Ep1 green-stamp IS that trigger. "Why her" = the Ledger recorded her
+  choice (detected, not assumed). Seeded Ep1/3 → paid Ep47.
+- **Supersession doctrine (climax seed):** higher-order municipal forms supersede lower;
+  the 1842 charter is highest. Seeded Ep6/8/17 (small wins) → Ep45 the charter supersedes
+  Pike's seizure order. No invented climax.
+- **Pike = acquirer, not destroyer:** wants the care-economy privatized under Control;
+  every move is acquisition/custodian-transfer (Ep38 seize-to-relicense), continuous with
+  the Ep49 Book-2 hook. He never tried to raze Briarwick.

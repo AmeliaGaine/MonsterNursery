@@ -94,3 +94,11 @@ structure. Unresolved creative choices are marked `[OPEN: architects decide]`.
 
 `[OPEN]` items for architects: East Wing finale occupant; exact identity of the
 series-door behind Pike; whether Rhea and Edda are the same thread or two.
+
+---
+## RED-TEAM FIX ADDENDUM (canon — see redteam/FIX-DESIGN.md)
+- The System keeps a **Cull Ledger** (passive recording since the purge); it reactivates
+  for the key-holder who refuses a cull (Liora, Ep1). "Dormant" = passive-recording.
+- **Pike** wants to ACQUIRE/privatize the care-economy under Control, never to raze
+  Briarwick; his moves are acquisition/custodian-transfer tactics.
+- **Pocket Phoenix** is a foster that becomes PERMANENT (declines placement, Ep19).
