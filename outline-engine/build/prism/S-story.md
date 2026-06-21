@@ -1,0 +1,125 @@
+# PRISM S — "Devon, the Story / Mystery reader" rates *The Monster Nursery, Book 1* (OUTLINE)
+
+*In character. I read for the plot clicking shut: foreshadowing→payoff, a protagonist
+who actually changes, antagonist logic that holds, a mystery that LANDS, and an ending
+that resolves AND opens a door. I DNF on asserted reveals, "the System just knows,"
+flat protagonists, and tautological mysteries. I judged the book this outline promises.*
+
+---
+
+## Overall: **8.5 / 10**
+
+A genuinely well-built mystery box. The thing that usually kills a LitRPG for me — the
+reveal that arrives by fiat — has been seen coming and *defused*. "Why her?" is the
+question the whole apparatus is wired to, and the answer is a **sensor**, not a vibe.
+That's the move that earns the score.
+
+---
+
+## Sub-scores
+
+| Axis | Score | Verdict |
+|---|---|---|
+| Plot coherence / logic | **9 / 10** | Loops open before they close, LIFO discipline holds, stats chain across every seam, the gear-train (arc-N upkeep = arc-N+1 problem) is real causality, not flavor. |
+| Mystery seed→payoff ("why her" lands?) | **9 / 10** | The Cull Ledger is the save. It is a *detector* seeded Ep1/3 and paid Ep47 — "the System recorded her choice," not "the System sensed her purity." Mechanically earned. |
+| Protagonist arc (does Liora change?) | **8 / 10** | Liability→Belonging is a tracked meta-clock, not an assertion. She goes culler→carer→Matron and the final beat is her *not deflecting* the word — which lands because deflection was established as her voice-fingerprint in Ep1. |
+| Antagonist (Pike) credibility | **7 / 10** | The acquirer-not-destroyer retcon is the smart, in-lane choice and it makes the Book-2 door logical. But Pike is *named weight*, not a present mind, for most of Book 1. He's a credible threat-shape, not yet a credible person. |
+| Finale satisfaction (resolve + open) | **9 / 10** | 16 loops close, one door (`L-SERIES`) ajar, and the door is an *appetite* (a will can be inherited → it can be stolen) rather than a cruelty. Win is taken at the bottom of the Hearthglow jar — earned, not gifted. |
+
+---
+
+## The reveals — do the seeds mechanically pay off? (spot-check)
+
+**Ep1 / Ep3 — "Why her?" (the one that usually breaks the book).**
+This is the make-or-break and it's the strongest thing here. The naive version — "the
+System woke for Liora because she's the kind soul it was waiting for" — is a tautology
+and I'd DNF on it. The outline *knows that* and installs the **Cull Ledger**: the System
+has been passive-RECORDING every clerk's cull/spare decision under Briarwick's
+jurisdiction since the purge. Edda's will reactivates it for the first key-holder who
+*refuses a cull and files a sanctuary hold* — Liora's Ep1 green-stamp **is** the trigger.
+So "why her" = "the Ledger detected a logged behavior," not "the System just knew." That
+is a sensor with a threshold. It pays at Ep47 as the resolution of a thing seeded at the
+literal first action of the book. This clicks shut. (Ep3 "Why Her?" — Cress refuses all
+hands but Liora's, System notes addressed *to her* — is the dramatic-irony foreshadow of
+the same mechanism, one scale down. Good.)
+
+**Ep30/31 — sporeglow seam → East Wing → Archive.**
+The investigation has a *tool chain*: the Puddle Slime dissolves over-paint (redaction-
+remover), Kettle shrieks loudest near the terminal (proximity alarm), a Corehound head
+flags Rhea's scent (family lie-detector). The reveals are reached by deployed creature-
+capabilities, not by Liora suddenly intuiting. "Restoring the room *is* unlocking the
+secret" — the lore is gated behind labor. I trust a mystery that makes you *clean the
+plaque* to read the name.
+
+**Ep40 / 46 / 47 — meeting Edda.**
+The voice = Edda's, flattened by years running unattended. This is seeded relentlessly
+from Ep6 ("too specific to be generic") through the voice-drift tachometer that warms in
+every chapter. By the time it near-breaks on the word *Edda* (40) and resolves (46), the
+reveal is the *cashing* of a meter the reader has been watching tick the whole book. The
+"Mm." = Bertram-kept-her-post-for-a-generation recontextualization is a proper reread-bomb:
+a detail planted Ep1/8 that means something new at Ep46. That's the Goblin-Emperor-grade
+move — a quiet character who was load-bearing all along.
+
+**Ep45 — the seizure breaks.**
+My one worry going in was a deus-ex finale, and the **supersession doctrine** addendum
+pre-empts it: the 1842 charter outranks Pike's order, and that's *seeded at Ep6/8/17* as
+small municipal wins before it's the climax key. The win is "closed as paperwork, clause
+by clause," with Hearthglow drained to ~3. Care + cleverness, no invented power. Honest.
+
+**Ep49 — recognition + Pike's filing.**
+Resolves (Regional, Recognized, Matron) and opens exactly one door. The door is logically
+forced by the *answer*: the same will that names an heir can be contested by the man who
+erased the last one. That's the rare cliffhanger I respect — it's generated by the
+mechanism, not bolted on.
+
+---
+
+## The gripes (in fairness)
+
+- **Pike is a silhouette in Book 1.** He "lands with weight" (24), "moves" (37), and files
+  (49), but he never gets a scene that makes him a *mind* I fear rather than a force I'm
+  told about. The retcon makes him coherent; it doesn't make him present. I'm pre-ordering
+  Book 2 partly on faith that he becomes a character.
+- **The seam-report is doing visible load-bearing.** A reader never sees it, but the sheer
+  volume of "RESOLVED via F3/R2," cookie re-typings, and a +1 idle-tick added *to make a
+  declared exit number match* tells me the machine was tuned after the fact. It all
+  reconciles — but it's the outline equivalent of seeing the scaffolding. Nothing here is a
+  plot hole; it's a confidence wobble.
+- **Mystery-as-relationship is the bet.** "The reader wants *more of her* (Edda), not the
+  answer" is the right instinct, but on the page it lives or dies on whether the deadpan
+  voice actually charms. The outline can't prove that; the prose has to. I'm scoring the
+  promise generously and noting the risk.
+
+---
+
+## The reader verdict
+
+- **Would I finish?** Yes. The "safe-for-now / not-safe-for-good" gap is real and the loop
+  density never lets me find a clean stopping point. That's the whole job and it's done.
+- **Would I recommend?** Yes — specifically to the cozy-mystery-adjacent crowd who want
+  structure under the warmth.
+- **Would I pre-order Book 2?** Yes. The one door is the *good* kind of open: an inheritance
+  that can be stolen. I want to know if Liora keeps the key.
+- **Star: ★★★★½ / 5**
+
+---
+
+## My honest review line
+
+> *"A cozy LitRPG that does the one thing the genre keeps fumbling — it makes 'why you?'
+> a clue you can verify, not a compliment the universe pays the hero. The plot clicks
+> shut; the ghost is the best character; the door it leaves open is a will, not a cliff."*
+
+---
+
+## The ONE thing that most RAISES my score
+The **Cull Ledger** sensor (with the supersession-doctrine charter as its twin). It
+converts the two reveals most likely to be cheated — *why her* and *how does the home
+survive* — from asserted to **detected/earned**. That single addendum is the difference
+between a 6 and an 8.5 for a reader like me.
+
+## The ONE thing that most LOWERS my score
+**Pike has no face yet.** The book's whole engine is "fall for a person in installments,"
+and it nails that for the dead woman (Edda) — but the living antagonist gets zero of that
+treatment in Book 1. He's a credible threat-shape and a logical Book-2 hook, but not, yet,
+a person whose logic I've watched operate. That's the ceiling I'm holding back.
