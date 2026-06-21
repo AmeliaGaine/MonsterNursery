@@ -538,3 +538,7 @@ left intact for the prose layer.
 - **Pike = acquirer, not destroyer:** wants the care-economy privatized under Control;
   every move is acquisition/custodian-transfer (Ep38 seize-to-relicense), continuous with
   the Ep49 Book-2 hook. He never tried to raze Briarwick.
+- **B2 supersession (roster):** the earlier `L-CINDER` design ("match seeded ~Ep33, send-off
+  *carried to Book 2*") is SUPERSEDED — Cinder is **matched AND sent off on-page at Ep33**;
+  he is absent from all Arc-4 rosters/stat-ticks. Phoenix is foster→PERMANENT (declines
+  placement Ep19). Book-1 send-offs: Slime @20, Cinder @33, Kettle @41; Phoenix stays.

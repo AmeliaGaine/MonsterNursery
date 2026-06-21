@@ -58,7 +58,7 @@ they depart. Arc 4 humor is carried entirely by the PERMANENT CORE.*
 | 36 | Cress, Bertram, Kraken, Phoenix, Kettle, Corehound, Cockatrice | (CLIMAX pt.1 — DRY) As the documents turn the room cold, the food-head Corehound chooses this exact moment to lodge a biscuit grievance. One dry beat. | GARGOYLE×COCKATRICE hold steady as two stones while the room turns — unbothered evidence. | Biscuit tribunal (dry) |
 | 37 | Cress, Bertram, Kraken, Phoenix, Kettle, Corehound, Cockatrice | (CLIMAX pt.2 — DRY) Under stress-test the three heads finally vote as one — alarm — and it's correct; the dry joke is they agreed only because it's serious. | COREHOUND×SHRIEKMOTH security duet carries the held house; the family moves as one organism. | Three-way vote (dry) |
 
-### — ARC 4 BOUNDARY: fosters gone except Phoenix; humor now on the PERMANENT CORE —
+### — ARC 4 BOUNDARY (Ep38): Slime(@20) + Cinder(@33) gone; Kettle departs @41; Phoenix is foster→PERMANENT — humor now on the PERMANENT CORE —
 
 | Ep | Cast present (short) | FRICTION beat (humor) | SYNERGY beat (cozy warmth) | Running-gag tag |
 |---|---|---|---|---|

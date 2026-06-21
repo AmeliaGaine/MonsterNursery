@@ -186,7 +186,8 @@ the Habitat Stability gain is not monotonic; the reader learns gains can reverse
 | Caregiver Rank | Custodian III | **Acting Matron** (@33) | Town Ally + Archive opened |
 | Renown | Town Ally | **Town Ally (high) → Regional-pending** | Public Handling@29; town turns on the cockatrice question (`L-FEAR` progressing) |
 | **Bond: Cress** | 63% | **74%** | Moonwell as gathering pool; Lull |
-| **Bond: Cinder** | 60% | **72%** | match seeded ~Ep33 (send-off carried to Bk2) |
+| **Bond: Cinder** | 60% | **72% (frozen @33)** | matched + sent off ON-PAGE Ep33 (B2 fix); absent from Arc 4 |
+| **Bond: Phoenix** | foster | **permanent (declined placement @19)** | first foster→permanent; stays all book (B1 fix) |
 | **Bond: Bertram** | 57% | **70%** | guards the East-Wing terminal; "Mm." deepening |
 | **Bond: Tea Kraken** | 55% | **68%** | tea softens the System (lore vector) |
 | **Bond: Kettle** | 40% | **62%** | Corehound↔Shriekmoth security duet @34; shriek→chime turning |
@@ -207,7 +208,7 @@ the Habitat Stability gain is not monotonic; the reader learns gains can reverse
 | Caregiver Rank | Acting Matron | **Matron** (@48) | `L-LIORA` — earned by defending home (Ep48) |
 | Renown | Town Ally(high)/Regional-pending | **Regional** (@49) | Town stands (`L-FEAR` closes @43); recognition lands Regional |
 | **Bond: Cress** | 74% | **82%** | held calm through the raid |
-| **Bond: Cinder** | 72% | **80%** | (match seeded; parting deferred to Bk2) |
+| **Bond: Phoenix** | permanent | **~80%** | foster→permanent (declined placement @19); the anxious bird, home at last |
 | **Bond: Bertram** | 70% | **86%** | keystone reveal (Ep44–46); "Mm." recontextualized as the patient *yes* |
 | **Bond: Tea Kraken** | 68% | **78%** | tea steadies the house during the seizure |
 | **Bond: Kettle** | 62% | **PLACED @41** (~75% at send-off) | `L-KETTLE` — last, hardest send-off; shriek→chime |
