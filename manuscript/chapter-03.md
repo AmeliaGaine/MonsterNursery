@@ -1,315 +1,999 @@
 # Episode 3
 
-## The Inventory of Ruin
+## Why Her?
 
-Liora woke on the kitchen floor with a draught in one ear and a duck pressed into her cheek.
+Cress refused breakfast for the third time that morning.
 
-The towel had migrated in the night.
+Not dramatically.
 
-She did not remember falling asleep. She remembered finding the second towel, deciding to sit down for one administrative moment, and being betrayed by the moment, which had lasted six hours and taken her dignity with it. Grey morning came through the kitchen window, thin and apologetic. The stove watched her with the steady warmth of a thing that had stayed lit all night and felt strongly that someone should notice.
+Not stubbornly.
 
-“Good morning,” Liora told it.
+Politely, which was worse.
 
-The stove clicked, smug.
+The bowl sat between his folded legs and the moonwell, steaming gently in the grey light. Mineral milk cooled fast in winter. Liora had learned this after warming it once, then twice, then a third time while trying not to take the refusal personally.
 
-Cinder slept in the washbasin. Cress slept against the washbasin. The cooling ring had faded to a faint copper line, the ash-water had gone the colour of weak regret, and nothing within reach was on fire.
+She was taking it personally.
 
-Liora recorded that as a personal achievement.
+That was inconvenient.
 
-Her back disagreed with the floor. Her knees filed separately. She stood the way old furniture stands when it has been leaned on for years, joint by joint and under protest, and went to find the Ledger.
+“Small sips,” she said.
 
-The Ledger had dragged itself to the doorway sometime in the night.
+Cress looked at the bowl.
 
-It waited there with the smug stillness of a book that knew something she did not and intended to enjoy telling her.
+Then at the wall.
 
-“Don’t,” Liora said.
+The wall had mildew.
 
-It thumped once.
+Apparently mildew was more persuasive.
 
-“I haven’t had tea.”
+“Right,” Liora said. “Excellent conversation.”
 
-It thumped twice.
+Behind her, the moonwell dripped.
 
-She made the tea. The blackleaf forgave her, the way hot water forgave most things, and she carried the cup back and sat on the floor beside the Ledger, because chairs at Briarwick remained, for now, a rumour.
+Drop.
 
-She opened it.
+Drop.
 
-```
-RECOMMENDED NEXT ACTION: INVENTORY OF RUIN
-```
+Drop.
 
-“Yes,” Liora said. “You were very clear last night.”
+It had been doing that for twenty minutes, which made it either plumbing or commentary.
 
-The page did not apologise.
+Liora knelt on the cold stone floor with both hands wrapped around the bowl. Her skirt was damp at the knees. Her back had filed several complaints. One sleeve still had two small singe holes from Cinder, who had spent the night in the kitchen washbasin under a cooling ring, snoring warm smoke into an ash bowl.
 
-Ink stirred. A new heading wrote itself in the careful hand of something that had been filing reports since before she was born.
+Briarwick’s first morning as an occupied nursery had opened with frost on the inside of the windows, a ledger that underlined laundry twice, and two residents requiring different breakfasts.
 
-```
-[FACILITY AUDIT — INITIATED]
+This was not a schedule.
 
-Inspection Window: 6 days, 4 hours
-Passing Threshold: License Compliance 60%
-Current: 13%
+This was weather with paperwork.
 
-Note: The bar does not move. You may.
-```
-
-Liora looked at the number for a while.
-
-Forty-seven points. Six days. Two residents, no staff, and a building that groaned when she looked at it directly.
-
-“Manageable,” she lied.
-
-The tea, loyally, said nothing.
-
-She had spent four years auditing other people’s disasters. She knew the shape of the work. You did not fix a ruin by loving it. You fixed it by counting it first, line by line, until the panic became a list, because a list could be argued with and panic could not.
-
-“Right,” she said. “Show me the worst of it.”
-
-The Ledger was delighted to.
+The system chimed.
 
 ```
-[HAZARD INVENTORY]
-
-Structural:
-- Chimney: leaning, decorative until it isn't
-- Roof: enthusiastic about water
-- Glasshouse: 9 panes cracked, 1 missing, 1 described only as "philosophical"
-
-Grounds:
-- Pond: opaque, occupied, unfriendly
-- Front path: reclaimed by brambles with intent
-- West Wing: do not lick walls
-
-Domestic:
-- Towels: insufficient
-- Towels: still insufficient
+[FEEDING CHECK]
+Resident: Cress
+Meal: Mineral Milk, warmed
+Feeding Attempt: 3 of 3
+Intake: 0 g
+Appetite: present
+Obstruction: unlisted
+Morning Compliance Window: closing
+Recommendation: identify variable.
 ```
 
-“I am aware of the towels.”
+“Unlisted,” Liora said.
 
-The Ledger underlined them anyway.
+Cress flicked one ear.
 
-She went to see the chimney, because the chimney was first on the list and because standing upright had begun to seem like a thing she should practise.
+“I agree. Rude.”
 
-Cress woke and followed. Cinder woke, considered the moral weight of following, and was carried, because a loose ember-toad in a building made of kindling was not a risk Liora intended to relitigate before breakfast.
+She set the bowl down again.
 
-Bertram watched them come from beside the front door.
+Cress lowered his nose.
 
-“Mm,” he said.
+For one hopeful second, he breathed in the steam.
 
-“Inventory,” Liora said.
+Then Fen’s shadow fell across the moonwell threshold.
 
-“Mm.”
+Cress stepped back.
 
-“Of the ruin.”
+The bowl remained untouched.
 
-“Mm.”
+Fen froze with one boot in the doorway.
 
-“You could pace yourself.”
+“Oh,” Fen said. “Sorry. I was trying to be useful.”
 
-Bertram did not pace himself.
+Fen was trying very hard to be useful.
 
-Outside, the morning had decided to be almost kind. Pale light lay across the overgrown yard. The chimney leaned over the east roof at an angle that suggested it had given up on the vertical as a lifestyle and found something more relaxing.
+That had become clear within four minutes of their arrival at dawn, carrying a municipal message bag, three wrapped oatcakes, and a letter from Grindle that said, in a tone of inked disapproval, that Briarwick’s emergency custodian was entitled to temporary clerical assistance until review.
 
-Liora tilted her head to match it.
+Temporary.
 
-The chimney did not improve.
+Clerical.
 
-“You are going to fall on something I cannot afford,” she told it.
+Assistance.
 
-The chimney, being masonry, declined to comment. A single brick shifted near the top, thought better of it, and stayed. Cress made a low, worried sound and leaned against her hip. Cinder tried to eat a leaf.
+Fen had read the words aloud with the expression of someone being knighted.
 
-“Not food.”
+They were young enough to look too slight for their overlarge coat and old enough to be insulted if anyone said so. Their hair escaped its tie in six directions. Their boots had city mud on them. Their eyes kept moving from Cress to the moonwell to the Ledger with the naked hope of a person who had expected paperwork and found a place that breathed.
 
-It ate the leaf.
+Liora had not asked for an apprentice.
 
-“We will discuss your relationship with the inedible later.”
+She had also not asked for an egg, a mooncalf, or a building with opinions.
 
-She crouched, found a fallen slate, and propped it against the base of the chimney the way she had once flagged broken equipment for a maintenance queue that never came. Old habit. Useless habit, probably.
+The morning was developing a pattern.
 
-The key warmed in her pocket.
+“It’s not your fault,” Liora said.
+
+Fen looked at the bowl.
+
+“May I try?”
+
+Liora should have said no.
+
+Not because Fen was wrong. Because Fen looked as if the question mattered.
+
+That was dangerous. Hope made poor protective equipment.
+
+Still, the compliance window was closing, and Cress had eaten nothing since moonrise.
+
+“Same steps,” Liora said. “Low approach. Bowl steady. No sudden hands. Let him come to you.”
+
+Fen nodded as if receiving field command.
+
+They washed their hands twice.
+
+They warmed the bowl.
+
+They approached from the side, slowly, with the care of someone carrying a candle across a library.
+
+Cress watched.
+
+His ears stayed forward.
+
+Fen’s mouth parted.
+
+Then Cress looked at the bowl.
+
+Looked at Fen.
+
+And turned his face to the wall.
+
+Fen’s shoulders dropped by a single degree.
+
+Liora saw it.
+
+She pretended not to, because sometimes mercy was giving someone room to recover their own face.
+
+“Well,” Fen said brightly. Too brightly. “That was attempt one.”
+
+“Technically attempt four.”
+
+“Helpful.”
+
+“I try.”
+
+Fen tried again.
+
+Same bowl.
+
+Same posture.
+
+Same slow approach.
+
+Liora watched every variable because variables were honest, even when creatures were not. Bowl temperature: correct. Distance: correct. Voice: soft. Hands: clean. Shadow angle: not ideal but acceptable. Fen’s breathing: nervous, but under control.
+
+Cress refused.
+
+Not afraid.
+
+Not panicked.
+
+Closed.
+
+Fen swallowed.
+
+“Maybe the bowl cooled.”
+
+“It did not cool.”
+
+“It might have cooled emotionally.”
+
+“That is not a measurable category.”
+
+The moonwell dripped.
+
+The system did not comment.
+
+Liora picked up the bowl and crossed to the kitchen.
+
+Cinder was awake.
+
+Cinder was always awake when breakfast existed as a concept.
+
+The ember-toad sat in the washbasin with all four feet tucked beneath him, glowing faintly in the ash-water. He watched the bowl with the seriousness of a magistrate considering a biscuit.
+
+“No,” Liora told him.
+
+Cinder peeped.
+
+“This is mooncalf food.”
+
+He peeped again.
+
+“You ate ash porridge, three receipts, and part of my sleeve.”
+
+Cinder looked at the sleeve.
+
+Then at her.
+
+Then back at the bowl.
+
+His moral position remained unchanged.
+
+Liora warmed the milk over the stove, using the silver spoon and no whistle. Mooncalves found whistling judgmental. She did not know who had discovered this. She respected them.
+
+Fen stood beside her, hands clasped too tight.
+
+“I did exactly what you did.”
+
+“You did.”
+
+“Then why won’t he take it?”
+
+“That is what we are finding out.”
+
+Fen looked toward the moonwell door.
+
+“I thought he might.”
+
+The words came out small.
+
+Liora pretended to inspect the spoon.
+
+“You want to be good at this.”
+
+Fen flushed. “Everyone wants to be good at something.”
+
+“Not Pollard.”
+
+“Who?”
+
+“Never mind. Bad example.”
+
+The milk steamed.
+
+A little spilled over the spoon and ran down the counter in a pale line.
+
+Before Liora could reach it, Cinder levered himself out of the basin with the slow determination of a creature answering a civic emergency. He landed on the counter.
+
+“Cinder.”
+
+He ignored her.
+
+He waddled to the spill, lowered his whole warm belly onto the wet line, and sat.
+
+The milk hissed dry.
+
+The feeding ledger lay open beneath him.
+
+The ink browned.
+
+The page curled at both corners.
+
+Fen stared.
+
+Liora stared.
+
+Cinder looked up at them, plainly waiting to be thanked.
+
+“That was the only legible copy,” Liora said.
+
+Cinder did not move.
+
+The day’s intake was now warm, dry, and unreadable.
+
+The system chimed.
 
 ```
-[ASSESSMENT LOGGED]
-
-Hazard noted: Chimney (leaning)
-New Feature Unlocked: UPGRADE MENU
-
-You may now queue repairs against available Hearthglow.
-Repairs require materials, time, and the radical act of choosing one thing first.
-
-Hearthglow available: 2
-Estimated cost to stabilise chimney: 9
-
-Custodian Note: You cannot fix everything today. You can fix the next thing.
+[COMPLIANCE IDLE-TICK]
+Morning care procedures followed.
+Outcome: anomalous, not deficient.
+License Compliance: 13% → 14%
+Ledger Legibility: reduced
+Cause: occupant initiative
+Filed as care.
 ```
 
-“Nine,” Liora said. “I have two.”
+“Filed as care,” Liora said.
 
-The menu shimmered, unbothered.
+Fen looked at Cinder.
 
-She added the chimney to the queue anyway, where it sat in patient amber letters, the first item in a list that would get longer before it got shorter.
+Cinder blinked.
 
-That was fine.
+“I think he helped.”
 
-Lists, at least, she understood.
+“He did help. That is the problem.”
 
-The glasshouse sat at the heart of the house like a held breath.
+She lifted the toad with both hands and returned him to the washbasin. He accepted this with the dignity of a public servant unfairly removed from office.
 
-It had been beautiful. Liora could see that, the way she had seen it in the moonwell room, and the seeing cost her the same small toll. Light came down through the surviving panes in long dusty columns. Ferns had colonised a planter. A bench had rotted at one end and was being slowly disassembled by something patient and many-legged that Liora chose to think of as a tenant rather than an infestation.
+Fen carried the rewarmed bowl back to the moonwell.
 
-She pressed a board near the bench. It gave like wet bread.
+Cress watched them come in.
 
-“Rot,” she said.
+This time, Liora stood outside the threshold.
 
-The Ledger, distantly, underlined something.
+Fen knelt alone.
 
-The rot ran along the north wall in a soft grey bloom, the kind of damage that did not announce itself until the floor did. She had seen it eat municipal archives. She had filed the forms that condemned the buildings the archives lived in. She knew exactly how long you could ignore it, which was: not as long as she had.
+“Small sips,” Fen said, copying her exactly.
 
-Six days.
+Cress looked at the bowl.
 
-The glasshouse, philosophically, dripped.
+His nostrils quivered.
 
-The pond lay at the bottom of the yard under a skin of green that had stopped being water and started being a community.
+He wanted it.
 
-Liora approached it with the caution of a clerk approaching an unlabelled jar.
+That was the worst part.
 
-Something beneath the surface produced a single, contemplative bubble.
+His body wanted it. His fear, or whatever lay under fear, would not let him take it.
 
-The bubble rose. It arrived. It popped with a sound like a small door closing in another room, and the green skin settled, and whatever had made it returned to whatever it had been doing, which Liora elected not to investigate.
+Fen held still until their knees must have hurt.
 
-“No,” she told the pond.
+Cress did not move.
 
-The pond kept its opinion.
+The moonwell dripped.
 
-There were relationships one did not begin before the second cup of tea, and most of them, she was learning, lived at Briarwick. She made a note in the Ledger. The note read *pond: later*, underlined, the way one underlines a thing to make the avoidance official.
+Drop.
 
-The West Wing door waited at the end of a corridor that smelled of cold stone and older secrets.
+Drop.
 
-A painted sign hung crooked above the handle, its letters faded but legible, its tone unmistakable.
+Drop.
+
+The compliance window closed.
+
+Liora felt it happen even before the Ledger thumped from the front hall, which was unfair, since she had not agreed to develop a sense for administrative disappointment.
+
+Fen set the bowl down.
+
+“I’m sorry.”
+
+“Don’t be.”
+
+“He doesn’t trust me.”
+
+“He doesn’t know you.”
+
+“He trusted you.”
+
+“No,” Liora said.
+
+The word came too fast.
+
+Fen looked up.
+
+Liora took the bowl before they could ask the question sitting between them.
+
+No, she wanted to say. He did not trust me. I signed a form. I held a key. I happened to be there.
+
+None of those were answers.
+
+They were covers.
+
+She knelt.
+
+Cress turned toward her before she spoke.
+
+That was not helpful.
+
+“Small sips,” she said.
+
+Her voice came out flatter than usual.
+
+Cress stepped forward.
+
+Not quickly.
+
+Not eagerly.
+
+Surely.
+
+He lowered his narrow head and drank.
+
+The bowl shook in Liora’s hands.
+
+She kept it steady.
+
+That was her job.
+
+His throat moved once.
+
+Twice.
+
+Then again, with the slow, careful rhythm of a creature choosing life because one pair of hands had become less frightening than hunger.
+
+Fen made a soft sound behind her.
+
+Liora did not look back.
+
+Cress drank until the bowl was empty.
+
+Every drop.
+
+When he finished, his chipped horn glowed with a fine silver seam from base to tip. Moonlight moved across the crack and held there, not repairing it, not pretending it had not happened.
+
+Only holding.
+
+The system chimed.
+
+Gently.
 
 ```
-WEST WING — DO NOT LICK WALLS
+[FEEDING ACCEPTED]
+Resident: Cress
+Meal: Mineral Milk
+Outcome: complete
+Bond Trust: 20% → 30%
+Condition: Wary → Bonded to Primary Caregiver
+Trust Threshold Reached: First Reliance
+Note:
+The well always knew which hands.
+Welcome back to the rota.
 ```
 
-“I have no intention,” Liora said.
+Liora stared at the final line.
 
-Cinder had every intention.
+Welcome back.
 
-The toad lunged in her arms with the focused ambition of a creature that had read the sign, understood the sign, and disagreed with the sign on principle. Its tongue extended toward the nearest wall.
+The words sat in the panel like a cup placed on the wrong shelf.
 
-“Absolutely not.”
+She had never been on a rota at Briarwick.
 
-She turned, denying the wall to the toad and the toad to the wall, and Cinder sulked the specific sulk of someone prevented from a bad idea they had been looking forward to. The wall, for its part, did nothing. It sat there being a wall. It was very good at it.
+She had never worked in a nursery.
 
-But.
+She had never fed a mooncalf before yesterday, never repaired a moonwell before moonrise, never been anything here except the latest person foolish enough to say no in a room full of people waiting for yes.
 
-Liora paused.
+Cress nudged her wrist.
 
-The stone was faintly warm. Not stove-warm. Not body-warm. Warm the way a thing is warm when something on the other side of it is breathing.
+His nose was damp.
 
-She put her hand flat against it.
+His trust percentage was thirty.
 
-The wall said nothing.
+That should have been a victory.
 
-Then, very far away and very deep, it knocked once.
+It felt like being named in a document she had not signed.
 
-Cress’s ears went forward. Cinder went still. Liora stood with her palm on a warm wall in a condemned wing of a building she had owned for one day, and decided, with the firm administrative calm of a woman managing exactly one crisis at a time, that this was a problem for a future Liora who had more towels.
+Fen, very carefully, said nothing.
 
-“Noted,” she said softly. “Not today.”
+Liora appreciated this enough to almost like them.
 
-She wrote it down so it would stop being a feeling and start being an item.
+“The method worked,” she said.
 
-The inventory took the rest of the morning.
+Fen blinked.
 
-She counted what stood and what leaned, what worked and what only remembered working, what could be saved with Hearthglow and what could be saved with a broom and a grudge. The list grew. Briarwick, it turned out, was less a building than a long argument between stone and weather that the stone was slowly losing.
+“Gentle Handling I. Low approach, stable tone, no sudden hands. The method worked.”
 
-But it was not lost.
+Cress leaned against her knee.
 
-That was the thing she kept arriving at, between the rot and the brambles and the philosophical pane.
+Fen looked at Cress.
 
-Not whole. Not safe. Not hers, not really, not yet.
+Then at Liora.
 
-But not lost.
+“The method had my hands too.”
 
-She returned to the front hall, where Cress had folded himself under the round desk and Cinder had fallen asleep on Cress in the shape of a comma that occasionally smoked. The Ledger lay open on the desk, waiting, because it had been saving something.
+“Yes,” Liora said. “It is clearly a method with opinions.”
 
-It flipped two pages.
+The panel stayed open.
 
-```
-[NEW FEATURE UNLOCKED: NURSERY LOG]
-
-A facility that knows its residents is a facility that can defend them.
-Each creature stabilised may be entered into the permanent record.
-
-First Entries Available:
-
-RESIDENT 01 — CRESS
-Class: Lunar Mooncalf, juvenile
-Condition: stabilised, wary, improving
-Notes: weaponises ears. Dislikes whistling. Drinks in small sips.
-Bond Trust: 20%
-
-RESIDENT 02 — CINDER
-Class: Ember-Toad, newly hatched
-Condition: warm, supervised, smug
-Notes: eats records, regrets nothing. See: furniture loss.
-Bond Trust: 9%
-```
-
-Liora read both entries twice.
-
-Her throat did the inconvenient thing.
-
-“We are not crying over a filing system,” she told it.
-
-The filing system, with great delicacy, said nothing.
-
-She was about to close the Ledger when the page turned itself.
-
-Not forward.
+Welcome back to the rota.
 
 Back.
 
-It went back past her own first entry, past the blank years, past a long silence of unmarked pages, and stopped at a record older than her tenancy, written in an ink that had gone brown with keeping.
+She wanted to file it as a glitch.
 
-A facility audit, like hers. A resident list, like hers. A custodian line, like hers.
+That was the sensible thing. Systems glitched. Buildings settled. Ledgers miscopied. Words did not always mean what they meant. Sometimes a form said *compassionate containment* and meant cull.
 
-The name had been removed.
+Sometimes a System said back and meant nothing.
+
+Probably.
+
+She reached for the Ledger.
+
+It slid across the moonwell floor before she touched it.
+
+That was unnecessary.
+
+A page flipped open.
+
+Ink stirred.
 
 ```
-BRIARWICK MONSTER NURSERY — PRIOR FILE
-
-Residents: [archived]
-Comfort: [archived]
-Compliance: 94%
-
+[CULL LEDGER ECHO]
+Continuity recognized.
+Prior entry located in same ledger.
 Previous Custodian: [REDACTED]
+Current Custodian: Liora Vale
+Status: Heir
+Note: redaction active.
 ```
 
-Liora stared at the bracketed word.
+Liora stopped breathing for a second.
 
-Ninety-four percent. Whoever they were, they had been good. Whoever they were, the Ledger had loved them enough to keep the file and feared something enough to bury the name.
+Then resumed, because breath was legally advisable.
 
-She had stamped *REDACTED* on other people’s lives for four years. She knew what the word was for. It was for things someone, somewhere, had decided you were better off not asking about.
+“Heir,” Fen whispered.
 
-She had never once believed them.
+“No,” Liora said.
 
-“Who were you?” Liora asked the empty bracket.
+The Ledger did not change.
 
-The Ledger did not answer.
+“No,” she said again, because repetition had worked beautifully with eggs, flames, and municipal forms.
 
-But the page, very faintly, grew warm under her hand.
+The word remained.
 
-She looked at the sleeping mooncalf, the smoking toad, the leaning house, and the redacted name in a book that knew more than it was saying.
+Heir.
 
-Then she reached for her tea, found it cold, and drank it anyway. Cold tea was still tea. Briarwick had taught her that much in a single day.
+It was a ridiculous word.
 
-“Right,” she said. “Six days, two residents, and a name someone took the trouble to bury.”
+Heirs belonged in wills, family scandals, and expensive houses with staircases no one dusted. Heirs inherited silver, lawsuits, portraits, debt, or the sort of teacups nobody was allowed to use.
 
-She set the cup down.
+They did not inherit condemned monster nurseries through emergency forms and a mooncalf with selective breakfast opinions.
 
-“We’ll see about that.”
+“I am not an heir,” Liora said.
 
-The Ledger thumped once, and held the warm page open, as though it had been waiting twelve years for somebody to ask.
+Cress looked up at her.
+
+Fen looked at her too.
+
+The Ledger waited.
+
+“I am a custodian. Emergency. Temporary. Provisional. Possibly sleep-deprived.”
+
+The page remained unmoved.
+
+“I have been here less than a day.”
+
+The well dripped.
+
+Drop.
+
+Drop.
+
+Drop.
+
+Liora looked at the empty bowl.
+
+That was the worst evidence.
+
+Not the note.
+
+Not the redaction.
+
+Not the ridiculous title sitting there in ink like a tax demand.
+
+The bowl.
+
+Cress had refused everyone but her. He had waited through hunger, through Fen’s careful hands, through a cooling breakfast and a closing compliance window. Then she had knelt and he had eaten as if the question had been settled before the food was warmed.
+
+She would have preferred paperwork.
+
+Paperwork could be appealed.
+
+A mooncalf’s stomach was harder to argue with.
+
+Fen shifted.
+
+“Who was the previous custodian?”
+
+“I don’t know.”
+
+“Can the Ledger say?”
+
+“It appears to have strong feelings about not saying.”
+
+The redaction was too black.
+
+Not faded. Not scratched out.
+
+Fresh.
+
+It sat over the name like a strip of wet ink that had not finished deciding whether to dry.
+
+Liora touched the page.
+
+The black mark did not smear.
+
+Her fingertip came away clean and cold.
+
+“Someone removed it,” Fen said.
+
+“Recently.”
+
+“How can you tell?”
+
+“The ink is behaving smugly.”
+
+Fen accepted that with concerning ease.
+
+The system chimed.
+
+```
+[QUERY LOGGED]
+Query: who was here before?
+Result: restricted
+Note:
+Some records are not missing.
+They were removed.
+Recommendation: proceed carefully.
+```
+
+“That is not an answer,” Liora said.
+
+The panel did not apologize.
+
+Of course it did not.
+
+Apologies would have been dangerously useful.
+
+Cress leaned harder against her knee.
+
+His trust was warm and heavy and completely unfair.
+
+Liora set one hand on his neck because he needed it. Because he had eaten. Because his little ribs no longer pressed quite so sharply through his winter coat. Because whatever the System thought she was, he knew only what she had done with her hands.
+
+That should have comforted her.
+
+It did.
+
+That was also inconvenient.
+
+Fen stood slowly.
+
+“I can check the front hall records.”
+
+“No.”
+
+Fen froze.
+
+Liora softened the word by half a degree.
+
+“Not alone. Not yet.”
+
+Fen’s face did something complicated.
+
+Relief, probably.
+
+Or disappointment.
+
+Or both.
+
+Liora knew that expression. It belonged to people who wanted to be useful badly enough to volunteer for locked rooms, old ledgers, and institutional curses before breakfast.
+
+She had looked that way once.
+
+Before the office taught her that useful people were often placed at the end of terrible forms.
+
+“We look together,” she said.
+
+Fen nodded.
+
+Cress sneezed silver dust onto the empty bowl.
+
+The dust settled in a crescent.
+
+The bowl looked ceremonial now.
+
+That was unhelpful.
+
+“Do not become symbolic,” Liora told it.
+
+Fen glanced at her.
+
+“The bowl?”
+
+“Everything.”
+
+The moonwell dripped once.
+
+Liora picked up the Ledger.
+
+It was heavier than it had been last night.
+
+Not physically.
+
+That would have been easier.
+
+She carried it to the front hall with Fen following and Cress close enough that his horn brushed her skirt. Cinder peered from the kitchen washbasin as they passed, saw no breakfast in their hands, and returned to being disappointed by ash.
+
+The front hall looked smaller in morning.
+
+Less magical.
+
+More condemned.
+
+Dust softened the corners. The message board sagged under old notices. The reception desk had one burn mark, three claw scratches, and a nest of receipts no longer suitable for public service. Sunlight, thin and grey, fell through the cracked glasshouse roof in strips.
+
+Liora set the Ledger on the round desk.
+
+“Previous custodian,” she said.
+
+The book did nothing.
+
+“Matron?”
+
+The pages stayed still.
+
+“Director?”
+
+Dust shifted.
+
+“Emergency liability holder?”
+
+The Ledger opened.
+
+Fen stared.
+
+Liora sighed.
+
+“I hate that that worked.”
+
+Pages flipped too quickly to read. Old intake sheets. Feeding logs. Inspection stamps. Habitat rotations. Names blurred past in brown ink and green pencil.
+
+Then the pages stopped.
+
+At a register.
+
+Half the page had been painted over.
+
+Not with ordinary ink.
+
+With some thick black substance that drank the morning light and left the paper underneath puckered at the edges.
+
+Above it, one line remained clear.
+
+**MOONWELL ROTA**
+
+Below that, where the names should have been, two strips of the same wet black:
+
+**Primary hands: [REDACTED]**
+
+**Secondary hands: [REDACTED]**
+
+Both gone.
+
+Whoever had kept this well before her had been erased twice on the same line, by the same hand, with the same patient care someone else might have spent remembering them.
+
+Fen leaned closer.
+
+“There’s nothing left.”
+
+“There is a shape of nothing.”
+
+Liora touched the lower strip.
+
+It did not smear.
+
+“That is not the same as nothing.”
+
+The redaction shivered under her finger.
+
+A warning panel unfolded over the page.
+
+```
+[RESTRICTED RECORD]
+Previous Custodian: [REDACTED]
+Secondary Caregiver: [REDACTED]
+Continuity Thread: active
+Custodian Liora Vale: recognized
+Recommendation:
+Do not ask who keeps the redaction current.
+```
+
+Fen stepped back.
+
+The front hall seemed colder.
+
+Not because the fire had gone out.
+
+Because a name had been hidden here, and the hiding was not old.
+
+Liora looked at the two black strips.
+
+Then at the desk.
+
+Then at the old message board, where one curled notice still read:
+
+*If the floor purrs, inform Matron.*
+
+“Who keeps it current?” Fen asked.
+
+Liora closed the Ledger.
+
+The sound was louder than it should have been.
+
+“I don’t know.”
+
+Cress made a small, questioning sound.
+
+Cinder peeped from the kitchen.
+
+Bertram, from beside the front door, opened one stone eye.
+
+“Mm,” he said.
+
+“Yes,” Liora told him. “That is about the size of it.”
+
+She picked up the empty bowl.
+
+The morning feeding was complete. Cress had eaten. Compliance had risen. The moonwell had accepted the day’s first task.
+
+All true.
+
+All filed.
+
+None of it made the redaction less loud.
+
+Primary hands: [REDACTED].
+
+Secondary hands: [REDACTED].
+
+Custodian Liora Vale: recognized.
+
+Liora had quit one rota.
+
+Apparently she had been drafted onto another.
+
+She went back to the moonwell because Cress needed the bowl rinsed, and because bowls, unlike inheritances, could be handled with hot water and a cloth.
+
+Fen followed.
+
+The Ledger stayed closed on the desk.
+
+For now.
+
+By the moonwell, the grey light had shifted. The room no longer looked like morning. It looked like a question waiting politely for office hours.
+
+Liora rinsed the bowl.
+
+Cress watched every movement of her hands.
+
+That was the problem.
+
+Not trust.
+
+Not exactly.
+
+Trust was the soft word.
+
+The structural word was dependence.
+
+The gift had arrived with upkeep.
+
+If Cress would eat only from her hands, then her hands were now part of his habitat. She could not be late. Could not be sick. Could not pretend this was a temporary assignment she might file away after inspection.
+
+She was load-bearing.
+
+That was an upsetting category.
+
+Fen stood at the door with the redacted page copied in their own careful hand, tucked under one arm.
+
+“What do we do?”
+
+Liora dried the bowl.
+
+The sensible answer was report the anomaly.
+
+The municipal answer was report the anomaly, request clarification, await response, and try not to be eaten by the consequences before the reply arrived in six to eight weeks.
+
+The Briarwick answer was feed the creature in front of you.
+
+Then ask why the house was keeping secrets in fresh ink.
+
+“We finish breakfast,” Liora said.
+
+Fen blinked.
+
+“That’s it?”
+
+“No. That is first.”
+
+Cress nudged her pocket.
+
+“No, you cannot eat the key.”
+
+He nudged harder.
+
+“You have known me less than a day.”
+
+His ears lowered.
+
+“That has not stopped being unfair.”
+
+The system gave a soft chime.
+
+```
+[DAY TASK UPDATED]
+Morning Feeding: complete
+License Compliance: 14%
+Trust Threshold: reached
+Open Query: Previous Custodian
+Current Recommendation:
+Continue care.
+Answers are not urgent to creatures who are hungry.
+```
+
+Liora stared at the last line.
+
+Then she snorted.
+
+“That is almost helpful.”
+
+Fen smiled.
+
+Only a little.
+
+Cress sneezed into her sleeve.
+
+Silver dust bloomed over the burned holes Cinder had left there, filling the edges with a faint lunar shine.
+
+Liora looked at the sleeve.
+
+Mooncalf dust over ember-toad damage.
+
+Very professional.
+
+“Well,” she said. “At least my wardrobe has entered its symbolic period.”
+
+Fen laughed.
+
+Then stopped, as if unsure laughter was allowed in a room with redacted names.
+
+Liora picked up the bowl, the cloth, and what remained of her morning authority.
+
+“It is allowed,” she said.
+
+“What is?”
+
+“Laughing. Quietly. Near mysterious paperwork.”
+
+Fen’s smile came back.
+
+Cress leaned into Liora’s knee.
+
+The moonwell dripped.
+
+Drop.
+
+Drop.
+
+Drop.
+
+Not a countdown now.
+
+A reminder.
+
+She had a fed mooncalf, a sleeping ember-toad, one temporary assistant trying very hard not to look thrilled, and a Ledger concealing a dead or missing predecessor behind ink that had not finished drying.
+
+The building was no warmer than it had been an hour ago.
+
+The questions were worse.
+
+The creature had eaten.
+
+For now, that was the work.
+
+Liora set the empty bowl on the moonwell ledge and looked at the copy in Fen’s careful hand.
+
+The two black strips had not faded.
+
+Of course they had not.
+
+That would have been convenient.
+
+She tapped the page once.
+
+“Fine,” she said. “We will ask carefully.”
+
+The moonwell gave a single silver pulse.
+
+In the front hall, the Ledger answered by turning one page.
+
+Slowly.
+
+Nobody touched it.
+
+Fen went very still.
+
+Cress tucked himself against Liora’s leg.
+
+A line wrote itself across the new page in green-gold ink.
+
+**Query pending.**
+
+Below it, smaller:
+
+**Some names are removed because they are dangerous.**
+
+A pause.
+
+Then one final line.
+
+**Some names are dangerous because they were loved.**
