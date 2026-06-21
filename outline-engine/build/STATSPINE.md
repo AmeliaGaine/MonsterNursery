@@ -186,7 +186,8 @@ the Habitat Stability gain is not monotonic; the reader learns gains can reverse
 | Caregiver Rank | Custodian III | **Acting Matron** (@33) | Town Ally + Archive opened |
 | Renown | Town Ally | **Town Ally (high) → Regional-pending** | Public Handling@29; town turns on the cockatrice question (`L-FEAR` progressing) |
 | **Bond: Cress** | 63% | **74%** | Moonwell as gathering pool; Lull |
-| **Bond: Cinder** | 60% | **72%** | match seeded ~Ep33 (send-off carried to Bk2) |
+| **Bond: Cinder** | 60% | **72% (frozen @33)** | matched + sent off ON-PAGE Ep33 (B2 fix); absent from Arc 4 |
+| **Bond: Phoenix** | foster | **permanent (declined placement @19)** | first foster→permanent; stays all book (B1 fix) |
 | **Bond: Bertram** | 57% | **70%** | guards the East-Wing terminal; "Mm." deepening |
 | **Bond: Tea Kraken** | 55% | **68%** | tea softens the System (lore vector) |
 | **Bond: Kettle** | 40% | **62%** | Corehound↔Shriekmoth security duet @34; shriek→chime turning |
@@ -207,7 +208,7 @@ the Habitat Stability gain is not monotonic; the reader learns gains can reverse
 | Caregiver Rank | Acting Matron | **Matron** (@48) | `L-LIORA` — earned by defending home (Ep48) |
 | Renown | Town Ally(high)/Regional-pending | **Regional** (@49) | Town stands (`L-FEAR` closes @43); recognition lands Regional |
 | **Bond: Cress** | 74% | **82%** | held calm through the raid |
-| **Bond: Cinder** | 72% | **80%** | (match seeded; parting deferred to Bk2) |
+| **Bond: Phoenix** | permanent | **~80%** | foster→permanent (declined placement @19); the anxious bird, home at last |
 | **Bond: Bertram** | 70% | **86%** | keystone reveal (Ep44–46); "Mm." recontextualized as the patient *yes* |
 | **Bond: Tea Kraken** | 68% | **78%** | tea steadies the house during the seizure |
 | **Bond: Kettle** | 62% | **PLACED @41** (~75% at send-off) | `L-KETTLE` — last, hardest send-off; shriek→chime |
@@ -315,3 +316,28 @@ to an earlier unlock; Hearthglow is a real, biting economy with a genuine
 unaffordable-save trade-off (Arc 2) and a spent-to-the-floor climax (Arc 4).
 
 **— END OF STATSPINE.md · Stage 3.5 lock —**
+
+---
+## RED-TEAM FIX ADDENDUM (see redteam/FIX-DESIGN.md)
+- **Roster freeze (B2):** Cinder departs Ep33 — freeze his Bond at the Ep33 value; NO
+  Arc-4 Cinder ticks; remove from ep-45. Kettle departs Ep41 — no Ep45 presence; Arc-4
+  alarm function = Corehound alarm-head. Phoenix: foster→PERMANENT (declines placement
+  Ep19); remains in roster all book.
+- **Arc-4 capstone unlocks (C — restores LitRPG progression, all in-sequence + upkeep):**
+  Ep43 **Advocacy II** (upkeep: public exposure raises stakes). Ep44 **Habitat Stability →
+  Self-Sustaining** threshold (Bertram keystone as a stat). Ep47–48 **Rank: Matron →
+  Sanctuary Charter tier** (Briarwick gains its own jurisdiction — system-state change).
+  Ep48 **Bestiary/Codex → Complete (Book 1)**. Ep49 **feature unlocked: Sanctuary Network
+  (dormant)** = Book-2 progression door. Arc 4 now spikes progression at the finale.
+
+---
+## RELATIONSHIPS ADDENDUM — NPC Rapport spine (see RELATIONSHIPS.md)
+New tracked stat **Rapport %** per named human (mirrors creature Bond Trust). Principals'
+approximate arc (behaviour-earned; can stall if neglected):
+- **Sorrel (romance):** ~Ep16 Acquaintance → Ep17 Friend → Ep31/34 Confidant → Ep48/49 Dear.
+- **Quill:** Stranger → Ep17/24 Acquaintance → Ep39 Friend → finale ally.
+- **Grindle:** Wary → Ep43 a chosen kindness → finale quiet-ally (low but positive).
+- **Wynn/Tamsin/Maren:** Acquaintance at adoption (Ep20/33/41) → Friend on first return-visit.
+- **Fen:** Friend → Confidant (apprentice→keeper payoff Ep48).
+Gifts = recipe/menu items. Heart-tier thresholds unlock a deeper scene each. No Rapport
+for Pike (separate wary track). No stat-chain conflict with creature Bond Trust.

@@ -94,3 +94,33 @@ structure. Unresolved creative choices are marked `[OPEN: architects decide]`.
 
 `[OPEN]` items for architects: East Wing finale occupant; exact identity of the
 series-door behind Pike; whether Rhea and Edda are the same thread or two.
+
+---
+## RED-TEAM FIX ADDENDUM (canon — see redteam/FIX-DESIGN.md)
+- The System keeps a **Cull Ledger** (passive recording since the purge); it reactivates
+  for the key-holder who refuses a cull (Liora, Ep1). "Dormant" = passive-recording.
+- **Pike** wants to ACQUIRE/privatize the care-economy under Control, never to raze
+  Briarwick; his moves are acquisition/custodian-transfer tactics.
+- **Pocket Phoenix** is a foster that becomes PERMANENT (declines placement, Ep19).
+
+---
+## RELATIONSHIPS ADDENDUM (canon — see redteam/../RELATIONSHIPS.md)
+- **Antagonists: ONE.** Only **Pike** is a persistent human adversary (distant, Book-2).
+  **Grindle** = late-converting ally; **Quill** = converting recurring ally/friend.
+- **3 named recurring patrons** (adopt a foster, then keep visiting): **Wynn** (hedge-
+  alchemist, they/them → Slime), **Tamsin** (forge-smith, she/her → Cinder), **Maren**
+  (lighthouse-keeper, she/her → Kettle). *(names swappable)*
+- **NPC Rapport %** (Stardew-style relationship stat): heart-tiers Stranger→Acquaintance→
+  Friend→Confidant→Dear; grown by shared scenes, gifts (recipes), and help; tracked for
+  Sorrel/Fen/Quill/Grindle/Wynn/Tamsin/Maren/Holloway/Otto. Behaviour-earned, has upkeep.
+- **Romance:** Liora × **Dr. Sorrel** — light **sapphic slow-burn** (Sorrel written she/her);
+  braids with the Edda grief-thread; capped at "almost" in Book 1, no kiss/declaration.
+
+---
+## ROMANCE REVISION (canon — supersedes the prior Sorrel romance line)
+- **Romance = HET.** Liora × **Inspector Crane** (m), a NEW male lead: Pike's by-the-book
+  field-auditor sent to seize Briarwick, who defects into the found-family. Rivals-to-
+  lovers; light slow-burn (Arc 3–4), capped at "almost," no kiss/declaration in Book 1.
+  Crane is also **Pike's human face on the ground** (fixes the faceless-antagonist note).
+- **Dr. Sorrel is NOT a love interest** — she is the older mentor / grief-mirror (knew
+  Edda); her romantic framing is reverted to platonic mentorship.

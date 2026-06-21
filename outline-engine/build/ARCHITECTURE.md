@@ -292,7 +292,7 @@ schedule for all three grafts at once.
 | `L-FEAR` | Character | **3** | ④ | Town prejudice vs. the gentle cockatrice — can fear be out-cared? | 26 | 30 a townsperson softens · 36 public handling | **43** town turns Ally; pebbles gifted; becomes Arc-4 exhibit A | relationship beat |
 | `L-EAST` | Milieu | **3** | ⑥ | Who/what is in the locked East Wing? | 30 (opened) | 31 Archive cross-ref · 40 occupant understood | **46** Edda's terminal resolved → feeds `L0` | mystery + heart |
 | `L-INSPECT` | Event | **3** | ① | Will the Arc-4 seizure-by-bureaucracy close Briarwick? | 38 (clock starts) | 39 Quill wavers · 42 petition · 44 Bertram holds | **45** seizure survived by care + cleverness | number-up + competence |
-| `L-CINDER` | Event | **4** | ④ | Can Cinder's "fire isn't harm" be proven via a real match? | 4 | 10 Tea-Room interview · 16 forge-patron appears | **~33** Cinder's match *seeded but its send-off carried to Bk2* (see note) | competence + warm-out |
+| `L-CINDER` | Event | **4** | ④ | Can Cinder's "fire isn't harm" be proven via a real match? | 4 | 10 Tea-Room interview · 16 forge-patron appears | **~33** Cinder matched AND sent off on-page (B2 fix; supersedes earlier carry-to-Bk2) | competence + warm-out |
 | `L-TRUST` | Character | **4** | ⑤ | Will the most fragile creature (Cress) trust the ex-culler? | 1 | 2 first feeding accepted | **3** Cress trusts — innermost early demo of `L0` at single-creature scale | relationship beat |
 | `L-KRAKEN` | Milieu | **4** | ③ | Can the Brew Pool hospitality engine run without the Toad↔Kraken disaster? | 9 | 11 Resonance Hearth · 17 scalding near-miss (frenemy dial) | **23** a perfect house-wide steep | landed joke + number-up |
 | `L-SPORE` | Milieu | **4** | ② | What lives behind the West Wing larder? | 18 (canon hinge) | 25 lichen spreads (new problem) · 28 mapped | **30** East Wing opens — feeds `L-EDDA`/`L-EAST` | mystery clue |
@@ -474,8 +474,10 @@ Ep49 — and even then the door to Book 2 is ajar.
    layer.
 
 **Inter-candidate conflicts resolved:**
-- *Cinder's send-off timing* (C: Ep20 vs E: carried to Bk2) → **E's carry**, with Slime taking
-  the Ep20 first-send-off slot so the pipeline still closes in-book (see 2D.1 note).
+- *Cinder's send-off timing* (C: Ep20 vs E: carried to Bk2) → originally **E's carry**, with
+  Slime taking the Ep20 first-send-off slot. **SUPERSEDED by the B2 red-team fix:** Cinder is
+  matched AND sent off on-page at Ep33 (see RED-TEAM FIX ADDENDUM); pipeline still closes in-book
+  (Slime @20, Cinder @33, Kettle @41), Phoenix foster→permanent @19.
 - *Arc-3 length* (12 vs 13 eps) → **13 (Eps 25–37)**, per CANON skeleton 12/12/13/12; Arc 3
   foregrounds two coupled axes (Lore + Mastery) and needs the room (B's A3).
 - *Number of Book-2 doors* (D floated three) → **exactly one** (`L-SERIES`), per C's "seal
@@ -524,3 +526,21 @@ Ep1/8, Basking Nook/Cinder Ep4, Brew Pool Ep9, West Wing sporeglow Ep18); voice 
 left intact for the prose layer.
 
 **— END OF ARCHITECTURE.md · IMMUTABLE FOR STAGE 3 —**
+
+---
+## RED-TEAM FIX ADDENDUM (see redteam/FIX-DESIGN.md) — supersedes conflicting earlier text
+- **The Cull Ledger (mystery sensor):** the System was passive-RECORDING, not dead. It
+  logs every Control clerk's cull/spare choice under Briarwick's jurisdiction. Edda's
+  will reactivates it for the first key-holder who REFUSES a cull and files a sanctuary
+  hold — Liora's Ep1 green-stamp IS that trigger. "Why her" = the Ledger recorded her
+  choice (detected, not assumed). Seeded Ep1/3 → paid Ep47.
+- **Supersession doctrine (climax seed):** higher-order municipal forms supersede lower;
+  the 1842 charter is highest. Seeded Ep6/8/17 (small wins) → Ep45 the charter supersedes
+  Pike's seizure order. No invented climax.
+- **Pike = acquirer, not destroyer:** wants the care-economy privatized under Control;
+  every move is acquisition/custodian-transfer (Ep38 seize-to-relicense), continuous with
+  the Ep49 Book-2 hook. He never tried to raze Briarwick.
+- **B2 supersession (roster):** the earlier `L-CINDER` design ("match seeded ~Ep33, send-off
+  *carried to Book 2*") is SUPERSEDED — Cinder is **matched AND sent off on-page at Ep33**;
+  he is absent from all Arc-4 rosters/stat-ticks. Phoenix is foster→PERMANENT (declines
+  placement Ep19). Book-1 send-offs: Slime @20, Cinder @33, Kettle @41; Phoenix stays.
