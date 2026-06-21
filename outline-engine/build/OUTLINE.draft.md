@@ -1,6 +1,24 @@
 # OUTLINE.draft.md — Stage 5 SEAM-WELDED DRAFT
 ## *The Monster Nursery, Book 1* — 49 episodes · 4 arcs (12/12/13/12)
 
+> ## ⟢ v2 — CURRENT (synced from the 49 scene files, post full build)
+> *This beat list now reflects the entire build through the red-team fixes, the MAJOR-tier
+> pass, the lane-register fix, the cast expansion, and the het Crane romance. Regenerated
+> from `scenes/ep-*.md` (the source of truth). Authoritative design docs:*
+> - **Kills fixed** (`redteam/FIX-DESIGN.md`): Cull Ledger ("why her" sensor, seeded Ep1/3→47) ·
+>   Supersession doctrine (climax seeded Ep6/8/17→45) · Pike = acquirer not destroyer ·
+>   Phoenix foster→PERMANENT · Cinder departs Ep33 / Kettle Ep41 · Arc-4 capstone progression.
+> - **Cast** (`RELATIONSHIPS.md`, `CANON.md` addenda): ONE antagonist (Pike) · Grindle/Quill
+>   convert to allies · 3 named recurring patrons (**Wynn**/Slime, **Tamsin**/Cinder,
+>   **Maren**/Kettle) · **NPC Rapport %** (Stardew-style) · **Dr. Sorrel = mentor** (not romance).
+> - **Romance** (het, light slow-burn): **Inspector Crane** — Pike's field-auditor → defector;
+>   rivals-to-lovers; wound seeded Ep25/27→paid Ep36; mid-book "almost" Ep32; "almost" finale Ep48/49.
+> - **Felt-axis contracts:** `AXIS-ENVELOPE.md` (canon-anchored floors + cozy emotional register).
+>
+> *The architecture summary below is the original Stage-2 frame; the human-cast/romance additions
+> above supersede its (creature-only) cast section. PRISM v3: cozy 10 · story 9.8 · romance 8.5.*
+
+
 *Stitched by the Seam Welder from the four arc files against CANON / GUARDRAILS /
 ARCHITECTURE / LOOPMAP / STATSPINE / CADENCE / MACRO-DOORS / MICRO-TEMPLATES.
 Cross-arc integrity checks (stat continuity · loop LIFO · promise ledger · cookie/out
@@ -116,592 +134,169 @@ warm → soft-hook → warm → hard-hook; the System voice drifts warmer as the
 *Tags: 🍪 cookie type (G4) · 🪝 out-type (G6) · 🧵 loops opened/closed.
 Running stat-state carried continuously; Arc-N entry = Arc-(N-1) exit (G3).*
 
-## ARC 1 — "Becoming a Carer" (Ep 1–12)
-*Foreground ③ Texture + ② Access · chamber OUTWARD · arc-out WARM (family forms).*
-*Entry (Ep1, canon-anchored): Comfort 1 · Hab 12% · Compliance 13% · Hearthglow 4 ·
-Trainee · Stranger · Cress 19%.*
 
-**Ep 1 — "Intake: One Illegal Mooncalf"** *(K&)* — Liora invokes the Briarwick emergency-
-custodianship charter, takes the green key, stabilizes Cress at the moonwell; the System
-activates and greets her as if *expecting* her.
-🍪 mystery 🪝 soft-hook 🧵 opens [L-SERIES, L0, L-EDDA, L-LIORA, L-TRUST].
-🌦️ Late-winter rain on cold panes; the moonwell breathes fog; one candle holds the dark.
-📖 **Bestiary +1 (F4):** *Lunar Mooncalf* (Cress) — the first creature logged; the collection opens.
-*State:* Comfort 0→1 · Hab 2→12% · Compliance 11→13% · Hearthglow 0→4 · Cress 0→19% ·
-Moonwell unlocks · Gentle Handling I.
+### ARC 1 — "The Anti-Cull Nursery" (Ep 1-12) · master beat-list (regenerated from scene files)
 
-**Ep 2 — "Eleven Minutes"** *(K&)* — The egg hatches into an ember-toad mid-fire; Liora
-improvises containment; Cress drifts in and calms the hatchling (first peer-comfort).
-*(Renders C2; Cinder's **intake** here — canon prose; see Seam Report flag 1.)*
-🍪 relationship 🪝 warm 🧵 advances [L-TRUST].
-🌦️ Frost on the sills; the new fire spits and the room goes amber for once.
-🍲 Moon-Steep Oats (Codex · Recipe Learned +1): porridge for the new pair — small grain-upkeep, no buff.
-📖 **Bestiary +1 (F4):** *Ember-Toad* logged on intake — first hatchling entry.
-*State:* Comfort 1→2 · Cress 19→20% · Cinder (intake) 0→9%.
+**Ep 1 — "Intake: One Illegal Mooncalf"** *(K& · resolve)* — A burned-out cull-clerk faced with a condemned mooncalf (DEFECTIVE — DESTROY BEFORE DUSK) refuses the red stamp, invokes the forgotten 1842 Briarwick custodianship charter, and presses the green EMERGENCY SANCTUARY HOLD instead. The Sanctuary System wakes as if it had been waiting — and the Cull Ledger logs her refusal as the trigger ("this ledger has been recording… you are the first to file a hold over a cull; reactivation condition met"). She carries the calf north to the ruined nursery to stabilize it before moonrise.
+🍪 mystery-clue (the System greets her "as if expecting her" — "Thank you for choosing care") · 🪝 soft-hook · 🧵 opens[L-SERIES, L0, L-EDDA, L-LIORA, L-TRUST] / closes[none] · 🌦️ late-winter rain on cold panes; the moonwell breathes fog; one candle holds the dark · 👤 Pollard (deadpan stamp-clerk), Grindle's litany at Receiving, Bertram the Door Warden ("Mm."), the dead carer Edda felt everywhere unnamed · *State:* Comfort 0→1 · Hab 2→12% · Compliance 11→13% · Cress 0→19% · Trainee · Moonwell unlocks · Gentle Handling I · Bestiary +1 (Lunar Mooncalf) · **Cull Ledger: refusal #1 logged (key-holder) — the green-stamp wakes the System.**
 
-**Ep 3 — "Why Her?"** *(S&S)* — Cress refuses feeding from any hands but Liora's; the System's
-notes are addressed to *her*. The innermost loop pays; a larger door cracks beneath it.
-🍪 competence 🪝 hard-hook 🧵 opens [L-HEIR] / closes [L-TRUST].
-🌦️ Grey light, breath-fog at the feeding hour; the well drips a slow cold metronome.
-*State:* Cress 20→30% (trust threshold) · mystery-cost begins. *(Idle-tick: Compliance +1.)*
+**Ep 2 — "Eleven Minutes"** *(K& · mischief)* — On her first morning the nursery's second egg hatches mid-fire and the receipt-nest goes up; Liora improvises an Ember-Toad into safety with a teacup, a saucer, and a cooling ring, proving heat is not harm when given somewhere safe to go. Cress steps in unbidden — a silver thread from his chipped horn calms the toad — the first peer-comfort.
+🍪 relationship · 🪝 warm-out · 🧵 advances[L-TRUST] · 🌦️ frost on the sills; the new fire spits and the room goes amber for once · 🍲 Moon-Steep Oats (Recipe Learned +1) · 👤 Cress assists the intake (peer comfort "emotionally efficient"); the waistcoated washbasin spider negotiated with · *State:* Comfort 1→2 · Cress 19→20% · Cinder (intake) 0→5→9% · Gentle Handling I exercised · Bestiary +1 (Ember-Toad) · Residents 1→2 (Nook + L-CINDER deferred to Ep4).
 
-**Ep 4 — "The Basking Nook"** *(K&)* — Liora restores the Basking Nook into a proper thermal
-habitat — "heat is not harm" as architecture. *(Basking Nook unlock + `L-CINDER` open
-formalize here per structure layer; see Seam Report flag 1.)*
-🍪 relationship 🪝 warm 🧵 opens [L-CINDER].
-🌦️ Snowmelt ticking off the eaves; the Nook holds heat the rest of the ruin lacks.
-🍲 Ash-Cakes (Codex · Recipe Learned +1): griddle-cakes on Cinder's heat — toast-and-ember smell, ingredient-upkeep only.
-*State:* Comfort 2→3 · Cinder 9→20% · Basking Nook unlocks (standing fire-safety upkeep).
-*(Idle-tick: Hab +2; voice-drift.)*
+**Ep 3 — "Why Her?"** *(S&S · wry-defeat)* — Cress will take food from no hands but Liora's; every other hand fails, and when her hands work, the System posts the feeding note addressed to *her by name* and says "Welcome back to the rota" — the wrong word, *back*. The win is the cost: being the only hands means being load-bearing and *seen*, which she'd rather not be, so she hides behind the procedure.
+🍪 competence (@turn) · 🪝 hard-hook · 🧵 opens[L-HEIR] / closes[L-TRUST] · 🌦️ grey light, breath-fog at the feeding hour, the well dripping a slow cold metronome · 👤 Fen the apprentice (aches to be a true keeper, Cress refuses her); Cinder dries a spilled ledger column to a crisp · *State:* Cress 20→30% (trust threshold) · Compliance +1 (idle-tick) · L-HEIR opens · **Cull Ledger echo: [REDACTED] Previous Custodian surfaces in the same ledger — Status: heir.**
 
-**Ep 5 — "The Anti-Cull Office"** *(S&S)* — A patron arrives; Liora flips the cull-office grammar
-at a Welcome Desk that didn't exist yesterday; mends the Burrow Room (Habitat Mending I).
-🍪 competence 🪝 soft-hook 🧵 advances [L0].
-🌦️ Sleet against the new Welcome Desk window; inside, tallow-smoke and a mended draught.
-🍲 Mineral Milk (Codex · Recipe Learned +1): Resonance Cooking I — warmed silver spoon, never boil; small ingredient-upkeep, not a buff.
-*State:* Hab 12→20% · Compliance 13→18% · Welcome Desk unlocks · Habitat Mending I.
-*(Idle-tick: Renown Stranger→Wary.)*
+**Ep 4 — "The Basking Nook"** *(K& · pride)* — Restless under the unfileable "why her?", Liora rebuilds a derelict thermal habitat by hand and salvage (no Mending skill yet) into a home where heat is safe. Cinder — who has spent four episodes apologizing for his own warmth — finally lets a real spark out and it lands under the griddling Ash-Cakes: his danger, given somewhere safe to go, becomes the thing that feeds the house.
+🍪 relationship (the ten) · 🪝 warm · 🧵 opens[L-CINDER] / advances[L-EDDA] (idle) · 🌦️ snowmelt ticking off the eaves; the Nook holds the heat the ruin lacks · 🍲 Ash-Cakes (Recipe Learned +1) · 👤 Bertram installs himself as a thermostat on the over-hot wall ("I had it.") · *State:* Comfort 2→3 · Cinder 9→20% (first true bask) · Habitat Stability +2 (idle-tick) · Basking Nook unlocks (standing fire-safety upkeep) · L-EDDA idle via the dead carer's handbook.
 
-**Ep 6 — "Custodian, Provisionally"** *(K&)* — Quiet arithmetic of a working nursery; the System's
-praise is *too specific* to be generic.
-🍪 number-up 🪝 warm 🧵 advances [L-EDDA].
-🌦️ A still cold dusk; the hearth settles to coals and the house stops ticking for once.
-*State:* Compliance 18→26% · Comfort holds 3 · Hearthglow back to 5 · rank-track toward
-Custodian I (lands Ep10). *(Idle-tick: voice-drift warmer.)*
+**Ep 5 — "The Anti-Cull Office"** *(S&S · frustration→resolve)* — A patron knocks at a door whose last grammar for "visitor" was a cull-intake form; Liora fights her own training in real time, flips the cull-questions into a welcome, and — with the patron watching — brings Habitat Mending I online to seal the Burrow Room so the structure proves the warmth. She writes the first true *welcome* entry over a crossed-out *disposition* header, then deflects the patron's thanks onto the charter.
+🍪 competence (on the turn) · 🪝 soft-hook · 🧵 advances[L0] · 🌦️ sleet against the new Welcome Desk window; tallow-smoke and a mended draught · 🍲 Mineral Milk (Recipe Learned +1 — warmed silver spoon, never boil) · 👤 first patron put on the book for a spring match; Bertram's "Mm." taken as approval · *State:* Hab 12→20% · Compliance 13→18% · Welcome Desk unlocks · Habitat Mending I online · Renown Stranger→Wary (the open door is the cost — "you may no longer choose who needs you").
 
-**Ep 7 — "Everything That's Hurt"** *(K&)* — Diagnosis I online; Liora can now *see* every
-untreated hurt — the gift is the cost.
-🍪 relationship 🪝 soft-hook 🧵 advances [L-LIORA].
-🌦️ ✨ SET-PIECE — First-thaw rain on the slates all night; the hearth catches and holds the first warm dark.
-🛁 **ASMR/sensory beat (F2-b · dedicated low-plot):** a long quiet round of the evening tending —
-the warm-cloth wipe-down, the sound of small breathing evening out, the moonwell's slow drip
-keeping time. Foreground is texture, not plot; the ache-clock (Diagnosis "see every hurt") stays
-live underneath so anti-plateau holds. *(Not a room-unlock episode.)*
-*State:* Hearthglow 5→6 · Comfort holds 3 · Diagnosis I unlocks.
-*(Idle-tick: Cress 30→36%, Cinder 20→26%.)*
+**Ep 6 — "Custodian, Provisionally"** *(K& · vindication)* — The working nursery's arithmetic adds up for the first time, and a petty Control deficiency notice (hand-initialed by Head Clerk Grindle) threatens to undo the tally. Liora can't out-care a form, so she out-*files* it: she pins the citation under a superseding higher-order instrument and the System states the doctrine plainly. When Compliance clears 26% the praise is too *specific* to be generic — it commends the exact feeding she almost skipped and corrects a long-division she fudged.
+🍪 number-up (@ten) · 🪝 warm-out · 🧵 advances[L-EDDA] · 🌦️ a still cold dusk; the hearth settles to coals and the house stops ticking for once · 👤 **Grindle, Head Clerk** introduced through the form — a wary, scrupulous obstacle who believes the codes protect people (not a cartoon villain; his Ep43 conversion seeded) · *State:* Compliance 18→26% (provisionally viable) · Hearthglow 4→5 · rank-track toward Custodian I · Rapport: Grindle — Wary · **A2 supersession doctrine seeded (plant 1 of 3): higher-order forms outrank lower; 1842 charter is the highest county instrument — payoff Ep45.**
 
-**Ep 8 — "Your Brick Has Moods"** *(S&S)* — Bertram sulks, blinks off post, a corner sags; the
-Habitat-Stability mechanic formalizes. Won back by belonging. First lesson: gains can reverse.
-🍪 mystery 🪝 hard-hook 🧵 opens [L-STAB] / advances [L-EDDA].
-🌦️ Wind worries the loose corner; rain finds the sag; moss already greening Bertram's cold perch.
-*State:* Hab dips then recovers 20→24% · Bertram ~30→40% · Gargoyle mechanic formalized.
-*(Idle-tick: Hearthglow 6→7.)*
+**Ep 7 — "Everything That's Hurt"** *(K& · awe)* — Diagnosis I comes online and the gift is the cost — Liora can now see every untreated hurt in the house, a to-do list that populates and never empties. But the first warm-dark night (the First-Thaw Rain set-piece: rain on the slates, the chimney reversing, cold stone going warm under her palm) proves the seeing is what care looks like before it's a to-do list.
+🍪 relationship · 🪝 soft-hook · 🧵 advances[L-LIORA] / closes[none] · 🌦️ ✨SET-PIECE First-Thaw Rain — rain all night, the hearth catches and holds the first warm dark; dedicated 🛁 evening-tending ASMR beat · 👤 the whole house bedded down together; the warm-cloth wipe-down round · *State:* Hearthglow 5→6 · Comfort holds 3 · Diagnosis I unlocks (the "see-every-hurt" ache-clock) · Cress 30→36% · Cinder 20→26%.
 
-**Ep 9 — "The Brew Pool"** *(K&)* — Tea Kraken steeping; mood-teas; the Toad↔Kraken frenemy dial
-armed by a biscuit-thieving tentacle.
-🍪 joke 🪝 warm 🧵 opens [L-KRAKEN].
-🌦️ Steam fogging the cold glass; outside, frost; the Brew Pool throws the room's first real warmth-smell.
-📖 **Bestiary +1 (F4):** *Tea Kraken* logged — first hospitality-creature entry.
-*State:* Comfort holds 3 · Kraken (arrives) 0→18% · Hearthglow 7→8 · Brew Pool unlocks ·
-Resonance Cooking I. *(Idle-tick: voice-drift.)*
+**Ep 8 — "Your Brick Has Moods"** *(S&S · wry-defeat)* — Bertram sulks, blinks off his post, and the northeast corner sags in his absence — Habitat Stability drops on-page, teaching Liora the first hard rule: a gain you already banked can come undone, and the wall was never the problem — you forgot to say thank you. She wins the gargoyle back by *belonging*, not by mending, and a flat System line reveals he held the post for *her, specifically*.
+🍪 mystery (@turn) · 🪝 hard-hook · 🧵 opens[L-STAB] / advances[L-EDDA] · 🌦️ wind worries the loose corner; rain finds the sag; moss already greening Bertram's cold perch · 👤 Bertram (relationship beat: the apology to a building; the level on the sill useless) · *State:* Hab 20→dips→24% (reversed, then re-earned by belonging) · Bertram ~30→40% · Gargoyle/Habitat-Stability mechanic formalizes; L-STAB opens (payoff Ep44) · Hearthglow 6→7 · **A2 supersession echo (plant 2 of 3): an 1842-charter clause stacked over a Control notice — doctrine reinforced, payoff Ep45.**
 
-**Ep 10 — "Tea With a Candidate"** *(S&S)* — Tea Room opens the matching mechanic; a forge-patron
-eyes Cinder (seeds `L-CINDER` match). Custodian I lands; its cost lands immediately.
-🍪 number-up 🪝 soft-hook 🧵 advances [L-CINDER, L-LIORA].
-🌦️ A snowdrop up through the frost by the door; thin sun, candlelight still earning its keep.
-*State:* **Rank Trainee→Custodian I** · Comfort 3→4 · Renown Wary→Neutral(low) · Cinder 26→34% ·
-Tea Room unlocks. *(Idle-tick: Compliance 26→30%.)*
+**Ep 9 — "The Brew Pool"** *(K& · mischief)* — A new resident arrives as warmth itself — the Tea Kraken in its Brew Pool — and the house's first real cup is nearly ruined, then thieved out from under everyone by a tentacle that has decided biscuits are a tax. Liora concedes she now lives with a racket and fetches a second biscuit.
+🍪 joke (@ten) · 🪝 warm-out · 🧵 opens[L-KRAKEN] · 🌦️ steam fogging the cold glass; outside, frost; the Brew Pool throws the room's first real warmth-smell · 👤 Tea Kraken (the prim-as-a-butler biscuit-tax gag, run Kraken↔Cinder); the racket *is* the relationship · *State:* Comfort holds 3 · Tea Kraken (arrives) 0→18% · Hearthglow 7→8 · Brew Pool unlocks · Resonance Cooking I in use · Bestiary +1 (Tea Kraken).
 
-**Ep 11 — "The Voice Is Alive"** *(K&)* — A perfect house steep (Kraken↔Cress corner); the System's
-deadpan drifts a half-degree warmer — the Arc-1 mystery button. Gentle Handling II online.
-🍪 relationship 🪝 warm 🧵 advances [L-KRAKEN, L-EDDA].
-🌦️ Rain on the panes, the fire's low argument with the draught, the cup the warmest thing in reach.
-🍲 Mood-Teas (Codex · Recipe Learned +1): chamomile/bergamot/valerian off the Kraken's steep — the Tea Room's social draw, with leaf-upkeep, not a free buff.
-*State:* Comfort 4 (Resonance Hearth banked) · Kraken 18→31% · Cress 36→52% · Gentle Handling II.
-*(Idle-tick: Hearthglow 8→9.)*
+**Ep 10 — "Tea With a Candidate"** *(S&S · melancholy)* — The Tea Room opens the matching mechanic with its first real patron — a forge-man come to look at Cinder — and Liora earns Custodian I in the same hour its cost lands: the room's whole function is the goodbye, and its first act schedules away the creature she just got warm and fed.
+🍪 number-up (@turn) · 🪝 soft-hook · 🧵 advances[L-CINDER, L-LIORA] · 🌦️ a snowdrop up through the frost by the door; thin sun, candlelight still earning its keep · 👤 Tamsin/Cinder match (the forge-man; placement runs to Ep33) **and Wynn** — hedge-alchemist, they/them, ink-stained, sheltering from the frost; notices the Puddle Slime and asks idly what a creature like that *dissolves* (the Ep20 send-off planted a season early; the Slime's future patron is **Wynn**, a real person, not "a forge-patron"/slot) · *State:* Rank Trainee→Custodian I · Comfort 3→4 · Renown Wary→Neutral(low) · Cinder 26→34% · Tea Room unlocks · Compliance 26→30% · Rapport: Wynn — Acquaintance.
 
-**Ep 12 — "The First Inspection"** *(S&S · ARC CLIMAX)* — Quill finds the nursery occupied and
-running; Liora wins by demonstration; Compliance crosses viable. Quill lets slip she answers to
-someone who *wanted this to fail*.
-🍪 competence 🪝 **warm** (arc-out) 🧵 advances [L0, L-LIORA, L-EDDA]; *Arc-2 door cracked.*
-🌦️ Snowmelt running off the gutters; thin warm light through the cleared inspection windows.
-*State:* Compliance 30→**41%** · Comfort **4** · Hab 24→**34%** · Hearthglow **9** · Rank
-Custodian I→**Custodian II** · Bertram 40→**48%** · Renown **low-Neutral**.
+**Ep 11 — "The Voice Is Alive"** *(K& · hope)* — A perfect house steep lands at the new Resonance Hearth and the System's deadpan drifts one fond half-degree and catches itself — the first on-page evidence that someone is *in there*, alive to care. A second cup is poured "for no one in particular"; the house is talking back to someone.
+🍪 relationship (@ten) · 🪝 warm · 🧵 advances[L-KRAKEN, L-EDDA] · 🌦️ rain on the panes, the fire's low argument with the draught, the cup the warmest thing in reach · 🍲 Mood-Teas (chamomile/bergamot/valerian) · 👤 Kraken↔Cress ASMR corner (the voice softens); the conversation with the unseen person begun · *State:* Comfort 4 (Resonance Hearth banked) · Kraken 18→31% · Cress 36→52% · Gentle Handling II online · Hearthglow 8→9 · (the load-bearing tachometer drift beat — kept).
 
-> **Arc-1 EXIT:** Comfort 4 · Hab 34% · Compliance 41% · Hearthglow 9 · Custodian II ·
-> low-Neutral · Cress 52 · Cinder 44 · Bertram 48 · Kraken 31.
+**Ep 12 — "The First Inspection"** *(S&S · pride)* — ARC-1 CLIMAX. Inspector **Maud Quill** comes to find an illegal ruin and close it — and is instead out-cared into watching a working nursery run *itself*, line by line, until Compliance crosses viable and Briarwick is, for the first time, real enough to be on the record — and a target. The unsignable box gets signed; a burned-out culler does it without a single cull and without becoming the clerk she quit being.
+🍪 competence · 🪝 warm (arc-out: family forms; Arc-2 door cracked) · 🧵 advances[L0, L-LIORA, L-EDDA] · 🌦️ snowmelt running off the gutters; thin warm light through the cleared inspection windows · 👤 **Inspector Maud Quill** — comes to close the house, is warmed by the tea (a person, not the voice) into signing; the care-system runs itself in front of her (seeds her later converting) · *State:* Compliance 30→41% (crosses viable) · Comfort holds 4 · Hab 24→34% · Hearthglow 9 · Rank Custodian I→Custodian II · Bertram 40→48% · Renown low-Neutral.
+
+
+### ARC 2 — The Pipeline (Ep 13–24): fosters arrive, bond, and are sent off; the nursery is seen, loved, and finally audited
+
+**Ep 13 — "Three Doors, One Room"** *(S&S · relationship)* — The Fledgling Wing opens and three fosters land in one room with three incompatible needs as the placement clock starts; the cascade (Phoenix flare → Kettle shriek → Slime douse) won't settle until Liora borrows Cinder's steady ember, and on that same beat the Phoenix re-lights asleep against *her* sleeve — the first real bond, on the day she learns a foster is a child she'll have to give away.
+🍪 relationship (the turn) · 🪝 soft-hook · 🧵 opens [L-PLACE, L-PHX, L-SLIME, L-KETTLE] · 🌦️ first blossom against wet green, three new arrivals, damp earth · 🍲 — · 👤 three fosters intook (Phoenix · Slime · Kettle); the *older* slips already in the wing are in a hand the System recognizes (Edda teed) · *State:* Boarding 0→+3 · Hab 34→36% · Phoenix 24% · Slime 22% · Kettle 20% · Custodian II · Bestiary +3.
+
+**Ep 14 — "Origins on File"** *(K& · contentment)* — A dull morning logging the three fosters by care, not hazard, turns quietly enormous when the deep drawer yields *older* intake files in a steady looping hand that already knew each creature's kind by name — proof someone tended this house her way before her. Liora reads the dead carer's grammar as kinship, not threat, and takes the old Shriekmoth note straight to Kettle to ration its dark.
+🍪 mystery (in the ten) · 🪝 warm · 🧵 advances [L-EDDA, L-PLACE] · 🌦️ gold light lengthening across the files; a fat early bee bumps the glass and gives up · 🍲 — · 👤 the previous custodian's unsigned hand surfaces (Edda); Liora joins a lineage of this work, two carers' handwriting in one drawer · *State:* Comfort holds 4 · Phoenix 24→30% · Habitat Mending II unlocks (over-build upkeep) · Hab 34→36%.
+
+**Ep 15 — "The Feedback Loop"** *(K& · mischief)* — The wing's anti-synergy storm keeps resetting itself, so Liora re-seats the room by hand rather than fix the creatures — and the loop solves itself by accident when Bertram blinks into a fresh puddle ("Mm.") and the jolt sends the Phoenix *toward* Cinder's warm seat instead of off. The calm holds on a borrowed ember she can feel working and can't yet bottle.
+🍪 joke (in the ten — Bertram in the puddle) · 🪝 soft-hook · 🧵 advances [L-PHX] · 🌦️ warm afternoon, sap and birdsong through an open sash; Cinder's ember the only dry thing · 🍲 — · 👤 Bertram↔Slime gag pays; the Phoenix chooses warmth; name *Sorrel* filed as the one who might read a chronic hurt (trained under Briarwick's pre-purge keeper) · *State:* Phoenix 30→48% · Cinder 44→50% · Comfort holds 4.
+
+**Ep 16 — "The Healer Who Knew Her"** *(K& · wonder)* — The Mending Room opens and Dr. Sorrel simply keeps finding the next thing to mend until she's staff; over a corrected Phoenix-grip in the courtyard she lets slip she learned her handling from *Edda* — and spring breaks over Briarwick all at once (the courseway runs, the fountain clears, the first bees wake) because the house is alive enough to thaw the season around it.
+🍪 relationship (in the ten — the corrected thumb) · 🪝 warm · 🧵 advances [L-EDDA, L-LIORA, L-CINDER] · 🌦️ ✨ "The Brook Runs" set-piece: snowmelt, clear fountain, bees in first blossom · 🍲 — · 👤 **Sorrel = MENTOR, not romance** — older healer / grief-mirror who knew Edda; bond built in the spaces (a second cup poured, a caught joke, a shared silence); forge-patron inquiry about Cinder seeded · *State:* Comfort 4→5 · Diagnosis II online · Cinder 50→54% · Mending Room unlocks (standing draw) · *Rapport: Sorrel — Acquaintance→Friend (platonic mentor).*
+
+**Ep 17 — "Scalding Point"** *(S&S · frustration→resolve)* — The Toad↔Kraken frenemy dial goes hot and nearly scalds Cress; Liora catches it a half-second early, then makes the catch permanent by bringing Ward-Mending I online — and learns in the same breath that a ward is a tap she can never turn off, drinking Hearthglow every cycle it stands. The win clips on a leash: more corners than reserve.
+🍪 competence (the turn) · 🪝 soft-hook · 🧵 advances [L-KRAKEN] · 🌦️ brook loud through the window, steam off the pool, wet green where the cull-grey was · 🍲 — · 👤 Sorrel co-runs the Mending Room now (names the Edda warding-method, carries a scald-loss); **Quill enters as a converting inspector** — pets the Phoenix unwatched, admits she's pressured from above for findings she doesn't want to write · *State:* Hearthglow 9→8 (standing ward-drain) · Kraken 31→40% · Hab 36→42% · Comfort holds 5 · 2nd charter-supersession of a Control notice · *Rapport: Sorrel — Friend (deepening); Quill — Acquaintance.*
+
+**Ep 18 — "What Grows in the Larder"** *(S&S · bittersweet)* — The West Wing larder opens onto a living, spreading sporeglow; three care-needs land in one hour and the reserve funds only two, so Liora holds the wards and contains the lichen and *defers the Phoenix's comfort on purpose* — emptying the steep-cup in its sight. Contained by warmth, the lichen grows toward an over-painted seam someone kept warm behind the wall.
+🍪 mystery (the turn — the seam) · 🪝 hard-hook · 🧵 opens [L-SPORE] / advances [L-SERIES, L-EDDA] · 🌦️ damp larder dark, sporeglow a faint cold green; blossom and drowsy bees outside · 🍲 **Sporeglow Honey** (the comfort she can give by hand, not by reserve) · 👤 **the Hearthglow bite** — the Phoenix left uncomforted on purpose, soothed by a spoon of honey not a cure; the prior tenancy *maintained* the lichen, aimed at a sealed door · *State:* Hearthglow 8→7 (triage: wards + containment funded, comfort deferred) · Compliance 41→50% · West Wing unlocks · RC II online · Phoenix holds ~30%.
+
+**Ep 19 — "Steady"** *(K& · tenderness)* — The comfort she couldn't *buy* last episode is given slowly, by hand, across one spring-rain day beside Cinder's warmth — and the anxious Phoenix goes *steady*, settling itself and even sharing its honey. But when Liora reaches to place it, three trial homes prove it re-lights only at Briarwick: it bonded too deep to send, and becomes the house's first foster→PERMANENT.
+🍪 relationship (in the ten — the shared honey) · 🪝 warm · 🧵 closes [L-PHX] / advances [L-PLACE] · 🌦️ soft spring rain, courtyard greening, the Phoenix staying in Cinder's warm spot · 🍲 (Sporeglow Honey returns as a given spoonful) · 👤 **Phoenix declines placement → foster→PERMANENT (1st), the found-family's 6th**; the day was the steep — care given slow enough makes a creature *home*, not sendable · *State:* Phoenix 48→70% (a *staying* number) · Cinder 54→58% · Comfort holds 5 · Hearthglow unspent.
+
+**Ep 20 — "The First Send-Off"** *(K& · bittersweet)* — The Send-Off Porch appears overnight for the first real placement: the Puddle Slime, the easiest match in the house, leaves with the right patron — and it still hurts to give away. On its way out it dissolves the porch's one ineradicable grime-ring clean, turning the loss into a gift, and the pipeline's bittersweet payoff lands warm, never cruel.
+🍪 joke (in the ten — the parting grime-ring) · 🪝 warm · 🧵 advances [L-PLACE] / closes [L-SLIME] · 🌦️ dawn off the porch, dew on long grass, the first goodbye warmer and harder than expected · 🍲 — · 👤 **first send-off = Wynn adopts the Slime** — hedge-alchemist (they/them, from the Ep10 Tea Room), a real recurring person on a tincture-loop who needs the Slime's reagent and promises to bring it back to see its family · *State:* Comfort holds 5 · Slime ~58% PLACED · Rank Custodian II→III · Send-Off Porch unlocks (every match now a goodbye to survive) · Hearthglow holds 7 · *Rapport: Wynn — Acquaintance (high).*
+
+**Ep 21 — "Two Problems Solving Each Other"** *(K& · contentment)* — The morning after the first goodbye, the house aches in the Slime-shaped gap; Liora works two stray residues — the Slime's drying slip-puddles and a Kettle gone restless in the quieter wing — and the ache eases when she reads them as one shape: the house has capacity it isn't using and is ready for its next foster (a warm-pebble need filed forward, the Ep26 seed).
+🍪 competence (in the ten — the cross-reference) · 🪝 soft-hook · 🧵 advances [L-PLACE] · 🌦️ spring, bees in the new flowers, the brook steady, two puddles drying gold · 🍲 — · 👤 a runaway bee refereed out of Kettle's dish with a teaspoon and the dead Slime's care-card; Cress watches with mooncalf patience; each goodbye now costs more, and Kettle is the foster the pipeline is warming toward · *State:* Hab 42→45% · Kettle 20→30% · Comfort holds 5.
+
+**Ep 22 — "Three Heads, One Alarm"** *(S&S · mischief)* — A three-headed Corehound arrives into a raw kennel where the rain's gotten into a corner Bertram sulked off; Liora stops queueing the two problems and solves them together — the Three-Bowl Stew feeds three thermostats from one pot, and Bertram returns to guard the sulk-head's dark corner because he's *needed*, closing the sag. The reward is a guard that, on night one, sounds at something real on the road.
+🍪 number-up (the turn) · 🪝 hard-hook · 🧵 opens [L-ALARM] / advances [L-STAB] · 🌦️ full spring outside, kennel raw and new, a wall sagging where the rain got in · 🍲 **Three-Bowl Stew** (one pot, three temperatures — the gag made structural) · 👤 the three heads each sure the other got the better bowl; Bertram won back by belonging (48→53%), the keystone's moods now load-bearing · *State:* Corehound →~45% · Hab 45→47% (Kennel +1, sulk-discounted) · Three-Temper Kennel unlocks · Bestiary +1 (Corehound) · *no rank-up.*
+
+**Ep 23 — "The Perfect Steep"** *(K& · contentment)* — The whole-house tea finally lands at once — one pot drawn off at three heats for every temperament — and in the new lamplit Book Nook a read-aloud story-hour gentles even the Cockatrice and Kettle (Soothing Song comes online, held not used). A Kraken tentacle steals the Corehound's biscuit, proving the frenemy dial is now banter; and the System logs the steep as *right by a standard Liora never set*.
+🍪 joke (in the ten — the stolen biscuit) · 🪝 warm · 🧵 advances [L-EDDA] / closes [L-KRAKEN] · 🌦️ rain on the new Book Nook glass; lamplight, wool, the whole steeped house gone quiet and green · 🍲 — (Mood-Teas served whole-house) · 👤 the food-head outraged, the sulk-head already forgiving, the alarm-head standing down; the scary two read quiet; the steep matches an archived spec by an unnamed author · *State:* Comfort holds 5 · Kraken 40→55% (L-KRAKEN closes) · Soothing Song online (held) · Book Nook unlocks · Hab 47→48%.
+
+**Ep 24 — "The Send-Off and the Petition"** *(S&S · guarded-curiosity)* — A second foster is matched and sent off well, and the town — unasked — files a petition that pushes Renown to Town Ally; being *loved out loud* is the exact thing that trips an audit. Commissioner Pike lands reasonable and unhurried, takes the flowers-and-paper like a receipt, and on a chain-of-title question lets fall a name the System flinches at a half-beat before Liora does.
+🍪 mystery (the turn — the name) · 🪝 soft-hook (arc-out: a name surfaces) · 🧵 advances [L0, L-LIORA, L-HEIR, L-EDDA] · 🌦️ late-spring gold over a full courtyard, cut flowers on the desk, the brook running and a name in the air · 🍲 — · 👤 **Pike enters as a reasonable ACQUIRER** (audit-to-acquire, not raze); **Quill = converting ally / Friend-pending**, on the house's side of the courtyard; Liora stands up *via paperwork*, laying the 1842 charter on the desk before Pike (M4 step 2) · *State:* Renown Neutral→Town Ally · Compliance 50→58% · Comfort holds 5 · Hearthglow holds 7 · Custodian III (Acting Matron *pending*).
+
+
+### ARC 3 — The Excavation (Ep 25–37)
+
+*Master beat-list, regenerated from current scene files. Foreground spine: the RECORDS-AUDIT clock (Requests 1-2-3) runs the whole arc as a dated devalue-on-paper pressure from Pike's office, delivered in person by **Inspector Crane** (arrives Ep25, rivals-to-lovers, opens hostile). Underneath it, the mystery excavates downward — sporeglow → East Wing → Archive → the Cull Ledger → the erased aunt Rhea — toward the answer to "why her." Cozy floor holds throughout: heat ≤4, no creature harmed, won by care + cleverness + restraint.*
 
 ---
 
-## ARC 2 — "The Pipeline & the Petition" (Ep 13–24)
-*Foreground ④ Social/Renown + ② Access · chamber INWARD · arc-out SOFT-HOOK (a name surfaces).*
-*Entry (Ep13) = Arc-1 exit, value-for-value.* ✓
+**Ep 25 — "Spread"** *(S&S · curiosity)* — The season-woken sporeglow reaches for the winter stores; Liora contains it cleanly by care-method (warming a tighter boundary-line, refusing the cull) rather than killing it. Done right, the containment makes the lichen trace a painted-over *door* on the back wall — warm-backed, sealed — the first spadeful of the descent; she maps it, doesn't open it.
+🍪 competence (the containment mastered) · 🪝 soft-hook · 🧵 ~L-SPORE (carries L-SERIES, L-EDDA) · 🌦️ early-midsummer light in green-gold bars across the cold larder floor · 🍲 — · 👤 **Inspector Crane ARRIVES** to serve Request 1 in person, opens with a citation, she loophole-judos it; he re-squares the form rather than bristle (his wound seeded: a rule-believer who holds procedure like a railing). *State:* Hearthglow 7→6; Hab 48→~49%; Custodian III; **Audit Request 1 received (14 days)**; Rapport(Crane) Wary/adversary.
 
-**Ep 13 — "Three Doors, One Room"** *(S&S)* — Fledgling Wing opens; three fosters arrive into one
-room with three incompatible needs. The placement clock starts.
-🍪 relationship 🪝 soft-hook 🧵 opens [L-PLACE, L-PHX, L-SLIME, L-KETTLE].
-🌦️ First blossom against wet green; the wing smells of damp earth and three new arrivals.
-📖 **Bestiary +3 (F4):** *Pocket Phoenix · Puddle Slime · Shriekmoth (Kettle)* logged together — the
-foster-intake triple-hit (a visible collection burst).
-*State:* Boarding +3 · Hab 34→36% · Phoenix —→24% · Slime —→22% · Kettle —→20%.
+**Ep 26 — "The Pebble Garden"** *(K& · tenderness)* — A Cockatrice Chick the town calls deadly arrives; Liora lays it a Pebble Garden, and its dreaded death-glare lands on Bertram (already stone) and fails into warm path-pebbles — a collectible resource and a recipe, not a weapon. The menace fails into friendship between two unbothered stones.
+🍪 relationship (Cockatrice↔Gargoyle synergy) · 🪝 warm · 🧵 +L-FEAR, ~L-EDDA · 🌦️ warm stone underfoot, long grass, a death-glare dropping pebbles · 🍲 Pebble-Salt Biscuits · 👤 the old raked bed under the turf was drawn for a cockatrice (designer off-file). *State:* Pebble Garden unlocked + town-prejudice exposure booked; L-FEAR opens; Bestiary +1; Audit Request 1 outstanding; Comfort holds.
 
-**Ep 14 — "Origins on File"** *(K&)* — Cataloguing reveals intake forms in a hand that knew these
-creatures' kinds by name; the INWARD chamber cracks.
-🍪 mystery 🪝 warm 🧵 advances [L-EDDA, L-PLACE].
-🌦️ Gold light lengthening across the files; a fat early bee bumps the glass and gives up.
-*State:* Habitat Mending II window (@14) · Phoenix 24→30% · Comfort holds 4 · voice-drift.
+**Ep 27 — "Handling in Public"** *(K&/F2 · tenderness-fostering)* — Liora handles the "deadly" cockatrice where the town can watch, and the facet no rumor predicted surfaces: the chick has tucked a frightened wren nestling under its wing and brooded it warm all night. The handling is flawless, the truth gentler than the legend — and the crowd goes home afraid anyway (proof is not persuasion).
+🍪 competence · 🪝 soft-hook · 🧵 ~L-FEAR · 🌦️ bright open noon, wind through trees like distant surf, the crowd holding its breath · 🍲 — · 👤 the house converts Crane against his will (Corehound three-way-votes him in, the Slime ruins his boots, he softens at the brooding tableau and fights it); **Wynn returns** with the placed Slime. *State:* Gentle Handling III unlocked + public-fumble upkeep; Renown clock live; Audit Request 1 (~10 days); Rapport(Crane) → wary-thaw; Rapport(Wynn) Acquaintance→Friend.
 
-**Ep 15 — "The Feedback Loop"** *(K& · F2-converted)* — Anti-synergy storm settles into a quiet
-turn; Liora seats the Phoenix beside Cinder's ember; calm holds on a synergy she can't yet bottle
-(gentle twist, no manufactured disaster — `L-PHX` clock stays live in the soft-hook out).
-🍪 joke (Slime↔Gargoyle gag: Bertram blinks into a fresh puddle; "Mm.") 🪝 soft-hook 🧵 advances [L-PHX].
-🌦️ Warm afternoon, sap and birdsong through an open sash; Cinder's ember the only thing not damp.
-*State:* Phoenix 30→48% · Cinder 44→50% · Phoenix declines its old cold nest.
+**Ep 28 — "The Lull"** *(K& · ✨ set-piece · contentment)* — The whole cast — predator and prey — beds down in one warm-dark room under the first fireflies, rendered as inventory and three snores in three keys. Liora stops standing watch and sits down *inside* the pile; the thesis goes literal while the sporeglow keeps quietly mapping a route under the floor.
+🍪 relationship (the cast as one organism, Liora counted in) · 🪝 warm · 🧵 ~L-SPORE (seam mapped en route) · 🌦️ firefly dusk, the in-wall green pulsing in time with the field · 🍲 — · 👤 **Sorrel mentor / found-family** beat — she stays, is poured a second cup without asking, folded into the family (the older healer who knew Edda). *State:* The Lull unlocks; **Comfort 5→7 (+2)**; peer-comfort + one-shared-point-of-failure upkeep; Hearthglow rebuild begins; Rapport(Sorrel) deepening toward Confidant.
 
-**Ep 16 — "The Healer Who Knew Her"** *(K&)* — Mending Room opens; Dr. Sorrel joins and lets slip
-she learned her handling from *Edda*. Briarwick rescues its own carer.
-🍪 relationship 🪝 warm 🧵 advances [L-EDDA, L-LIORA, L-CINDER (forge-patron seeded)].
-🌦️ ✨ SET-PIECE — Snowmelt fills the courseway; the restored fountain runs clear; bees wake in the first blossom.
-*State:* Diagnosis II (@16) · Comfort 4→5 · Cinder 50→54% · clinic = standing draw.
+**Ep 29 — "Public Figure"** *(S&S · wry)* — Control stages a public viewing meant to make Briarwick look like a hazard with a roof; Liora refuses to provoke the chick on cue, names the failed petrification as plain testimony, and hands the crowd a single warm pebble made days ago as *evidence*. One townsperson pockets it and carries it home — and being publicly good at this is exactly what guarantees the next, worse-built room.
+🍪 competence (out-cares the staging by handing the proof away) · 🪝 soft-hook · 🧵 ~L-FEAR (one townsperson softens) · 🌦️ hard white midsummer noon hammering the staged path, one pocketed pebble carried home · 🍲 — · 👤 Grindle's stagecraft starved of its monster; the meter now public and two-handed. *State:* Public Handling unlocks + stageable/scored upkeep; Renown tick (publicly witnessed); Cockatrice tick; **Audit — staging is its other hand, Request 2 pending**.
 
-**Ep 17 — "Scalding Point"** *(S&S)* — Frenemy dial live; a near-miss scald caught a half-second
-early. Ward-Mending I online — and immediately a *standing* Hearthglow drain.
-🍪 competence 🪝 soft-hook 🧵 advances [L-KRAKEN].
-🌦️ Brook loud through the window, steam off the pool; wet green everywhere the cull-grey used to be.
-*State:* Ward-Mending I (@17, standing upkeep) · Hearthglow 9→8 · Kraken 31→40% · Hab 36→42%.
+**Ep 30 — "The East Wing Opens"** *(S&S · awe-of-threshold · hard-hook)* — Tending the sporeglow the last hand's-breadth is the key that cracks the door; Kettle shrieks loudest *here* (the proximity alarm she was always right about), and the door gives onto the East Wing — not a beast but a humming terminal kept warm, the **Cull Ledger** glimpsed beside it, and Bertram revealed to have been guarding it all along.
+🍪 mystery (the door gives onto a kept-warm *source*, not a monster) · 🪝 hard-hook · 🧵 +L-EAST, −L-SPORE, ~L-EDDA, ~L-SERIES · 🌦️ night air, crickets, the seam a door-shaped glow, a hum felt in the floor · 🍲 — · 👤 **Sorrel load-bearing** — reads the Ledger Liora can't, recognizes Edda's hand, goes still ("She kept the count"). *State:* East Wing unlocks (can't be re-locked); Hab map completes; L-SPORE closes / L-EAST opens; **Audit Request 2 (succession) drives the night**; Custodian III holds; A1 Cull-Ledger seeded.
 
-**Ep 18 — "What Grows in the Larder"** *(S&S)* — *(THE Arc-2 Hearthglow bite.)* West Wing larder
-opens; sporeglow spreads. Three care-needs, the reserve covers two: Liora funds the wards +
-containment and **defers the buff-steep** — a creature stays uncomfortable *for now*. The
-sporeglow lights a painted-over seam.
-🍪 mystery 🪝 hard-hook 🧵 opens [L-SPORE] / advances [L-SERIES, L-EDDA].
-🌦️ Damp larder dark, the sporeglow a faint cold green; outside, blossom and drowsy bees.
-🍲 Sporeglow Honey (Codex · Recipe Learned +1): RC II — luminous, faintly sweet, the bees make it from the lichen; ingredient-upkeep, not a buff.
-*State:* West Wing unlocks · Resonance Cooking II (@18) · **Hearthglow 8→7** ("Reserve
-insufficient for elective comfort. Triage logged.") · Compliance 41→50%.
+**Ep 31 — "The Archive"** *(S&S · ✨ set-piece · PEAK · awe-of-recognition)* — Liora opens the further panel by tending, then *rebuilds the ruined ledger-room by hand*; restoring it proves the care-protocol was **authored**, not weather — a will, with a painted-out signature. As the last shelf goes true the sporeglow blooms into a slow indoor aurora, the rules legible in light. The **Cull Ledger** explains "why her": the System *detected* her — it logged her Ep1 refusal (SPARE) and woke.
+🍪 competence (the room rebuilt by hand) · 🪝 soft-hook · 🧵 ~L-EAST, ~L-EDDA, ~L-SERIES, ~L-HEIR · 🌦️ the Sporeglow Aurora — cold green-gold folding across the restored shelves, the rules written in glow · 🍲 — · 👤 **Sorrel → Confidant** (Liora sits inside her un-named Edda grief and stays; platonic mentor-to-heir). *State:* Archive skill + room unlock; Codex +1; Compliance ticks; **A1 mechanism delivered (detected, not assumed)**; Acting-Matron precondition met (title lands @33); Rapport(Sorrel) Friend→Confidant.
 
-**Ep 19 — "Steady"** *(K&)* — The deferred comfort lands the patient way; the Phoenix finds its own
-warm spot beside Cinder and stops dying of nerves — not cured, *steady*.
-🍪 relationship 🪝 warm 🧵 closes [L-PHX] / advances [L-PLACE].
-🌦️ Soft spring rain, the courtyard greening; the Phoenix settles into Cinder's warm spot and stays.
-*State:* Phoenix 48→70% (placement-ready) · Cinder 54→58% · Comfort holds 5.
+**Ep 32 — "Security Duet"** *(K& · softest chapter · contentment)* — Corehound's alarm-head and Kettle stop talking over each other and learn to take turns (warn-not-fight), and the whole cast settles into one organism that keeps its own time — while a hard dated clock runs the cozy hour: **Audit Request 2 falls due today**, produced clean by sundown. The warning runs the family's whole length and comes out as *nothing to worry about*.
+🍪 relationship (the household runs itself; Liora "increasingly furniture") · 🪝 warm · 🧵 ~mastery/synergy tick · 🌦️ leaf-canopy shade by day, stars over the well by night, the house breathing as one · 🍲 — · 👤 **Crane collects Request 2 in person** — banter, then the mid-book **almost**: handed Storm-Day Cocoa, dog leaned on his shin, the act drops for one minute ("It runs itself" / "I'd have filed it"), the unfinished sentence, the moth interrupts, both retreat. *State:* Corehound↔Shriekmoth duet online; Kettle/Corehound ticks; Comfort holds 7; **Request 2 produced clean, Request 3 (sharper) looming @36**; Hearthglow +1; Rapport(Crane) wary-thaw→Acquaintance.
 
-**Ep 20 — "The First Send-Off"** *(K&)* — Send-Off Porch opens; the Slime is the easiest match in
-the house — and it still hurts to give away.
-🍪 joke (the Slime dissolves one last grime-ring on its way out) 🪝 warm 🧵 closes [L-SLIME]
-(inside L-PLACE) / advances [L-PLACE].
-🌦️ Dawn light off the porch, dew on the long grass, the first goodbye warmer and harder than expected.
-*State:* Send-Off Porch unlocks · **rank-up Custodian III** · Slime ~58% at send-off (closed) ·
-Renown Neutral(climbing) · every match is now a goodbye you must survive.
+**Ep 33 — "Acting Matron"** *(K& · bittersweet · warm-with-ache)* — The forge-smith **Tamsin** returns and warms to Cinder, who banks his spark on cue and sells himself over biscuits; mid-pour the System stops calling Liora a custodian and names her **Acting Matron**. Her first act under the title is the hardest — she sends Cinder *off* that same evening to Tamsin's forge, surviving the goodbye, the empty Basking Nook still ticking out heat into a room that no longer needs it.
+🍪 joke (Cinder sells himself on cue) · 🪝 warm-with-ache · 🧵 −L-CINDER (matched AND departed), ~L-PLACE · 🌦️ warm stone and cut grass, the deal sealed in long gold, the cart down the lane by dusk · 🍲 — · 👤 **Tamsin named** (forge-smith, she/her) — a real warm home with an open door for visits (recurring-patron seed). *State:* **Rank Custodian III → Acting Matron** (+ public-answerability upkeep; the title sharpens the audit, Request 3 incoming); L-CINDER closes (Cinder gone from Arc 4; ache→Bk2); Send-Off Porch upkeep paid; Renown holds high Town Ally; Rapport(Tamsin) Stranger→Acquaintance.
 
-**Ep 21 — "Two Problems Solving Each Other"** *(K& · F2-converted)* — Goodbye-upkeep bites, then
-eases as two problems quietly solve each other; Liora seeds the Cockatrice-pebble fix for the
-Slime's leftover puddles. The pipeline holds; each goodbye costs more (gentle twist; placement
-clock stays live in the soft-hook out).
-🍪 competence 🪝 soft-hook 🧵 advances [L-PLACE].
-🌦️ Bees working the new flowers; the brook steady; two leftover puddles drying in the gold light.
-*State:* Hab 42→45% · Kettle 20→30% · Comfort holds 5.
+**Ep 34 — "Rhea"** *(S&S · grief · hard-hook)* — The last redacted line in the restored Archive — a plaque blacked out under house-paint — comes clean under the Slime's leftover dissolving residue, and the name is not a stranger's: **Rhea**, the aunt nobody talked about, the prior custodian Control painted out of its own record. One Corehound head reads the scent as *family*; knowing it lets her argue in the open, and names the enemy who'll argue back harder.
+🍪 mystery (the prior custodian is Liora's erased blood) · 🪝 hard-hook · 🧵 ~L-HEIR (+ L-ALARM false-alarm gag seeds Ep44), ~L-EDDA, ~L-SERIES · 🌦️ dim Archive light, dust in the canopy sun, the over-paint dissolving to a name that stings · 🍲 — · 👤 **Sorrel** says *Rhea* first and grieves her beside Liora (Confidant holds, mentor-to-heir); **Crane** reads his own office's redaction-order on the wall — his faith cracks, mirroring her Ep1 refusal, and he logs the plaque "restored" (his first mark on her side). *State:* **Advocacy unlocks** (+ the audit personalizes/sharpens); Codex +1 ("Previous Custodian — Rhea"); Comfort holds 7; Rapport(Sorrel) holds Confidant; Rapport(Crane) Acquaintance→Friend, conflicted.
 
-**Ep 22 — "Three Heads, One Alarm"** *(S&S)* — Three-Temper Kennel opens; Corehound arrives; the
-alarm arms — while a wall sags (Bertram sulked). Both problems worked at once.
-🍪 number-up 🪝 hard-hook 🧵 opens [L-ALARM] / advances [L-STAB].
-🌦️ Full spring outside, the kennel raw and new; a wall sags where the rain got in.
-🍲 Three-Bowl Stew (Codex · Recipe Learned +1): one pot, three temperatures, served three ways for three heads — ingredient-upkeep, never a free buff.
-📖 **Bestiary +1 (F4):** *Corehound (3 heads)* logged — and the entry notes "1 of 3 tempers catalogued."
-*State:* Kennel unlocks · Corehound —→45% · Hab 45→**47%** (Kennel +1, offset by sulk) ·
-Bertram 48→53%. *(F3/R2 reconciled downstream: Ep23 idle-tick +1 carries Hab 47→48 to match the
-declared Arc-2 exit.)*
+**Ep 35 — "The Aunt Nobody Talked About"** *(K& · low-plot ASMR soak · melancholy)* — The night after the name, Liora absorbs Rhea-as-family by tending the Moonwell — and the surface glasses over to re-show someone tending it *exactly the way she does* (same pour, same wrist, same Mooncalf-lean). The orphan-warmth lands bone-dry: she had an aunt all along, in the slope of her own wrists; the house didn't hire her so much as recognize her.
+🍪 relationship (family arriving sideways, by an inherited gesture) · 🪝 warm · 🧵 ~L-LIORA (the "stay" meta-clock deepens) · 🌦️ firefly-dark, the well settling ripple→still→glass holding one star · 🍲 — · 👤 the imprint is Rhea's tending, gesture-match 1.00; Liora refiles the name as family, present-tense. *State:* Comfort holds 7; Cress tick; Hearthglow rebuilding; L-LIORA advances (closes @48); **Audit Request 3 due tomorrow — packet left unfinished tonight, produced @36**.
 
-**Ep 23 — "The Perfect Steep"** *(K&)* — The whole-house tea lands; Soothing Song comes online
-(held gently, not used). The System's deadpan softens a clear degree over the cup.
-🍪 joke (a tentacle steals the Corehound's biscuit; the food-head is outraged) 🪝 warm 🧵
-closes [L-KRAKEN] / advances [L-EDDA].
-🌦️ Rain on the new Book Nook glass; lamplight, wool, the whole steeped house gone quiet and green.
-*State:* Soothing Song (@23, gates only at real trust) · Kraken 40→55% · Comfort holds 5.
-*(Idle-tick (F3/R2): Hab 47→48% — the settled house reconciles the Arc-2 internal tally to the
-declared exit 48%.)*
+**Ep 36 — "The Engineered Fear"** *(K&/F2 · climax pt.1 · sober-indignation)* — Liora sorts the Archive to *prepare* an Advocacy filing, and the documents, laid in order, do the turning: the nurseries weren't neglected but **suppressed** — care outlawed because it worked, the fear deliberately engineered to protect the cull-contracts. The cull-clerk reads the engineering because she used to be a gear in it; the proof she files is the one document the case was missing, and filing it tells Control she knows.
+🍪 competence (reading the archive correctly; the proof in hand) · 🪝 soft-hook · 🧵 ~L0, ~L-FEAR (fear named *manufactured*) · 🌦️ hot still afternoon, wind rising in the leaves like distant surf, a storm not yet here · 🍲 — · 👤 **Crane reads the engineered-fear filing** (produced to the audit), calls it "admissible," warns her the audit will sharpen — a believer holding documentary proof the rules were a lie, his doubt widening, no defection yet. *State:* Renown→Regional-pending; Compliance +tick (capped, Control sharpens); Hearthglow near-rebuilt; L0 advances and stays live; Rapport(Crane) holds Friend, conflicted.
 
-**Ep 24 — "The Send-Off and the Petition"** *(S&S · ARC CLIMAX)* — The town files a petition;
-Renown → Town Ally; being loved locally trips an audit. **Pike lands with weight**; a name
-surfaces the System reacts to before Liora does.
-🍪 mystery 🪝 **soft-hook** (arc-out: a name surfaces) 🧵 advances [L0, L-LIORA, L-HEIR, L-EDDA].
-🌦️ Late-spring gold over a full courtyard; cut flowers on the desk; the brook running and a name in the air.
-*State:* Renown → **Town Ally** · Compliance 50→**58%** · Comfort **5** · Hearthglow **7** ·
-**rank: Custodian III** (Acting Matron *pending* — Archive precondition awaits; title lands @33,
-per STATSPINE — see Seam Report flag 2).
+**Ep 37 — "One Organism"** *(S&S · PEAK · fierce-protect · arc-out: warm-with-ache)* — A stress-test lands and instead of any one creature breaking, the whole cast moves *as one body*: Bertram holds his post, the alarm warns in time, the duet chimes, the Lull spreads the load, no single point fails — and Liora takes her hands off and lets the thing she built breathe. In the held quiet she finally understands Rhea's erasure: **the apparatus deletes its successes, not its failures** — so Briarwick's proven strength is the exact mark that schedules it for deletion, and Pike must now move.
+🍪 mystery (Rhea erased for *winning*; the Arc-3 excavation closes) · 🪝 warm-with-ache (the family holds; the ache is Rhea, named) · 🧵 ~L-STAB, ~L0, ~L-LIORA, ~L-EDDA, ~L-HEIR · 🌦️ high midsummer, fireflies and hard stars over the held house, the storm not yet here but close · 🍲 — · 👤 the System carries Rhea's nameless warmth; Liora writes the name a third time against erasure, keeper not clerk. *State:* Hab dips→recovers, exits 63%; **Hearthglow rebuilt to 12 (banked whole, unspent for Arc 4)**; Comfort holds 7; Compliance holds toward 66%; Acting Matron holds; Renown Town Ally(high)/Regional-pending; no new room (by design).
 
-> **Arc-2 EXIT:** Comfort 5 · Hab 48% · Compliance 58% · Hearthglow 7 · Custodian III ·
-> Town Ally · Cress 63 · Cinder 60 · Bertram 57 · Kraken 55 · Kettle 40 · Corehound ~45 ·
-> Phoenix 70 (placed-ready) · Slime placed @20.
 
----
+### ARC 4 — "The Seizure & the Recognition" (Ep 38–49) · master beat-list (regenerated from scene files)
 
-## ARC 3 — "The Archive & the East Wing" (Ep 25–37)
-*Foreground ⑥ Lore + ⑤ Mastery · chamber PERSONAL→excavation · arc-out WARM-WITH-ACHE.
-Carries the 13th episode.*
-*Entry (Ep25) = Arc-2 exit, value-for-value.* ✓
+**Ep 38 — "The Order Arrives"** *(S&S · steady-resolve)* — Pike files a seizure-by-bureaucracy order against Briarwick — but it's an ACQUISITION, not a demolition: custody to Control, the house re-licensed, the apparatus erasing Rhea's move again. Liora, who culled from the other side of this desk, reads the order down to its mechanism (consent-effected transfer), signs nothing, annotates every ground as contested, and posts it on the Welcome Desk telling the house they're staying. Crane, Pike's field-auditor, arrives torn — meant to enforce the seizure on the home he's fallen for.
+🍪 competence@turn · 🪝 hard-hook · 🧵 opens [L-INSPECT], ticks [L-LIORA] · 🌦️ high-summer clear: white clouds, hard blue, the grey order read like any form · 👤 Crane (enforcer, high-but-conflicted) stalls over his clipboard; the house meets the order as one organism · *State:* Comfort 7, Hab 63%, Compliance 66% hold; Hearthglow 12 (war-chest, unspent); Acting Matron contested-not-lost; Rapport(Crane) high/conflicted.
 
-**Ep 25 — "Spread"** *(S&S)* — The sporeglow lichen (banked since Ep18) reaches for the larder
-stores; Liora contains it cleanly — and the brightest growth traces a painted-over doorline.
-🍪 competence *(reassigned from mystery per CADENCE seam-audit, 24→25)* 🪝 soft-hook 🧵 advances [L-SPORE].
-🌦️ Early midsummer; sunrays through the leaf-canopy onto the larder floor where the lichen reaches.
-*State:* Hearthglow −1 (containment) · Hab tick · sporeglow now a mapped resource.
+**Ep 39 — "Quill, Wavering"** *(K& F2 · defiance)* — Maud Quill arrives to execute the seizure, but Pike's first move is a PLANTED INCIDENT: a code-change inserted this quarter, designed to fail Briarwick, Quill sent to certify it. Liora counters with Archive (the standard is weeks old, not law) + loophole (Briarwick is grandfathered — it kept, it didn't change) + the town's standing (a certified failure is unsellable); the Corehound's alarm-head and Kettle warn at the *paper*, never the inspector. On-page PIKE beat (off-site, evening prior): he reasons aloud, fear-as-kindness, framing acquisition as mercy — Crane, reasoned at by a man who sounds right, stalls deeper. Quill wavers and leaves the file OPEN.
+🍪 relationship@ten · 🪝 soft-hook · 🧵 advances [L-INSPECT, L-ALARM] · 🌦️ calm bright morning, tea steam, the file left open · 👤 Pike (architect, on-page reasoning); Quill → Friend; Crane torn deeper · *State:* Hearthglow 12→11 (held-calm spend); Compliance 66% holds (file open); Corehound→80.
 
-**Ep 26 — "The Pebble Garden"** *(K&)* — A Cockatrice Chick whose petrification *fails* arrives; the
-town calls it deadly. The Pebble Garden is laid; its death-glare lands on Bertram (two unbothered
-stones) and drops warm path-pebbles.
-🍪 relationship (Cockatrice↔Gargoyle synergy fires) 🪝 warm 🧵 opens [L-FEAR].
-🌦️ Warm stone underfoot, long grass past the new garden; the death-glare lands and drops warm pebbles.
-🍲 Pebble-Salt Biscuits (Codex · Recipe Learned +1): the cockatrice's warm pebbles ground into finishing salt for the Welcome Desk — ingredient-upkeep, not a buff.
-*State:* Pebble Garden unlocks · Cockatrice seeded · pebble + Renown threads live · **Bestiary +1**
-(*Cockatrice Chick* logged — the thesis-creature entry; part of the F4 collection drip).
+**Ep 40 — "What the Glow Is"** *(K& · grief)* — Liora follows Kettle's metronomic shrieks to the East-Wing terminal and reads the sporeglow by hand in the dark: the voice is a preserved person, a matron who wrote her care-standards into the protocol as she died. The System's deadpan drifts and nearly breaks on one word — *Edda* — caught back to flat. Bertram has kept post at this terminal all along; "Mm." means *I've been here*.
+🍪 mystery@ten · 🪝 warm · 🧵 advances [L-EAST, L-EDDA] · 🌦️ warm summer dark, phosphor light, the hum felt through the floor · 👤 the deadpan voice revealed as Edda; Bertram at his keystone post (climbing) · *State:* Hearthglow 11 (comprehension is free); Bertram→climbing; voice-drift near-break; the open seizure file still on the desk.
 
-**Ep 27 — "Handling in Public"** *(K& · F2-converted)* — Liora handles the "deadly" cockatrice where
-the town can watch (Gentle Handling III); the gentle twist is the menace failing into warm pebbles —
-no fumble, no manufactured conflict — but the crowd's fear is louder than the result (renown clock
-stays live in the soft-hook out).
-🍪 competence 🪝 soft-hook 🧵 advances [L-FEAR].
-🌦️ Bright open noon; wind through the trees like distant surf while the crowd holds its breath.
-*State:* Gentle Handling III (@27, public-fumble upkeep) · Renown clock live · Cockatrice tick.
+**Ep 41 — "Kettle's Chime"** *(K& · bittersweet)* — The lighthouse-keeper **Maren** (named) arrives — the one patron for whom a creature that screams at light is the whole job. Kettle, the friction-hub, is placed at last and placed *well*: the once-annoying shriek lands as a fog-chime, a flaw revealed as vocation, and the placement pipeline closes in full (Slime@20 → Cinder@33 → Kettle@41; Phoenix stayed permanent @19). Relief and a clean ache on one beat; Maren promises to write.
+🍪 relationship+ache@ten · 🪝 warm · 🧵 closes [L-PLACE, L-KETTLE]; ticks [L-HEIR] · 🌦️ bright high-summer noon, hay-smell, the shriek lands as a chime then gone · 👤 Maren (lighthouse-keeper, she/her) → Acquaintance, the seasonal-letter seed planted · *State:* Kettle 62→~75% then PLACED; Hearthglow 11 holds; Comfort 7; alcove-ward retired.
 
-**Ep 28 — "The Lull"** *(K& · Arc-3 SUMMIT)* — One warm-dark room for the whole cast; predator and
-prey piled in wool and feather, rendered as inventory and three snores in three keys. The System's
-deadpan drifts its warmest yet.
-🍪 relationship 🪝 warm 🧵 advances [L-SPORE (seam mapped en route)].
-🌦️ ✨ SET-PIECE — First fireflies at the warm dusk; the whole cast piled in wool and feather, three snores in three keys.
-*State:* The Lull unlocks · Comfort +2 (**5→7**) · peer-comfort buff · one-shared-point-of-failure
-upkeep · Hearthglow rebuild begins.
+**Ep 42 — "The Petition"** *(K& F2 · hope)* — The seizure stops attacking the building and goes after the *title*: Control files to vacate "Acting Matron." Liora answers with Advocacy in the open, drafting Briarwick's case at the Welcome Desk — and the warm twist of the ten is the town's signatures arriving before she's finished asking (Holloway and her loaf, a child's hand, a returned pebble). She recognizes them as her answer's missing exhibit and files them, co-signed. Winning on paper is what forces the apparatus off paper.
+🍪 competence@ten · 🪝 hard-hook · 🧵 advances [L-INSPECT] · 🌦️ blue sky going brassy, clouds stacking tall; signatures arrive first · 👤 the town files *for* her unasked; Crane's audit sharpened · *State:* Hearthglow 11→9 (filing + full house); Renown firms toward Regional; Acting Matron defended; Compliance held by the petition.
 
-**Ep 29 — "Public Figure"** *(S&S)* — Control stages a public viewing to make the cockatrice look
-dangerous; Liora unlocks Public Handling, names the failed-petrification, gifts a pebble; one
-townsperson pockets it instead of fleeing.
-🍪 competence 🪝 soft-hook 🧵 advances [L-FEAR (a townsperson softens)].
-🌦️ Hard midsummer light on the staged viewing; heat off the path; one pocketed pebble carried home.
-*State:* Public Handling (@29, every appearance Renown-scored; Control can stage you) · Renown tick ·
-Cockatrice tick.
+**Ep 43 — "Exhibit A"** *(K& · vindication)* — The town comes to see the "deadly" cockatrice and watches its death-glare fail into warm pebbles, passed hand to hand by their own children — the smallest child gets a *gift*, and the order's whole premise empties out in plain sun before Control's own observer. The Chick crosses into real trust (60% Soothing-Song gate clears). Capstone: **Advocacy II** unlocks (the case made publicly undeniable). Tamsin return-visit (brings Cinder by → Friend). And Grindle CHOOSES: he lifts the pen, sets it down, initials the hold ("Held pending review — G."), spending his own safety. Crane's turn BEGINS — he stalls the regional-notice, starts refusing Pike.
+🍪 relationship@ten · 🪝 warm · 🧵 closes [L-FEAR]; advances [L-INSPECT idle] · 🌦️ hot bright day, warm pebbles hand to hand, the menace fails in sun · 🍲 — · 👤 Grindle → quiet-positive (withheld signature, at cost); Tamsin → Friend; Crane's defection begins · *State:* Cockatrice 58→78 (gate cleared); Advocacy II unlocked (upkeep: public exposure); Renown → Regional-pending; Hearthglow 9 holds; Comfort 7.
 
-**Ep 30 — "The East Wing Opens"** *(S&S)* — The sporeglow seam has grown into a glowing door-outline;
-containment-care is the key. Kettle shrieks loudest *here* (proximity alarm); the door gives onto
-the East Wing, something humming behind a further panel.
-🍪 mystery 🪝 hard-hook 🧵 opens [L-EAST] / closes [L-SPORE].
-🌦️ Night air, crickets, the sporeglow seam now a faint door-shaped glow in the dark.
-*State:* East Wing unlocks (can't be re-locked; the glow now draws Kettle's shrieks) · Hab map
-completes · feeds L-EDDA.
+**Ep 44 — "Bertram Holds"** *(S&S · awe)* — Control sends a structural-safety test at the one corner that sags when Bertram sulks. The Corehound's alarm-head gives the single true warning it was armed for thirty-six episodes ago, and the Blink Gargoyle — who blinks *off* whenever he feels unneeded — does NOT blink off: he sets himself as the keystone, says "Mm.", and the building holds. Won by load-bearing care over a pot of Storm-Day Cocoa, not a fight. Capstone: Habitat Stability tips **Maintained → Self-Sustaining** (Bertram the keystone) — now leashed to one resident's morale.
+🍪 competence@turn · 🪝 soft-hook · 🧵 closes [L-STAB, L-ALARM]; advances [L-INSPECT] · 🌦️ sky bruising, first thunder-petrichor; Bertram sets himself and stays · 🍲 Storm-Day Cocoa (Codex +1) · 👤 Bertram the chosen keystone ("Mm." = the patient yes); the alarm pays true · *State:* Hab 63→88% (Self-Sustaining); Bertram 70→86; Corehound 66→80; Hearthglow 9→6 (spent holding the house calm).
 
-**Ep 31 — "The Archive"** *(S&S)* — Behind the panel: the Archive. Restoring the room *is* unlocking
-Edda's secret; Liora proves the rules were *authored*. The "Previous Custodian" line is still painted
-out (name banked).
-🍪 competence *(reassigned from mystery — resolves the 30→31 mystery/mystery clash; see Seam Report
-flag 4; the mystery still deepens, the cookie type is the room rebuilt by hand)* 🪝 soft-hook 🧵
-advances [L-EAST, L-EDDA, L-SERIES].
-🌦️ ✨ SET-PIECE — The West Wing lichen blooms into a slow indoor aurora; the family watches in the dark, the rules written in light.
-📖 **Archive Codex +1 (F4):** restoring the Archive unlocks the *collectible lore-codex* — the first
-"Custodian's Record" entries fill in (a visible collection layer for the lore reader, parallel to the
-Bestiary).
-*State:* Archive skill + room (@31; what's learned can't be unlearned; higher care-standard upkeep) ·
-Compliance tick · Hearthglow rebuild tick.
+**Ep 45 — "The Seizure Breaks"** *(S&S · fierce-protect)* — Control arrives to seize Briarwick; Liora doesn't fight and doesn't out-spend — she closes the order clause by clause as paperwork, voiding each ground. The decisive strike is the **1842 CHARTER SUPERSESSION** (seeded Ep6/8/17): the charter is the higher-order instrument no Control form can outrank, filed *over* the seizure to void it. Crane DEFECTS — refuses Pike, won't certify the grounds, hands over the auditor's findings: his defection ENABLES the supersession (clears the executor's certification), it does not replace it. Liora STOPS DEFLECTING and claims the sanctuary aloud: "This is a sanctuary. I'm its keeper. You don't get to take it." Won at the bottom of the jar.
+🍪 number-up@turn · 🪝 hard-hook (G6-legal) · 🧵 closes [L-INSPECT]; advances [L0, L-EDDA, L-LIORA] · 🌦️ summer thunderstorm proper, rain on the slates, the order closed in the dark · 👤 Crane DEFECTS (enables, not replaces); Liora claims it aloud (her one arc payoff) · *State:* Compliance 66→100% (Recognized); Hearthglow 6→~3 (spent to the floor); Hab 88% holds; Acting Matron defended; Rapport(Crane) jumps.
 
-**Ep 32 — "Security Duet"** *(K&)* — Corehound's alarm-head and Kettle's shriek learn to take turns;
-the security pair clicks; the cast settles as one organism. **In the foreground a live clock ticks:**
-Liora reads the night's Hearthglow ledger — the post-Lull rebuild is climbing back toward the 12 she
-must bank before Arc 4, and the System logs the gain out loud ("Reserve recovering. +1.").
-🍪 relationship 🪝 warm 🧵 advances [mastery/synergy tick]; **foreground Hearthglow-rebuild clock (F5)**.
-🌦️ Leaf-canopy shade by day, stars over the well by night; the house settled as one breathing thing.
-*State:* Corehound↔Shriekmoth duet capability live · Kettle tick (shriek→chime turning) ·
-Corehound tick · Comfort holds 7 · **Hearthglow rebuild +1 (foreground tick toward the banked 12 — F5)**.
+**Ep 46 — "Met As the Dead Can Be Met"** *(K& · grief→peace)* — In the quiet after the seizure, Liora finishes Edda's interrupted custodianship by *tending* the terminal, not powering it; the deadpan voice resolves into a real woman's opinions under flattened customer-service, and "Mm." finally decodes — Bertram has kept Edda's post warm for a generation. Dr. Sorrel — the elder who knew Edda — is load-bearing at the meeting: she reads what Liora can't (confirms the voice by its phrasing) and MENTORS her steady, a hand to the shoulder, grief-mirror, no romance.
+🍪 relationship@ten · 🪝 warm · 🧵 closes [L-EAST]; feeds [L0] · 🌦️ storm easing to dripping eaves, terminal warm under her hands · 👤 Sorrel (mentor/grief-mirror) steadies her, platonic Confidant; "Mm." decoded; Bertram firms · *State:* Comfort 7→8; Bertram firms 86; Hearthglow 3 (tending is free); voice-drift resolves warm.
 
-**Ep 33 — "Acting Matron"** *(K&)* — A second placement run; a forge-patron warms to Cinder; the match
-is *seeded*. With Town Ally + Archive opened, Liora is named **Acting Matron** mid-pour. Cinder's
-*parting* is gently deferred (clean partial payoff).
-🍪 joke (Cinder banks the spark on cue; sold over biscuits) 🪝 warm 🧵 closes [L-CINDER] (match made;
-send-off → Bk2) / advances [L-PLACE].
-🌦️ Warm stone and cut grass; the forge-patron's deal sealed over biscuits in the long gold afternoon.
-*State:* **rank-up Acting Matron** (@33; answer publicly; audit targets the title) · Cinder tick ·
-Renown holds high Town Ally.
+**Ep 47 — "Edda, and Why It Woke for Her"** *(S&S · catharsis)* — The mystery RESOLVES, delivered not withheld: Liora reads Edda's preserved will — a counter-bureaucracy written as the cull-economy closed in — and learns *why* the System woke for her. The **Cull Ledger** payoff: it logged her refusal at Ep1 (the green sanctuary-hold over the cull) — she was *detected by her choice, not assumed by the key* — a defector-heir. Rhea's erasure hid the inheritance. Capstone: **Sanctuary Charter tier** unlocks — Briarwick gains its own jurisdiction. A will that can be inherited can be contested: L-SERIES named (Pike has reason to come back).
+🍪 mystery-resolved@turn · 🪝 soft-hook (L-SERIES named) · 🧵 closes [L-EDDA, L-HEIR]; advances [L0]; names [L-SERIES] · 🌦️ after-storm quiet, washed blue dark, the will read out · 👤 Edda's hand read on-page; the heir named, carried without deflecting · *State:* Compliance → Recognized-pending; Sanctuary Charter tier (jurisdiction); Hearthglow 3; Comfort 8; lore axis caps.
 
-**Ep 34 — "Rhea"** *(S&S)* — The Slime dissolves the over-paint on a grime-blackened plaque to a name;
-one Corehound head flags the scent as *family*: **Aunt Rhea**, the aunt nobody talked about. A wound,
-not a trophy.
-🍪 mystery 🪝 hard-hook 🧵 advances [L-HEIR; L-ALARM false-alarm gag seeds the real one].
-🌦️ Dim Archive light, dust in the leaf-canopy sun; the over-paint dissolves to a name, and it stings.
-📖 **Archive Codex +1 (F4):** *"Previous Custodian — Rhea"* entry fills in (the codex's most charged
-collectible; the collection layer paying into the mystery).
-*State:* Advocacy (@34; Control argues back harder) · Corehound tick · Kettle tick · lore axis steps.
+**Ep 48 — "Matron"** *(K& · quiet-pride)* — No ceremony: the word *Matron* arrives mid-chore the way *Acting Matron* once did mid-pour, and this time Liora takes it without deflecting — a consequence of the Ep45 change, not a re-run. The cost lands in the same breath: a Matron is a *regional* problem now (the Book-2 door arms). Maren's seasonal letter arrives (Kettle thriving — flaw became vocation, proven in writing). Fen crossed apprentice→keeper. Crane stays — a held look, his first name used warmly: the slow-burn's "almost" (Rapport → Dear, no kiss/declaration).
+🍪 relationship+number-up@ten · 🪝 warm · 🧵 closes [L-LIORA] · 🌦️ cool washed morning, big clouds and blue; the title taken without flinching · 🍲 — · 👤 Fen → keeper (Confidant); Sorrel deep platonic mentor; Crane → Dear ("almost"); Maren's letter · 📖 Bestiary/Codex COMPLETE (Book 1) · *State:* Acting Matron → Matron (regional-problem upkeep); Comfort 8; Hearthglow 3; bonds high (Cress 82, Bertram 86, Kraken 78, Corehound 80).
 
-**Ep 35 — "The Aunt Nobody Talked About"** *(K&)* — Liora absorbs Rhea-as-family; the Moonwell re-shows
-a faint imprinted scene of someone tending it the way she does. Orphan-warmth rendered dry.
-🍪 relationship 🪝 warm 🧵 advances [L-LIORA (meta-clock toward "stay")].
-🌦️ Warm dark, fireflies at the well; the Moonwell glassing over to show someone tending it before her.
-🛁 **ASMR/sensory beat (F2-b · dedicated low-plot):** rendered as the Moonwell's surface settling
-to glass, the imprinted scene surfacing like silt, the whole house breathing in the dark — a slow
-sensory soak between the Rhea reveal and the climax. The L-LIORA "stay" meta-clock keeps deepening
-under it, so it is low-plot, not no-clock. *(Not a room-unlock episode.)*
-*State:* Cress tick · Comfort holds 7 · Hearthglow rebuild toward 12.
+**Ep 49 — "Recognized as Real"** *(S&S · ARC/BOOK CLIMAX · ✨set-piece · hope)* — The storm that's been Pike's pressure all season breaks — not into ruin but into a clear dawn — and Briarwick is recognized *official*: Compliance crosses to 100%, Renown reaches Regional, the fear-economy can no longer touch the house. The recognition is the formal landing of work already done, taken as a thing finished clause by clause. Then, warm-first, the one door: a falling star over the Moonwell, a wish kept off the record, and a single filed form — Pike files for **custodian transfer** (his continuous acquisition, seize→take, escalated). New dormant mechanic: **Sanctuary Network** — the Book-2 progression door. Crane STAYS, unresolved — near "for whatever comes next," no declaration.
+🍪 competence@turn + warm-out · 🪝 warm-climax-then-one-door (Pike's filing = appetite, not a fall) · 🧵 closes [L0]; leaves ajar [L-SERIES] · 🌦️ ✨ storm-break sunrise, big clouds and blue, a falling star over the Moonwell · 👤 Pike (a filed form, never on-page); Sorrel (mentor) and Crane (Dear, unresolved) at the well · *State:* Compliance → 100% (Recognized); Renown → Regional; Comfort 7→9; Hab 88%; Hearthglow 3 (spent, Book-2 fuel); Matron holds; Sanctuary Network (dormant) unlocked.
 
-**Ep 36 — "The Engineered Fear"** *(K& · ARC CLIMAX pt.1 · F2-converted)* — Liora deploys Advocacy
-with the Archive in hand; the documents themselves turn the beat — a revelation-twist — showing the
-fear-economy was *engineered*, care outlawed to protect the cull-contracts. The mystery and the town
-turn on the same beat (the `L0` mystery clock stays live; climax pt.2 @Ep37 stays S&S).
-🍪 competence 🪝 soft-hook 🧵 advances [L0, L-FEAR].
-🌦️ Hot still afternoon, wind rising in the leaves like surf; the documents turn the room cold.
-*State:* Compliance tick (capped — Control sharpens audit) · Renown → **Regional-pending** ·
-Hearthglow near rebuilt.
-
-**Ep 37 — "One Organism"** *(S&S · ARC CLIMAX pt.2)* — A stress-test hits; the family moves as one body;
-Rhea's erasure is understood (the apparatus deletes its losers → Briarwick's success makes it the next
-target). Pike moves.
-🍪 mystery 🪝 **warm-with-ache** (arc-out: the family holds; the ache is Rhea, named) 🧵 advances
-[L-STAB stress-test, L0].
-🌦️ High midsummer, fireflies and stars over the held house; the air heavy with a storm not yet here.
-*State:* Hab **63%** (dips then recovers via Bertram) · Hearthglow rebuilt to **12** · no new room (by
-design — the answer is the Arc-4 threat).
-
-> **Arc-3 EXIT:** Comfort 7 · Hab 63% · Compliance 66% · Hearthglow 12 · Acting Matron ·
-> Town Ally(high)/Regional-pending · Cress 74 · Cinder 72 · Bertram 70 · Kraken 68 · Kettle 62 ·
-> Corehound 66 · Cockatrice 58.
-
----
-
-## ARC 4 — "The Seizure & the Recognition" (Ep 38–49)
-*Foreground ① Magnitude-as-stakes + ④ Social · chamber KEYSTONE · arc-out
-WARM-CLIMAX-THEN-ONE-DOOR. No new rooms, no new arrivals (CANON).*
-*Entry (Ep38) = Arc-3 exit, value-for-value.* ✓
-
-**Ep 38 — "The Order Arrives"** *(S&S)* — A seizure-by-bureaucracy order lands; Liora reads it for the
-loophole, signs nothing, posts it, and tells the house they are staying.
-🍪 competence *(reassigned from mystery per CADENCE seam-audit, 37→38)* 🪝 hard-hook 🧵 opens [L-INSPECT].
-🌦️ Big white clouds, blue sky, sun-baked path; the order read for its loophole like any other form.
-*State:* Compliance 66% holds · Hearthglow 12 · L-LIORA ticks (chooses to stay) · Town Ally(high).
-
-**Ep 39 — "Quill, Wavering"** *(K& · F2-converted)* — Quill arrives to execute the seizure; the
-Corehound's alarm-head fires at the *order*, not at her. Liora pours tea and lets a calm morning run
-itself; the gentle twist is Quill leaving the file open (no manufactured conflict; `L-INSPECT` seizure
-clock stays live in the soft-hook out).
-🍪 relationship *(reassigned from competence per CADENCE seam-audit, 38→39: Quill, the persuadable
-inspector, wavers)* 🪝 soft-hook 🧵 advances [L-INSPECT, L-ALARM].
-🌦️ A calm bright morning; tea steam, clouds the Corehound's heads argue over; the file left open.
-*State:* L-ALARM redeployed (warns, does not fight — Ledger flag honored) · Corehound toward 80 ·
-Hearthglow 12→11.
-
-**Ep 40 — "What the Glow Is"** *(K&)* — Liora follows Kettle's shrieks to the terminal and reads what
-the sporeglow spelled: the voice is a person, preserved. The deadpan nearly breaks when she says *Edda*.
-🍪 mystery 🪝 warm 🧵 advances [L-EAST, L-EDDA].
-🌦️ Warm summer dark, the hum felt in the floor, soft phosphor light on the word she nearly can't say.
-🛁 **ASMR/sensory beat (F2-b · dedicated low-plot):** the sporeglow read by hand in the dark — the
-soft phosphor light, the hum behind the panel felt in the floor, the terminal's slow warming as the
-voice softens toward a near-break. Sensory-immersive between two plot beats; the `L-EDDA`/`L-EAST`
-mystery is the live clock under it. *(Not a room-unlock episode.)*
-*State:* lore-as-weapon-of-care assembles · Bertram climbing (70→) · voice-drift near-break ·
-Hearthglow 11 (comprehension is free).
-
-**Ep 41 — "Kettle's Chime"** *(K&)* — A lighthouse-keeper patron arrives — the one place a creature that
-screams at light is an asset. Kettle's send-off is the last and hardest; the shriek lands, for once, as
-a chime. The pipeline is proven in full.
-🍪 relationship + ache 🪝 warm 🧵 closes [L-PLACE, L-KETTLE]; L-HEIR ticks.
-🌦️ Bright high-summer noon, hay-smell on the wind; the shriek lands at last as a chime, then gone.
-*State:* Kettle PLACED (~75% at send-off) · Comfort holds 7 · pipeline closes on-page (no dangle) ·
-Hearthglow 11.
-
-**Ep 42 — "The Petition"** *(K& · F2-converted)* — The seizure escalates to attack the *Acting Matron*
-title itself; Liora deploys Advocacy in the open; Control argues back harder — then the warm twist: the
-town's signatures arrive before she's finished asking. (Gentle-twist resolution; the live seizure clock
-is held in the hard-hook out, not in manufactured scene-conflict.)
-🍪 competence 🪝 hard-hook 🧵 advances [L-INSPECT].
-🌦️ Blue sky going brassy, clouds stacking tall; the town's signatures arrive before she finishes asking.
-*State:* Compliance pressured but held by petition · Hearthglow 11→9 · Renown toward Regional ·
-Advocacy@34 used (legal, margin).
-
-**Ep 43 — "Exhibit A"** *(K&)* — The town comes to see the "deadly" cockatrice and watches its menace
-fail into warm pebbles, handled by their own hands. Fear, out-cared, becomes the evidence that breaks
-the order's premise.
-🍪 relationship 🪝 warm 🧵 closes [L-FEAR].
-🌦️ Hot bright day, warm pebbles passed hand to hand; the menace fails in plain sun and the fear empties out.
-*State:* Renown → Regional-pending firms · **Cockatrice 58→78 (clears the 60% Soothing-Song gate this
-episode — Ledger flag 3 honored; no fused use before now)** · Hearthglow 9.
-
-**Ep 44 — "Bertram Holds"** *(S&S)* — Control forces a structural test on the corner that sags whenever
-Bertram sulks; the Corehound's alarm gives the one-beat warning; Bertram does *not* blink off. He sets
-himself as the keystone — "Mm." — and the building holds.
-🍪 competence 🪝 soft-hook 🧵 closes [L-STAB, L-ALARM] / advances [L-INSPECT].
-🌦️ The sky bruising over, first thunder-petrichor on the wind; Bertram sets himself and does not blink off.
-🍲 Storm-Day Cocoa (Codex · Recipe Learned +1): the hearth-and-thunder comfort drink for the house riding out the test — ingredient-upkeep, not a buff.
-*State:* Hab 63→**88%** · Bertram 70→86 · Corehound 66→80 · Hearthglow 9→6 · alarm warns only
-(Ledger flag honored).
-
-**Ep 45 — "The Seizure Breaks"** *(S&S · pre-climax)* — With structure certified, town turned, title
-defended, the order has nothing left to seize; Liora closes it as paperwork, clause by clause. The win
-is taken at the bottom of the jar.
-🍪 number-up 🪝 hard-hook 🧵 closes [L-INSPECT].
-🌦️ The summer thunderstorm proper now, rain hammering the slates; the order closed clause by clause.
-*State:* Compliance surges toward Recognized · **Hearthglow drained to ~3** (spent to the floor) ·
-Hab 88% · heat ≤4, no violence.
-
-**Ep 46 — "Met As the Dead Can Be Met"** *(K&)* — In the quiet, Liora finishes the custodianship Edda's
-death interrupted — by *tending*, not powering. The voice resolves: deadpan flattened by years, Edda's
-opinions under it. "Mm." understood: Bertram kept her post for a generation. The meeting *is* a
-relationship beat — Liora and the dead carer, met across the System; the mystery still deepens under it.
-🍪 relationship *(re-typed from `mystery` per F1/R1 — the meeting-Edda / "Mm."-decoded beat is a relationship close; mystery still deepens beneath)* 🪝 warm 🧵 closes [L-EAST]; feeds [L0].
-🌦️ Storm easing to dripping eaves; the terminal warm under her hands, the voice's opinions surfacing at last.
-*State:* Bertram firms 86 · voice-drift resolves warm · Hearthglow 3 · Comfort 7→8.
-
-**Ep 47 — "Edda, and Why It Woke for Her"** *(S&S)* — Edda wrote a counter-bureaucracy as she died; the
-System woke for Liora because she *filed the right grief* — she quit culling. A will names an heir;
-Rhea's erasure hid the inheritance.
-🍪 mystery resolved 🪝 soft-hook (`L-SERIES` named) 🧵 closes [L-EDDA, L-HEIR]; names [L-SERIES].
-🌦️ After-storm quiet, dripping eaves and washed blue dark; the will read out, the heir named.
-*State:* lore axis caps · mystery-cost banked (full care-standard) · Hearthglow 3 · Compliance
-Recognized-pending.
-> *(Seam Report flag 4-residual — RESOLVED by F1: Ep46 re-typed `mystery` → `relationship`; Ep45
-> number-up → Ep46 relationship → Ep47 mystery-resolved are now all distinct. Cookie finale is 48/48
-> distinct across the whole 49.)*
-
-**Ep 48 — "Matron"** *(K&)* — No ceremony, only the System logging what the house already settled. Liora
-accepts the word *Matron* without deflecting — the only thing ever really in question. The cost arrives
-in the same breath: a Matron is a regional problem now.
-🍪 relationship + number-up 🪝 warm 🧵 closes [L-LIORA].
-🌦️ Cool washed morning, big clouds and blue sky; the word *Matron* taken without flinching.
-*State:* **Acting Matron → Matron** (@48) · Liability→Belonging resolved · Bonds hold high (Cress 82,
-Bertram 86, Kraken 78, Corehound 80) · Hearthglow 3.
-
-**Ep 49 — "Recognized as Real"** *(S&S · ARC/BOOK CLIMAX)* — Briarwick is recognized official at Regional
-Renown — out-cared into legitimacy. Then Pike, who signed Rhea's erasure and knows the System obeys a
-dead woman's will, files for *custodian transfer*. The one door is left ajar.
-🍪 competence + warm-out 🪝 **warm-climax-then-one-door** (Pike's filing — appetite, not a fall) 🧵
-closes [L0]; leaves ajar [L-SERIES].
-🌦️ ✨ SET-PIECE — The storm breaks into clear sunrise under big clouds and blue sky; a falling star over the Moonwell, a wish, the door left ajar.
-*State:* Compliance 66→**100% (Recognized)** · Renown → **Regional** (@49) · Comfort **9** · Hab **88%** ·
-**Hearthglow 3** (warm but visibly spent — Book-2 fuel) · **Matron** · `L-SERIES` the single open door.
-
-> **Arc-4 / BOOK EXIT:** Comfort 9 · Hab 88% · Compliance 100% (Recognized) · Hearthglow 3 · Matron ·
-> Regional. All 16 closing loops paid LIFO; `L-SERIES` ajar.
-
----
-
-# (c) SEAM REPORT
-
-*The cross-arc integrity passes a single arc-generator could not see, plus reconciliation of the four
-logged flags. Nothing structural was silently changed; fixes are named, residuals are surfaced for the
-reviser.*
-
-## 1. Stat continuity (entry-state == prior exit-state)
-- **Arc1→Arc2 (Ep12→13):** Comfort 4 · Hab 34 · Compliance 41 · Hearthglow 9 · Custodian II ·
-  low-Neutral · Cress 52 / Cinder 44 / Bertram 48 / Kraken 31. **MATCH ✓**
-- **Arc2→Arc3 (Ep24→25):** Comfort 5 · Hab 48 · Compliance 58 · Hearthglow 7 · Custodian III ·
-  Town Ally · all bonds (Cress 63 / Cinder 60 / Bertram 57 / Kraken 55 / Kettle 40 / Corehound ~45 /
-  Phoenix 70 / Slime placed). **MATCH ✓**
-- **Arc3→Arc4 (Ep37→38):** Comfort 7 · Hab 63 · Compliance 66 · Hearthglow 12 · Acting Matron ·
-  Town Ally(high)/Regional-pending · all 7 bonds. **MATCH ✓**
-- Hearthglow chains 4→9→7→12→3 (the Arc-2 bite at Ep18 and the Arc-4 spend-to-floor both honored).
-  Compliance chains 13→41→58→66→100. Comfort 1→4→5→7→9. **No uncaused jump. PASS.**
-- **RESIDUAL FLAG A (F3/R2 — RESOLVED):** Arc-2's *internal* Habitat-Stability running tally
-  lands at **47%** by Ep22 (Ep17 36→42, Ep21 42→45, Ep22 45→47); the Arc-2 header, STATSPINE, and
-  the Arc-3 entry all declare exit **48%**. **Reconciled by the reviser:** a +1 idle-tick added at
-  **Ep23** (settled-house Hab 47→48) closes the 1-point gap, so the Arc-2 internal tally now equals
-  the declared 48% exit. No source-stat contradiction remains.
-
-## 2. Loop integrity (LIFO across arc boundaries)
-- All 17 loops open before they close; every loop seeded in the ledger pays on its scheduled chapter.
-- **LIFO close order holds across all three seams** and within arcs:
-  Ep3 `L-TRUST` → 19 `L-PHX` → 20 `L-SLIME` → 23 `L-KRAKEN` → 30 `L-SPORE` → 33 `L-CINDER`(partial) →
-  41 `L-PLACE`/`L-KETTLE` → 43 `L-FEAR` → 44 `L-STAB`/`L-ALARM` → 45 `L-INSPECT` → 46 `L-EAST` →
-  47 `L-EDDA`/`L-HEIR` → 48 `L-LIORA` → 49 `L0`. Deepest dolls first; spine (d2) in 47–48; book shell
-  (d1) last. **PASS.**
-- **Nothing dangles except `L-SERIES`** (depth 0), named Ep47, ajar at Ep49 (Pike's custodian-transfer
-  filing). `L-CINDER`'s send-off is a deliberate *partial* (match made Ep33, parting → Bk2) — a clean
-  G6 partial, not a second dangle (the pipeline itself closes on-page via Slime Ep20 + Kettle Ep41).
-  **PASS.**
-- Same-depth peer note: `L-SPORE` (d4, Ep30) closes before `L-CINDER` (d4, Ep33) — legal, peers don't
-  nest. **PASS.**
-
-## 3. Promise-ledger reconciliation (payoff schedule / no dry stretch)
-- Every architecture seed pays on time: spine seeds (`L-EDDA` 1→47 with markers 14/16/18/31;
-  `L-HEIR` 3→47; `L-SERIES` 1/18/31/47) and all short-term loops land on their LOOPMAP episodes.
-- **No long dry stretch.** Per the density audit there is no run of 2+ chapters without a live clock or
-  deepening mystery; the System voice-drift tachometer runs in all 49 by construction; closes are spaced
-  (3,19,20,23,30,33,41,43,44,45,46,47,48,49) so no payoff-gap exceeds the Arc-1 establish stretch
-  (which is intentional, vented by `L-TRUST`@3). **PASS.**
-
-## 4. Cookie/out continuity at seams (and full-49 re-verification)
-- **All three arc seams clean:** 12→13 competence→relationship · 24→25 mystery→competence ·
-  37→38 mystery→competence (no repeated cookie type; no seam with both sides hard-hook —
-  12 warm→13 soft, 24 soft→25 soft [soft-soft is legal], 37 warm→38 hard). **PASS at seams.**
-- **Full-book out-type audit (machine-checked):** no two hard-hooks adjacent; no three warm-outs in a
-  row; arc-outs alternate warm → soft-hook → warm-with-ache → warm-climax-then-door. **PASS.**
-- **Full-book cookie audit (machine-checked, all corrections folded + F1):** **48 of 48 adjacencies
-  distinct.** Corrections applied and reflected in the beat list: **Ep25→competence**,
-  **Ep31→competence**, **Ep38→competence**, **Ep39→relationship**, and **Ep46→relationship (F1)**.
-  Updated distribution: relationship 16 · competence 14 · mystery 10 · joke 5 · number-up 4 = 49.
-  Finale run now distinct: 45 number-up → 46 relationship → 47 mystery → 48 relationship + number-up
-  → 49 competence + warm-out.
-- **RESOLVED (F1, Stage-7 reviser):** Ep46 ↔ Ep47 mystery-mystery adjacency fixed by re-typing
-  **Ep46 → `relationship`** (the *meeting* with Edda / "Mm." recontextualized is a relationship beat;
-  the mystery still deepens beneath). New finale run: 45 number-up → 46 relationship → 47 mystery →
-  48 relationship → 49 competence — all distinct. **Cookie finale is now 48/48 distinct across the
-  whole 49; zero residual cookie-adjacency defects.** CADENCE.md Ch46 updated to match.
-
-## 5. Voice/tone continuity (arc-boundary spot-checks)
-- **Seam 12→13:** Ep12 warm-out closes on the cast gathered, "the tea did the last of the work" (dry,
-  in-register); Ep13 opens mid-action on the wing's incompatible needs. No lyrical drift; close-third on
-  Liora holds. ✓
-- **Seam 24→25:** Ep24 soft-hook on a name surfacing in Pike's filing (System reacts before Liora);
-  Ep25 opens on lichen creep + clean-with-care competence. Deadpan held; mystery carried by *use*, not
-  lament. ✓
-- **Seam 37→38:** Ep37 warm-with-ache (family as one organism; the ache is Rhea, named — then Pike's
-  shadow); Ep38 opens "as a clerk reads any form — for the loophole." Bureaucracy-as-metaphor intact;
-  no underline-me sentence. ✓
-- Tachometer (System voice-drift) increments are monotonic-warm across all four arcs, peaking at the
-  near-break (Ep40) and resolving warm (Ep46). **No `LITERARY-CONTAMINATED` drift at any seam. PASS.**
-
-## Reconciliation of the four logged arc-generator flags
-1. **Cinder intake Ep2 (canon C2 prose) vs Basking Nook / `L-CINDER` @ Ep4 (structure).**
-   **CONFIRMED COHERENT (split rendering kept).** Per CANON's conflict rule (prose wins for facts;
-   blueprint wins for structure): intake rendered Ep2 (Bond live 0→9% from Ep2, faithful to C2);
-   Basking Nook unlock + `L-CINDER` open + Bond-row formalization at Ep4 (faithful to structure).
-   The two reconcile through the Ep4 anchor (Cinder →44% by Ep12). **Residual (minor):** STATSPINE's
-   Bond row labels Cinder "— (arrives Ep4)" while the prose has Bond live from Ep2 — a cosmetic label
-   mismatch, not a stat discontinuity. Surfaced; not edited (single-source files are locked). Easily
-   collapsed to a single arrival if the reviser prefers. **[Stage-7: RESOLVED via F3/R4 — STATSPINE
-   Cinder row + canon-anchor note re-labelled to the split rendering, intake Ep2 / room+loop Ep4.]**
-2. **Acting-Matron rank: Ep24-pending vs Ep33-actual.** **PICKED Ep33-actual; made consistent.**
-   STATSPINE (the binding stat contract) and the rank ladder require *Town Ally + Archive opened* —
-   and the Archive opens Ep31 — so the title **cannot** land at Ep24. The beat list renders Ep24 as
-   *Custodian III + Acting-Matron-pending* and lands the actual title **@33** (Arc-3, after Archive).
-   **The outlier is CADENCE.md**, whose Ch24 cell and whole-book rank summary list "Acting Matron @24."
-   Flagged for the reviser: CADENCE's Ch24 rank label / summary should read "Custodian III @20; Acting
-   Matron @33" to match STATSPINE and the arc files. (I did not edit CADENCE.) **[Stage-7: RESOLVED via
-   F3/R3 — CADENCE.md Ch24 cell + rank summary now read Custodian III @20 / Acting Matron @33.]**
-3. **Cockatrice 58→60% Soothing-Song gate cleared @Ep43.** **CONFIRMED CLEAN — no fused use before
-   Ep43.** Cockatrice enters Arc 4 at 58%. Arc 3 explicitly deploys *no* Soothing Song. Eps 38–42
-   contain no Soothing-Song-fused Cockatrice beat; the bond crosses 58→78 (through 60) at **Ep43**
-   ("Exhibit A"), and only after that is the gate open. STATSPINE climax-legality flag 3 honored. **PASS.**
-4. **Cookie-law seam fixes Ep30/31 and Ep38/39.** **CONFIRMED across the whole 49 — with one residual.**
-   30/31: Ep31 reassigned competence (30 mystery → 31 competence) ✓. 38/39: Ep38 competence,
-   Ep39 relationship (37 mystery → 38 competence → 39 relationship → 40 mystery) ✓. The full-book
-   machine check passes **except the newly-surfaced Ep46/47 mystery-mystery adjacency** (Seam Report §4),
-   which is a *different* seam the per-arc generators did not flag and which I am surfacing rather than
-   fixing.
-
-## Guardrail sweep (whole-book, post-stitch)
-- **G1 LANE:** every threat aimed at home/found-family/way-of-life; dark metabolized to warmth; no loved
-  creature lost; heat ≤4. **PASS.**
-- **G2 NOT-LITERARY:** every payoff delivered (documents, System lines, creature behaviors, stat
-  receipts); Liora's want legible each chapter; no lyrical drift at seams. **PASS (token `COMMERCIAL`).**
-- **G3 STAT CONTRACT:** strict CANON skill order; every gain books upkeep; Arc-N entry = Arc-(N-1) exit
-  (flag-A arithmetic now reconciled via the Ep23 +1 idle-tick, F3/R2); no ability used before its row.
-  **PASS.**
-- **G4 COOKIE LAW:** ≥1 cookie/chapter; **48/48 adjacencies distinct** after F1 (Ep46→relationship).
-  **PASS — no residual.**
-- **G5 ANTI-PLATEAU:** live clock or deepening mystery in all 49; no 2-chapter dead run. **PASS.**
-- **G6 NO CLIFFHANGER CRUELTY:** every chapter/arc resolves-then-opens; arc-outs alternate correctly; the
-  Book-1 ender is appetite, not a fall. **PASS.**
-
-## Residual flags for the reviser
-- **R1 (G4, structural) — RESOLVED (F1):** Ep46↔Ep47 both `mystery` cookie, adjacent — re-typed Ep46
-  to `relationship`. Cookie finale now 48/48 distinct. *No residual cookie-adjacency defect.*
-- **R2 (G3, cosmetic arithmetic) — RESOLVED (F3):** Arc-2 Habitat-Stability tally lands 47% at Ep22 vs
-  declared exit 48% — reconciled by a +1 idle-tick at Ep23 (Hab 47→48).
-- **R3 (cross-file consistency) — RESOLVED (F3):** CADENCE.md Ch24 cell + rank summary now read
-  Custodian III @20 / Acting Matron @33 (precondition Archive@31), matching STATSPINE and the arc files.
-- **R4 (cosmetic label) — RESOLVED (F3):** STATSPINE Cinder Bond row now reads "intake Ep2 (canon C2;
-  Bond live from Ep2) / Basking-Nook + `L-CINDER` formalize Ep4" — harmonized to the split rendering.
-
-**RESIDUAL FLAG COUNT: 4 — ALL RESOLVED by Stage-7 reviser** (R1→F1 cookie re-type; R2→F3 idle-tick;
-R3→F3 CADENCE rank label; R4→F3 STATSPINE Cinder label). No silent structural fixes were made; see the
-Revision Changelog at the end of this file.
-
-**— END OF OUTLINE.draft.md · Stage 5 Seam Welder —**
-
----
 
 # (d) REVISION CHANGELOG — Stage 7 Targeted Reviser
 

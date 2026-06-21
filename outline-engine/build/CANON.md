@@ -113,8 +113,9 @@ series-door behind Pike; whether Rhea and Edda are the same thread or two.
 - **NPC Rapport %** (Stardew-style relationship stat): heart-tiers Stranger→Acquaintance→
   Friend→Confidant→Dear; grown by shared scenes, gifts (recipes), and help; tracked for
   Sorrel/Fen/Quill/Grindle/Wynn/Tamsin/Maren/Holloway/Otto. Behaviour-earned, has upkeep.
-- **Romance:** Liora × **Dr. Sorrel** — light **sapphic slow-burn** (Sorrel written she/her);
-  braids with the Edda grief-thread; capped at "almost" in Book 1, no kiss/declaration.
+- **Romance:** ⚠ SUPERSEDED — see "ROMANCE REVISION" below. The romance is **HET, Liora ×
+  Inspector Crane** (the earlier sapphic-Sorrel plan was dropped — Sorrel is too old, she
+  knew Edda; she is now the mentor/grief-mirror).
 
 ---
 ## ROMANCE REVISION (canon — supersedes the prior Sorrel romance line)
