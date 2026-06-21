@@ -1,5 +1,12 @@
 # OUTLINE FORGE — RUN SUMMARY (Book 1)
 
+> ## ⟢ NOTE — this is the ORIGINAL Forge-run verdict (historical)
+> Substantial work followed this summary: a meticulous **red-team** (8 kills found & fixed —
+> see `redteam/RED-TEAM-REPORT.md` + `CYCLE-SUMMARY.md`), the **MAJOR-tier** pass, a
+> **lane-register** fix, the **cast expansion + het Crane romance** (`RELATIONSHIPS.md`), and
+> a **PRISM re-poll** (cozy 10 · story 9.8 · romance 8.5). The current outline is
+> `OUTLINE.draft.md` (v2 banner). Read this file as a snapshot, not the final state.
+
 *Full pipeline executed Stage 0→7, committed after every step. This file is the
 index to the build.*
 

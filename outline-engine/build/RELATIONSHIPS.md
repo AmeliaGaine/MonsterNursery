@@ -1,8 +1,8 @@
 # RELATIONSHIPS & HUMAN CAST — expansion (recast)
 
 *Answers: too-many-antagonists, more found-family humans, Stardew relationship stats,
-and the adventurer patrons. Romance = Dr. Sorrel, light sapphic slow-burn (the
-breakout-commercial choice for the cozy-fantasy lane). Contracts amended; scenes propagate.*
+and the adventurer patrons. **Romance = HET, Inspector Crane** (see ROMANCE REVISION at
+the end — the §4 sapphic-Sorrel plan below is SUPERSEDED). Contracts amended; scenes propagate.*
 
 ---
 
@@ -52,7 +52,9 @@ A new tracked stat mirroring creature **Bond Trust**, for named humans:
 
 ---
 
-## 4 — THE ROMANCE: Dr. Sorrel, light sapphic slow-burn
+## 4 — THE ROMANCE: Dr. Sorrel, light sapphic slow-burn  
+> ⚠ **SUPERSEDED by the ROMANCE REVISION at the end of this file.** Romance is now HET
+> (Inspector Crane); Sorrel reverted to mentor. This section is kept for provenance only.
 
 **Why her (commercial + structural):** the breakout cozy-fantasy comp (*Legends & Lattes*)
 is sapphic slow-burn; Sorrel is a peer with natural proximity (the Mending Room), shared

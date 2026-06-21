@@ -334,7 +334,8 @@ unaffordable-save trade-off (Arc 2) and a spent-to-the-floor climax (Arc 4).
 ## RELATIONSHIPS ADDENDUM — NPC Rapport spine (see RELATIONSHIPS.md)
 New tracked stat **Rapport %** per named human (mirrors creature Bond Trust). Principals'
 approximate arc (behaviour-earned; can stall if neglected):
-- **Sorrel (romance):** ~Ep16 Acquaintance → Ep17 Friend → Ep31/34 Confidant → Ep48/49 Dear.
+- **Crane (ROMANCE, het):** Ep25 Wary/adversary → Ep27-32 wary-thaw/Acquaintance → Ep34/36 Friend(conflicted) → Ep43/45 defects → Ep48/49 Dear ("almost").
+- **Sorrel (PLATONIC mentor):** ~Ep16 Acquaintance → Ep17 Friend → Ep31/34 Confidant (shared grief, NOT romance).
 - **Quill:** Stranger → Ep17/24 Acquaintance → Ep39 Friend → finale ally.
 - **Grindle:** Wary → Ep43 a chosen kindness → finale quiet-ally (low but positive).
 - **Wynn/Tamsin/Maren:** Acquaintance at adoption (Ep20/33/41) → Friend on first return-visit.

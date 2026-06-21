@@ -52,7 +52,7 @@ boundaries **Arc 1 = 1–12 · Arc 2 = 13–24 · Arc 3 = 25–37 · Arc 4 = 38�
 | `L-FEAR` | **C** | Town prejudice vs. the gentle cockatrice — can **fear be out-cared**? *(Pebble Garden)* | 26 | **43** | **3** | Yes — *relationship beat* (town turns Ally; pebbles gifted → Arc-4 exhibit A) |
 | `L-EAST` | **M** | Who/what is in the locked **East Wing**? | 30 (opened) | **46** | **3** | Yes — *relationship + heart* (Edda's terminal resolved; the meeting-Edda close → feeds `L0`; cookie = relationship per F1, mystery still deepens beneath) |
 | `L-INSPECT` | **E** | Will the Arc-4 **seizure-by-bureaucracy** close Briarwick? | 38 (clock starts) | **45** | **3** | Yes — *number-up + competence* (seizure survived by care + cleverness) |
-| `L-CINDER` | **E** | Can Cinder's "fire isn't harm" be proven via a real **match**? *(Basking Nook → forge-patron)* | 4 | **33** (match made AND sent off on-page — B2 fix) | **4** | Yes — *competence + warm-out* (the match is made on-page; the *parting* is deferred — clean partial payoff, G6) |
+| `L-CINDER` | **E** | Can Cinder's "fire isn't harm" be proven via a real **match**? *(Basking Nook → forge-patron (Tamsin))* | 4 | **33** (match made AND sent off on-page — B2 fix) | **4** | Yes — *competence + warm-out* (the match is made on-page; the *parting* is deferred — clean partial payoff, G6) |
 | `L-TRUST` | **C** | Will the **most fragile creature (Cress)** trust the ex-culler? *(Moonwell)* | 1 | **3** | **4** | Yes — *relationship beat* (innermost early demo of `L0` at single-creature scale) |
 | `L-KRAKEN` | **M** | Can the **Brew Pool** hospitality engine run without the Toad↔Kraken disaster? | 9 | **23** | **4** | Yes — *landed joke + number-up* (a perfect house-wide steep) |
 | `L-SPORE` | **M** | What lives behind the **West Wing larder**? *(canon sporeglow hinge)* | 18 | **30** | **4** | Yes — *mystery clue* (the sporeglow trail opens the East Wing → feeds `L-EDDA`/`L-EAST`) |
@@ -171,7 +171,7 @@ and it matches the authorial meaning of "live the reader is actively tracking."*
 | 13 | L-PLACE + L-PHX + L-SLIME + L-KETTLE (Fledgling Wing opens — 4 fosters seed) | **4** (peak) | OK (at target ceiling; intentional wave-2 burst) |
 | 14 | L-EDDA tick (origins) | 0 ST | OK (spine mystery foregrounded) |
 | 15 | L-PHX (progress, Cinder synergy) | 1 | OK |
-| 16 | L-CINDER (forge-patron) + L-EDDA/L-LIORA (Mending Room, Sorrel) | 1 | OK |
+| 16 | L-CINDER (forge-patron (Tamsin)) + L-EDDA/L-LIORA (Mending Room, Sorrel) | 1 | OK |
 | 17 | L-KRAKEN (scalding near-miss, frenemy dial) | 1 | OK |
 | 18 | L-SPORE (open, canon sporeglow) + L-SERIES/L-EDDA tick | 1 | OK |
 | 19 | **L-PHX (close)** | 1 | OK — vents pressure on schedule |
